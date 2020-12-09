@@ -6814,3 +6814,1160 @@ Caused by: java.io.EOFException: no more data available - expected end tag </pro
 2020-12-07 18:51:50,310 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   527 B     build\static\css\main.920a7a43.chunk.css
 2020-12-07 18:51:50,310 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
 2020-12-07 18:51:50,311 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - The project was built assuming it is hosted at /frontend_202012/.
+2020-12-07 18:51:50,311 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - You can control this with the homepage field in your package.json.
+2020-12-07 18:51:50,311 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-07 18:51:50,311 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - The build folder is ready to be deployed.
+2020-12-07 18:51:50,312 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-07 18:51:50,312 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Find out more about deployment here:
+2020-12-07 18:51:50,312 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-07 18:51:50,312 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   https://cra.link/deployment
+2020-12-07 18:51:50,312 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-07 18:51:50,684 [Worker-124: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-07 18:51:50,689 [Worker-124: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-12-07 18:51:50,690 [Worker-124: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-12-07 18:51:50,693 [Worker-124: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-07 18:51:50,693 [Worker-124: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\backend_202012\backend_202012-1\src\test\resources
+2020-12-07 18:51:50,694 [Worker-124: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of backend_202012-1
+2020-12-07 18:51:50,694 [Worker-124: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for backend_202012-1
+2020-12-07 18:51:50,700 [Worker-124: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-07 22:22:07,723 [Worker-139: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.backend_202012:backend_202012-1:0.0.1-SNAPSHOT @ C:\backend_202012\backend_202012-1\pom.xml.
+2020-12-07 22:22:24,596 [Worker-139: Building] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Running 'npm install' in c:\frontend_202012
+2020-12-07 22:23:50,198 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN tsutils@3.17.1 requires a peer of typescript@>=2.8.0 || >= 3.2.0-dev || >= 3.3.0-dev || >= 3.4.0-dev || >= 3.5.0-dev || >= 3.6.0-dev || >= 3.6.0-beta || >= 3.7.0-dev || >= 3.7.0-beta but none is installed. You must install peer dependencies yourself.
+2020-12-07 22:23:50,230 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@2.1.3 (node_modules\chokidar\node_modules\fsevents):
+2020-12-07 22:23:50,240 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@2.1.3: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+2020-12-07 22:23:50,253 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@2.2.1 (node_modules\fsevents):
+2020-12-07 22:23:50,268 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@2.2.1: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+2020-12-07 22:23:50,281 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.13 (node_modules\watchpack-chokidar2\node_modules\fsevents):
+2020-12-07 22:23:50,300 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.13: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+2020-12-07 22:23:50,310 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - removed 8 packages and audited 1884 packages in 72.953s
+2020-12-07 22:23:50,317 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.13 (node_modules\webpack-dev-server\node_modules\fsevents):
+2020-12-07 22:23:50,332 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.13: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+2020-12-07 22:23:50,354 [Exec Stream Pumper] ERROR c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-07 22:23:54,181 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-07 22:23:54,181 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 123 packages are looking for funding
+2020-12-07 22:23:54,182 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   run `npm fund` for details
+2020-12-07 22:23:54,182 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-07 22:23:54,183 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - found 0 vulnerabilities
+2020-12-07 22:23:54,183 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-07 22:23:54,287 [Worker-139: Building] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Running 'npm run build' in c:\frontend_202012
+2020-12-07 22:23:55,797 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-07 22:23:55,797 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - > frontend_202012@0.1.0 build c:\frontend_202012
+2020-12-07 22:23:55,797 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - > react-scripts build
+2020-12-07 22:23:55,798 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-07 22:24:50,743 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Creating an optimized production build...
+2020-12-07 22:26:07,990 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Compiled with warnings.
+2020-12-07 22:26:07,990 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-07 22:26:07,991 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - src\GridTest2.js
+2020-12-07 22:26:07,991 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 35:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-07 22:26:07,991 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-07 22:26:07,991 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Search for the keywords to learn more about each warning.
+2020-12-07 22:26:07,991 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - To ignore, add // eslint-disable-next-line to the line before.
+2020-12-07 22:26:07,991 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-07 22:26:07,992 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - File sizes after gzip:
+2020-12-07 22:26:07,992 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-07 22:26:08,036 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   77.65 KB  build\static\js\2.b3b78fcc.chunk.js
+2020-12-07 22:26:08,037 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   1.41 KB   build\static\js\main.b0b24d2c.chunk.js
+2020-12-07 22:26:08,037 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   1.4 KB    build\static\js\3.de3f874e.chunk.js
+2020-12-07 22:26:08,037 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   1.17 KB   build\static\js\runtime-main.0442dfba.js
+2020-12-07 22:26:08,037 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   527 B     build\static\css\main.920a7a43.chunk.css
+2020-12-07 22:26:08,037 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-07 22:26:08,037 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - The project was built assuming it is hosted at /frontend_202012/.
+2020-12-07 22:26:08,037 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - You can control this with the homepage field in your package.json.
+2020-12-07 22:26:08,038 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-07 22:26:08,038 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - The build folder is ready to be deployed.
+2020-12-07 22:26:08,038 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-07 22:26:08,038 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Find out more about deployment here:
+2020-12-07 22:26:08,038 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-07 22:26:08,038 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   https://cra.link/deployment
+2020-12-07 22:26:08,039 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-07 22:26:10,234 [Worker-139: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-07 22:26:10,241 [Worker-139: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-12-07 22:26:10,242 [Worker-139: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-12-07 22:26:10,246 [Worker-139: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-07 22:26:10,247 [Worker-139: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\backend_202012\backend_202012-1\src\test\resources
+2020-12-07 22:26:10,248 [Worker-139: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of backend_202012-1
+2020-12-07 22:26:10,248 [Worker-139: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for backend_202012-1
+2020-12-07 22:26:10,257 [Worker-139: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-07 22:26:20,192 [Worker-142: Building] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Running 'npm install' in c:\frontend_202012
+2020-12-07 22:26:57,564 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN tsutils@3.17.1 requires a peer of typescript@>=2.8.0 || >= 3.2.0-dev || >= 3.3.0-dev || >= 3.4.0-dev || >= 3.5.0-dev || >= 3.6.0-dev || >= 3.6.0-beta || >= 3.7.0-dev || >= 3.7.0-beta but none is installed. You must install peer dependencies yourself.
+2020-12-07 22:26:57,599 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.13 (node_modules\watchpack-chokidar2\node_modules\fsevents):
+2020-12-07 22:26:57,616 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.13: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+2020-12-07 22:26:57,634 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@2.1.3 (node_modules\chokidar\node_modules\fsevents):
+2020-12-07 22:26:57,653 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@2.1.3: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+2020-12-07 22:26:57,809 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@2.2.1 (node_modules\fsevents):
+2020-12-07 22:26:57,831 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@2.2.1: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+2020-12-07 22:26:57,865 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.13 (node_modules\webpack-dev-server\node_modules\fsevents):
+2020-12-07 22:26:57,866 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - removed 8 packages and audited 1884 packages in 31.528s
+2020-12-07 22:26:57,879 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.13: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+2020-12-07 22:26:57,892 [Exec Stream Pumper] ERROR c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-07 22:27:01,495 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-07 22:27:01,495 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 123 packages are looking for funding
+2020-12-07 22:27:01,495 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   run `npm fund` for details
+2020-12-07 22:27:01,496 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-07 22:27:01,497 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - found 0 vulnerabilities
+2020-12-07 22:27:01,497 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-07 22:27:01,611 [Worker-142: Building] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Running 'npm run build' in c:\frontend_202012
+2020-12-07 22:27:03,366 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-07 22:27:03,366 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - > frontend_202012@0.1.0 build c:\frontend_202012
+2020-12-07 22:27:03,367 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - > react-scripts build
+2020-12-07 22:27:03,367 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-07 22:27:19,483 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Creating an optimized production build...
+2020-12-07 22:27:47,371 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Compiled with warnings.
+2020-12-07 22:27:47,371 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-07 22:27:47,372 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - src\GridTest2.js
+2020-12-07 22:27:47,372 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 35:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-07 22:27:47,372 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-07 22:27:47,372 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Search for the keywords to learn more about each warning.
+2020-12-07 22:27:47,373 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - To ignore, add // eslint-disable-next-line to the line before.
+2020-12-07 22:27:47,373 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-07 22:27:47,373 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - File sizes after gzip:
+2020-12-07 22:27:47,373 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-07 22:27:47,405 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   77.65 KB  build\static\js\2.b3b78fcc.chunk.js
+2020-12-07 22:27:47,405 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   1.41 KB   build\static\js\main.b0b24d2c.chunk.js
+2020-12-07 22:27:47,405 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   1.4 KB    build\static\js\3.de3f874e.chunk.js
+2020-12-07 22:27:47,405 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   1.17 KB   build\static\js\runtime-main.0442dfba.js
+2020-12-07 22:27:47,405 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   527 B     build\static\css\main.920a7a43.chunk.css
+2020-12-07 22:27:47,406 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-07 22:27:47,406 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - The project was built assuming it is hosted at /frontend_202012/.
+2020-12-07 22:27:47,406 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - You can control this with the homepage field in your package.json.
+2020-12-07 22:27:47,406 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-07 22:27:47,406 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - The build folder is ready to be deployed.
+2020-12-07 22:27:47,407 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-07 22:27:47,407 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Find out more about deployment here:
+2020-12-07 22:27:47,407 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-07 22:27:47,407 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   https://cra.link/deployment
+2020-12-07 22:27:47,407 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-07 22:27:49,283 [Worker-142: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-07 22:27:49,289 [Worker-142: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-12-07 22:27:49,291 [Worker-142: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-12-07 22:27:49,312 [Worker-142: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-07 22:27:49,312 [Worker-142: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\backend_202012\backend_202012-1\src\test\resources
+2020-12-07 22:31:15,232 [Worker-142: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-12-07 22:31:23,059 [Worker-142: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.backend_202012:backend_202012-1:0.0.1-SNAPSHOT @ C:\backend_202012\backend_202012-1\pom.xml.
+2020-12-07 22:31:32,179 [Worker-142: Updating Maven Project] INFO  c.g.e.m.p.f.lib.NodeInstaller - Node v14.15.1 is already installed.
+2020-12-07 22:31:32,519 [Worker-142: Updating Maven Project] INFO  c.g.e.m.p.frontend.lib.NPMInstaller - NPM 6.14.8 is already installed.
+2020-12-07 22:31:32,757 [Worker-142: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /backend_202012-1/src/main/java
+2020-12-07 22:31:32,758 [Worker-142: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /backend_202012-1/src/main/resources
+2020-12-07 22:31:32,759 [Worker-142: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /backend_202012-1/src/main/resources
+2020-12-07 22:31:32,760 [Worker-142: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /backend_202012-1/src/test/java
+2020-12-07 22:31:45,085 [Worker-142: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for backend_202012-1
+2020-12-07 22:31:45,148 [Worker-142: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 29 sec
+2020-12-07 22:31:48,293 [Worker-145: Building] INFO  c.g.e.m.p.f.lib.NodeInstaller - Node v14.15.1 is already installed.
+2020-12-07 22:31:48,640 [Worker-145: Building] INFO  c.g.e.m.p.frontend.lib.NPMInstaller - NPM 6.14.8 is already installed.
+2020-12-07 22:31:48,646 [Worker-145: Building] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Running 'npm install' in c:\frontend_202012
+2020-12-07 22:32:24,511 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN tsutils@3.17.1 requires a peer of typescript@>=2.8.0 || >= 3.2.0-dev || >= 3.3.0-dev || >= 3.4.0-dev || >= 3.5.0-dev || >= 3.6.0-dev || >= 3.6.0-beta || >= 3.7.0-dev || >= 3.7.0-beta but none is installed. You must install peer dependencies yourself.
+2020-12-07 22:32:24,541 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@2.1.3 (node_modules\chokidar\node_modules\fsevents):
+2020-12-07 22:32:24,555 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@2.1.3: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+2020-12-07 22:32:24,582 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@2.2.1 (node_modules\fsevents):
+2020-12-07 22:32:24,594 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@2.2.1: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+2020-12-07 22:32:24,609 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.13 (node_modules\webpack-dev-server\node_modules\fsevents):
+2020-12-07 22:32:24,626 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.13: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+2020-12-07 22:32:24,644 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.13 (node_modules\watchpack-chokidar2\node_modules\fsevents):
+2020-12-07 22:32:24,653 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - removed 8 packages and audited 1884 packages in 32.433s
+2020-12-07 22:32:24,658 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.13: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+2020-12-07 22:32:24,702 [Exec Stream Pumper] ERROR c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-07 22:32:27,434 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-07 22:32:27,435 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 123 packages are looking for funding
+2020-12-07 22:32:27,435 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   run `npm fund` for details
+2020-12-07 22:32:27,435 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-07 22:32:27,437 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - found 0 vulnerabilities
+2020-12-07 22:32:27,438 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-07 22:32:27,590 [Worker-145: Building] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Running 'npm run build' in c:\frontend_202012
+2020-12-07 22:32:29,036 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-07 22:32:29,036 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - > frontend_202012@0.1.0 build c:\frontend_202012
+2020-12-07 22:32:29,037 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - > react-scripts build
+2020-12-07 22:32:29,037 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-07 22:32:37,934 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Creating an optimized production build...
+2020-12-07 22:33:20,382 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Compiled with warnings.
+2020-12-07 22:33:20,383 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-07 22:33:20,384 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - src\GridTest2.js
+2020-12-07 22:33:20,384 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 35:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-07 22:33:20,384 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-07 22:33:20,385 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Search for the keywords to learn more about each warning.
+2020-12-07 22:33:20,385 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - To ignore, add // eslint-disable-next-line to the line before.
+2020-12-07 22:33:20,385 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-07 22:33:20,385 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - File sizes after gzip:
+2020-12-07 22:33:20,385 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-07 22:33:20,434 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   77.65 KB  build\static\js\2.b3b78fcc.chunk.js
+2020-12-07 22:33:20,434 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   1.41 KB   build\static\js\main.b0b24d2c.chunk.js
+2020-12-07 22:33:20,434 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   1.4 KB    build\static\js\3.de3f874e.chunk.js
+2020-12-07 22:33:20,436 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   1.17 KB   build\static\js\runtime-main.0442dfba.js
+2020-12-07 22:33:20,436 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   527 B     build\static\css\main.920a7a43.chunk.css
+2020-12-07 22:33:20,436 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-07 22:33:20,437 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - The project was built assuming it is hosted at /frontend_202012/.
+2020-12-07 22:33:20,438 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - You can control this with the homepage field in your package.json.
+2020-12-07 22:33:20,438 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-07 22:33:20,438 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - The build folder is ready to be deployed.
+2020-12-07 22:33:20,439 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-07 22:33:20,439 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Find out more about deployment here:
+2020-12-07 22:33:20,439 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-07 22:33:20,439 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   https://cra.link/deployment
+2020-12-07 22:33:20,439 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-07 22:33:21,061 [Worker-145: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-07 22:33:21,062 [Worker-145: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-12-07 22:33:21,096 [Worker-145: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-12-07 22:33:21,100 [Worker-145: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-07 22:33:21,101 [Worker-145: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\backend_202012\backend_202012-1\src\test\resources
+2020-12-07 22:33:21,101 [Worker-145: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of backend_202012-1
+2020-12-07 22:33:21,101 [Worker-145: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for backend_202012-1
+2020-12-07 22:33:21,105 [Worker-145: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-07 22:48:58,771 [Worker-154: Building] ERROR o.e.m.c.i.p.r.ProjectRegistryManager - Could not read pom.xml
+org.eclipse.core.runtime.CoreException: Could not read pom.xml
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:560)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refreshPhase2(ProjectRegistryManager.java:562)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:518)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:364)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:315)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.getProjectFacade(MavenBuilder.java:151)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.lambda$0(MavenBuilder.java:89)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:88)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:197)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:832)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:220)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:263)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:316)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:319)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:371)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:392)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:154)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:244)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.apache.maven.model.io.ModelParseException: entity reference names can not start with character ' ' (position: END_TAG seen ...\ub450\ubc88\uc9f8 \ubc29\ubc95\uc744 \uc0ac\uc6a9\ud574\ubcf4\ub3c4\ub85d \ud558\uc790.\n\t\t\t\ub2e4\uc74c \ud504\ub85c\uc81d\ud2b8\uc5d0\uc11c\ub294 \uaf2d Gradle \ub3c4 \uc0ac\uc6a9\ud574\ubcf4\uc790.\n\n\t\t\t3. \uc2a4\ud504\ub9c1\ubd80\ud2b8 & ... @131:15) 
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:117)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:85)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:558)
+	... 23 common frames omitted
+Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: entity reference names can not start with character ' ' (position: END_TAG seen ...\ub450\ubc88\uc9f8 \ubc29\ubc95\uc744 \uc0ac\uc6a9\ud574\ubcf4\ub3c4\ub85d \ud558\uc790.\n\t\t\t\ub2e4\uc74c \ud504\ub85c\uc81d\ud2b8\uc5d0\uc11c\ub294 \uaf2d Gradle \ub3c4 \uc0ac\uc6a9\ud574\ubcf4\uc790.\n\n\t\t\t3. \uc2a4\ud504\ub9c1\ubd80\ud2b8 & ... @131:15) 
+	at org.codehaus.plexus.util.xml.pull.MXParser.parseEntityRef(MXParser.java:2754)
+	at org.codehaus.plexus.util.xml.pull.MXParser.nextImpl(MXParser.java:1542)
+	at org.codehaus.plexus.util.xml.pull.MXParser.next(MXParser.java:1319)
+	at org.codehaus.plexus.util.xml.pull.MXParser.nextTag(MXParser.java:1302)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseBuild(MavenXpp3Reader.java:984)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseModel(MavenXpp3Reader.java:2281)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:3872)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:595)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:112)
+	... 25 common frames omitted
+2020-12-07 22:49:02,533 [Worker-154: Building] ERROR o.e.m.c.i.p.r.ProjectRegistryManager - Could not read pom.xml
+org.eclipse.core.runtime.CoreException: Could not read pom.xml
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:560)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refreshPhase2(ProjectRegistryManager.java:562)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:518)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:364)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:315)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.getProjectFacade(MavenBuilder.java:151)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.lambda$0(MavenBuilder.java:89)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:88)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:197)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:832)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:220)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:263)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:316)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:319)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:371)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:392)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:154)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:244)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.apache.maven.model.io.ModelParseException: entity reference names can not start with character ' ' (position: END_TAG seen ...\ub450\ubc88\uc9f8 \ubc29\ubc95\uc744 \uc0ac\uc6a9\ud574\ubcf4\ub3c4\ub85d \ud558\uc790.\n\t\t\t\ub2e4\uc74c \ud504\ub85c\uc81d\ud2b8\uc5d0\uc11c\ub294 \uaf2d Gradle \ub3c4 \uc0ac\uc6a9\ud574\ubcf4\uc790.\n\n\t\t\t3. \uc2a4\ud504\ub9c1\ubd80\ud2b8 & ... @131:15) 
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:117)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:85)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:558)
+	... 23 common frames omitted
+Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: entity reference names can not start with character ' ' (position: END_TAG seen ...\ub450\ubc88\uc9f8 \ubc29\ubc95\uc744 \uc0ac\uc6a9\ud574\ubcf4\ub3c4\ub85d \ud558\uc790.\n\t\t\t\ub2e4\uc74c \ud504\ub85c\uc81d\ud2b8\uc5d0\uc11c\ub294 \uaf2d Gradle \ub3c4 \uc0ac\uc6a9\ud574\ubcf4\uc790.\n\n\t\t\t3. \uc2a4\ud504\ub9c1\ubd80\ud2b8 & ... @131:15) 
+	at org.codehaus.plexus.util.xml.pull.MXParser.parseEntityRef(MXParser.java:2754)
+	at org.codehaus.plexus.util.xml.pull.MXParser.nextImpl(MXParser.java:1542)
+	at org.codehaus.plexus.util.xml.pull.MXParser.next(MXParser.java:1319)
+	at org.codehaus.plexus.util.xml.pull.MXParser.nextTag(MXParser.java:1302)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseBuild(MavenXpp3Reader.java:984)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseModel(MavenXpp3Reader.java:2281)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:3872)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:595)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:112)
+	... 25 common frames omitted
+2020-12-07 22:49:41,638 [Worker-145: reload maven project] ERROR o.e.m.c.i.p.r.ProjectRegistryManager - Failed to read Maven project: Some problems were encountered while processing the POMs:
+[FATAL] Non-parseable POM C:\backend_202012\backend_202012-1\pom.xml: entity reference names can not start with character ' ' (position: END_TAG seen ...\ub450\ubc88\uc9f8 \ubc29\ubc95\uc744 \uc0ac\uc6a9\ud574\ubcf4\ub3c4\ub85d \ud558\uc790.\n\t\t\t\ub2e4\uc74c \ud504\ub85c\uc81d\ud2b8\uc5d0\uc11c\ub294 \uaf2d Gradle \ub3c4 \uc0ac\uc6a9\ud574\ubcf4\uc790.\n\n\t\t\t3. \uc2a4\ud504\ub9c1\ubd80\ud2b8 & ... @131:15)  @ line 131, column 15
+
+org.apache.maven.project.ProjectBuildingException: Some problems were encountered while processing the POMs:
+[FATAL] Non-parseable POM C:\backend_202012\backend_202012-1\pom.xml: entity reference names can not start with character ' ' (position: END_TAG seen ...\ub450\ubc88\uc9f8 \ubc29\ubc95\uc744 \uc0ac\uc6a9\ud574\ubcf4\ub3c4\ub85d \ud558\uc790.\n\t\t\t\ub2e4\uc74c \ud504\ub85c\uc81d\ud2b8\uc5d0\uc11c\ub294 \uaf2d Gradle \ub3c4 \uc0ac\uc6a9\ud574\ubcf4\uc790.\n\n\t\t\t3. \uc2a4\ud504\ub9c1\ubd80\ud2b8 & ... @131:15)  @ line 131, column 15
+
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readMavenProjects(MavenImpl.java:676)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.lambda$13(ProjectRegistryManager.java:870)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.execute(ProjectRegistryManager.java:1027)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.readProjectsWithDependencies(ProjectRegistryManager.java:866)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.create(ProjectRegistryManager.java:210)
+	at org.eclipse.m2e.core.internal.project.registry.MavenProjectManager.create(MavenProjectManager.java:81)
+	at org.eclipse.m2e.core.ui.internal.actions.SelectionUtil.getMavenProject(SelectionUtil.java:259)
+	at org.eclipse.m2e.editor.pom.MavenPomEditor.readMavenProject(MavenPomEditor.java:634)
+	at org.eclipse.m2e.editor.pom.MavenPomEditor$3.run(MavenPomEditor.java:938)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2020-12-07 22:49:41,774 [Worker-156: Building] ERROR o.e.m.c.i.p.r.ProjectRegistryManager - Could not read pom.xml
+org.eclipse.core.runtime.CoreException: Could not read pom.xml
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:560)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refreshPhase2(ProjectRegistryManager.java:562)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:518)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:364)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:315)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.getProjectFacade(MavenBuilder.java:151)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.lambda$0(MavenBuilder.java:89)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:88)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:197)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:832)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:220)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:263)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:316)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:319)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:371)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:392)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:154)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:244)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.apache.maven.model.io.ModelParseException: entity reference names can not start with character ' ' (position: END_TAG seen ...\ub450\ubc88\uc9f8 \ubc29\ubc95\uc744 \uc0ac\uc6a9\ud574\ubcf4\ub3c4\ub85d \ud558\uc790.\n\t\t\t\ub2e4\uc74c \ud504\ub85c\uc81d\ud2b8\uc5d0\uc11c\ub294 \uaf2d Gradle \ub3c4 \uc0ac\uc6a9\ud574\ubcf4\uc790.\n\n\t\t\t3. \uc2a4\ud504\ub9c1\ubd80\ud2b8 & ... @131:15) 
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:117)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:85)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:558)
+	... 23 common frames omitted
+Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: entity reference names can not start with character ' ' (position: END_TAG seen ...\ub450\ubc88\uc9f8 \ubc29\ubc95\uc744 \uc0ac\uc6a9\ud574\ubcf4\ub3c4\ub85d \ud558\uc790.\n\t\t\t\ub2e4\uc74c \ud504\ub85c\uc81d\ud2b8\uc5d0\uc11c\ub294 \uaf2d Gradle \ub3c4 \uc0ac\uc6a9\ud574\ubcf4\uc790.\n\n\t\t\t3. \uc2a4\ud504\ub9c1\ubd80\ud2b8 & ... @131:15) 
+	at org.codehaus.plexus.util.xml.pull.MXParser.parseEntityRef(MXParser.java:2754)
+	at org.codehaus.plexus.util.xml.pull.MXParser.nextImpl(MXParser.java:1542)
+	at org.codehaus.plexus.util.xml.pull.MXParser.next(MXParser.java:1319)
+	at org.codehaus.plexus.util.xml.pull.MXParser.nextTag(MXParser.java:1302)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseBuild(MavenXpp3Reader.java:984)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseModel(MavenXpp3Reader.java:2281)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:3872)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:595)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:112)
+	... 25 common frames omitted
+2020-12-07 22:56:14,055 [Worker-155: reload maven project] ERROR o.e.m.c.i.p.r.ProjectRegistryManager - Failed to read Maven project: Some problems were encountered while processing the POMs:
+[FATAL] Non-parseable POM C:\backend_202012\backend_202012-1\pom.xml: entity reference names can not start with character ' ' (position: END_TAG seen ...\ub450\ubc88\uc9f8 \ubc29\ubc95\uc744 \uc0ac\uc6a9\ud574\ubcf4\ub3c4\ub85d \ud558\uc790.\n\t\t\t\ub2e4\uc74c \ud504\ub85c\uc81d\ud2b8\uc5d0\uc11c\ub294 \uaf2d Gradle \ub3c4 \uc0ac\uc6a9\ud574\ubcf4\uc790.\n\n\t\t\t3. \uc2a4\ud504\ub9c1\ubd80\ud2b8 & ... @131:15)  @ line 131, column 15
+
+org.apache.maven.project.ProjectBuildingException: Some problems were encountered while processing the POMs:
+[FATAL] Non-parseable POM C:\backend_202012\backend_202012-1\pom.xml: entity reference names can not start with character ' ' (position: END_TAG seen ...\ub450\ubc88\uc9f8 \ubc29\ubc95\uc744 \uc0ac\uc6a9\ud574\ubcf4\ub3c4\ub85d \ud558\uc790.\n\t\t\t\ub2e4\uc74c \ud504\ub85c\uc81d\ud2b8\uc5d0\uc11c\ub294 \uaf2d Gradle \ub3c4 \uc0ac\uc6a9\ud574\ubcf4\uc790.\n\n\t\t\t3. \uc2a4\ud504\ub9c1\ubd80\ud2b8 & ... @131:15)  @ line 131, column 15
+
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readMavenProjects(MavenImpl.java:676)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.lambda$13(ProjectRegistryManager.java:870)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.execute(ProjectRegistryManager.java:1027)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.readProjectsWithDependencies(ProjectRegistryManager.java:866)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.create(ProjectRegistryManager.java:210)
+	at org.eclipse.m2e.core.internal.project.registry.MavenProjectManager.create(MavenProjectManager.java:81)
+	at org.eclipse.m2e.core.ui.internal.actions.SelectionUtil.getMavenProject(SelectionUtil.java:259)
+	at org.eclipse.m2e.editor.pom.MavenPomEditor.readMavenProject(MavenPomEditor.java:634)
+	at org.eclipse.m2e.editor.pom.MavenPomEditor$3.run(MavenPomEditor.java:938)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2020-12-07 22:56:14,201 [Worker-158: Building] ERROR o.e.m.c.i.p.r.ProjectRegistryManager - Could not read pom.xml
+org.eclipse.core.runtime.CoreException: Could not read pom.xml
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:560)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refreshPhase2(ProjectRegistryManager.java:562)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:518)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:364)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:315)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.getProjectFacade(MavenBuilder.java:151)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.lambda$0(MavenBuilder.java:89)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:88)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:197)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:832)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:220)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:263)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:316)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:319)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:371)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:392)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:154)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:244)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.apache.maven.model.io.ModelParseException: entity reference names can not start with character ' ' (position: END_TAG seen ...\ub450\ubc88\uc9f8 \ubc29\ubc95\uc744 \uc0ac\uc6a9\ud574\ubcf4\ub3c4\ub85d \ud558\uc790.\n\t\t\t\ub2e4\uc74c \ud504\ub85c\uc81d\ud2b8\uc5d0\uc11c\ub294 \uaf2d Gradle \ub3c4 \uc0ac\uc6a9\ud574\ubcf4\uc790.\n\n\t\t\t3. \uc2a4\ud504\ub9c1\ubd80\ud2b8 & ... @131:15) 
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:117)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:85)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:558)
+	... 23 common frames omitted
+Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: entity reference names can not start with character ' ' (position: END_TAG seen ...\ub450\ubc88\uc9f8 \ubc29\ubc95\uc744 \uc0ac\uc6a9\ud574\ubcf4\ub3c4\ub85d \ud558\uc790.\n\t\t\t\ub2e4\uc74c \ud504\ub85c\uc81d\ud2b8\uc5d0\uc11c\ub294 \uaf2d Gradle \ub3c4 \uc0ac\uc6a9\ud574\ubcf4\uc790.\n\n\t\t\t3. \uc2a4\ud504\ub9c1\ubd80\ud2b8 & ... @131:15) 
+	at org.codehaus.plexus.util.xml.pull.MXParser.parseEntityRef(MXParser.java:2754)
+	at org.codehaus.plexus.util.xml.pull.MXParser.nextImpl(MXParser.java:1542)
+	at org.codehaus.plexus.util.xml.pull.MXParser.next(MXParser.java:1319)
+	at org.codehaus.plexus.util.xml.pull.MXParser.nextTag(MXParser.java:1302)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseBuild(MavenXpp3Reader.java:984)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseModel(MavenXpp3Reader.java:2281)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:3872)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:595)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:112)
+	... 25 common frames omitted
+2020-12-07 22:57:25,137 [Worker-145: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.backend_202012:backend_202012-1:0.0.1-SNAPSHOT @ C:\backend_202012\backend_202012-1\pom.xml.
+2020-12-07 22:57:47,074 [Worker-145: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Skipping npm install as package.json unchanged
+2020-12-07 22:57:47,077 [Worker-145: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Skipping npm install as package.json unchanged
+2020-12-07 22:57:47,832 [Worker-145: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-07 22:57:47,838 [Worker-145: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-12-07 22:57:47,839 [Worker-145: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-12-07 22:57:47,871 [Worker-145: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-07 22:57:47,872 [Worker-145: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\backend_202012\backend_202012-1\src\test\resources
+2020-12-07 22:57:47,872 [Worker-145: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of backend_202012-1
+2020-12-07 22:57:47,872 [Worker-145: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for backend_202012-1
+2020-12-07 22:57:47,879 [Worker-145: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-07 22:57:59,881 [Worker-145: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Skipping npm install as package.json unchanged
+2020-12-07 22:57:59,883 [Worker-145: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Skipping npm install as package.json unchanged
+2020-12-07 22:58:00,977 [Worker-145: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-07 22:58:00,987 [Worker-145: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-12-07 22:58:01,035 [Worker-145: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-12-07 22:58:01,041 [Worker-145: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-07 22:58:01,042 [Worker-145: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\backend_202012\backend_202012-1\src\test\resources
+2020-12-07 22:58:24,347 [Worker-159: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-12-07 22:58:28,482 [Worker-159: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.backend_202012:backend_202012-1:0.0.1-SNAPSHOT @ C:\backend_202012\backend_202012-1\pom.xml.
+2020-12-07 22:58:33,057 [Worker-159: Updating Maven Project] INFO  c.g.e.m.p.f.lib.NodeInstaller - Installing node version v12.16.1
+2020-12-07 22:58:33,059 [Worker-159: Updating Maven Project] INFO  c.g.e.m.p.f.lib.NodeInstaller - Downloading https://nodejs.org/dist/v12.16.1/win-x64/node.exe to C:\Users\workstation\.m2\repository\com\github\eirslett\node\12.16.1\node-12.16.1-win-x64.exe
+2020-12-07 22:58:33,062 [Worker-159: Updating Maven Project] INFO  c.g.e.m.p.frontend.lib.ProxyConfig - No proxies configured
+2020-12-07 22:58:33,062 [Worker-159: Updating Maven Project] INFO  c.g.e.m.p.f.lib.FileDownloader - No proxy was configured, downloading directly
+2020-12-07 22:58:39,325 [Worker-159: Updating Maven Project] INFO  c.g.e.m.p.f.lib.NodeInstaller - Copying node binary from C:\Users\workstation\.m2\repository\com\github\eirslett\node\12.16.1\node-12.16.1-win-x64.exe to C:\backend_202012\backend_202012-1\target\node\node.exe
+2020-12-07 22:58:40,473 [Worker-159: Updating Maven Project] INFO  c.g.e.m.p.f.lib.NodeInstaller - Installed node locally.
+2020-12-07 22:58:41,100 [Worker-159: Updating Maven Project] INFO  c.g.e.m.p.frontend.lib.NPMInstaller - NPM 6.14.8 was installed, but we need version 6.14.0
+2020-12-07 22:58:41,101 [Worker-159: Updating Maven Project] INFO  c.g.e.m.p.frontend.lib.NPMInstaller - Installing npm version 6.14.0
+2020-12-07 22:58:41,102 [Worker-159: Updating Maven Project] INFO  c.g.e.m.p.frontend.lib.NPMInstaller - Downloading https://registry.npmjs.org/npm/-/npm-6.14.0.tgz to C:\Users\workstation\.m2\repository\com\github\eirslett\npm\6.14.0\npm-6.14.0.tar.gz
+2020-12-07 22:58:41,102 [Worker-159: Updating Maven Project] INFO  c.g.e.m.p.frontend.lib.ProxyConfig - No proxies configured
+2020-12-07 22:58:41,102 [Worker-159: Updating Maven Project] INFO  c.g.e.m.p.f.lib.FileDownloader - No proxy was configured, downloading directly
+2020-12-07 22:59:12,675 [Worker-159: Updating Maven Project] INFO  c.g.e.m.p.frontend.lib.NPMInstaller - Unpacking C:\Users\workstation\.m2\repository\com\github\eirslett\npm\6.14.0\npm-6.14.0.tar.gz into C:\backend_202012\backend_202012-1\target\node\node_modules
+2020-12-07 23:00:54,369 [Worker-159: Updating Maven Project] INFO  c.g.e.m.p.frontend.lib.NPMInstaller - Installed npm locally.
+2020-12-07 23:00:58,559 [Worker-155: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-12-07 23:01:03,285 [Worker-155: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.backend_202012:backend_202012-1:0.0.1-SNAPSHOT @ C:\backend_202012\backend_202012-1\pom.xml.
+2020-12-07 23:01:08,710 [Worker-155: Updating Maven Project] INFO  c.g.e.m.p.f.lib.NodeInstaller - Installing node version v12.16.1
+2020-12-07 23:01:08,712 [Worker-155: Updating Maven Project] INFO  c.g.e.m.p.f.lib.NodeInstaller - Copying node binary from C:\Users\workstation\.m2\repository\com\github\eirslett\node\12.16.1\node-12.16.1-win-x64.exe to C:\backend_202012\backend_202012-1\target\node\node.exe
+2020-12-07 23:01:10,044 [Worker-155: Updating Maven Project] INFO  c.g.e.m.p.f.lib.NodeInstaller - Installed node locally.
+2020-12-07 23:01:10,388 [Worker-155: Updating Maven Project] INFO  c.g.e.m.p.frontend.lib.NPMInstaller - NPM 6.14.0 is already installed.
+2020-12-07 23:01:10,897 [Worker-155: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /backend_202012-1/src/main/java
+2020-12-07 23:01:10,898 [Worker-155: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /backend_202012-1/src/main/resources
+2020-12-07 23:01:10,899 [Worker-155: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /backend_202012-1/src/main/resources
+2020-12-07 23:01:10,900 [Worker-155: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /backend_202012-1/src/test/java
+2020-12-07 23:01:15,284 [Worker-155: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for backend_202012-1
+2020-12-07 23:01:15,353 [Worker-155: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 16 sec
+2020-12-07 23:01:19,557 [Worker-158: Building] INFO  c.g.e.m.p.f.lib.NodeInstaller - Installing node version v12.16.1
+2020-12-07 23:01:19,559 [Worker-158: Building] INFO  c.g.e.m.p.f.lib.NodeInstaller - Copying node binary from C:\Users\workstation\.m2\repository\com\github\eirslett\node\12.16.1\node-12.16.1-win-x64.exe to C:\backend_202012\backend_202012-1\target\node\node.exe
+2020-12-07 23:01:20,666 [Worker-158: Building] INFO  c.g.e.m.p.f.lib.NodeInstaller - Installed node locally.
+2020-12-07 23:01:21,094 [Worker-158: Building] INFO  c.g.e.m.p.frontend.lib.NPMInstaller - NPM 6.14.0 is already installed.
+2020-12-07 23:01:21,099 [Worker-158: Building] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Running 'npm install' in C:\backend_202012\backend_202012-1\frontend
+2020-12-07 23:01:21,110 [Worker-158: Building] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Running 'npm run build' in C:\backend_202012\backend_202012-1\frontend
+2020-12-07 23:01:21,846 [Worker-158: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-07 23:01:21,849 [Worker-158: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-12-07 23:01:21,899 [Worker-158: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-12-07 23:01:21,905 [Worker-158: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-07 23:01:21,906 [Worker-158: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\backend_202012\backend_202012-1\src\test\resources
+2020-12-07 23:01:21,906 [Worker-158: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of backend_202012-1
+2020-12-07 23:01:21,906 [Worker-158: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for backend_202012-1
+2020-12-07 23:01:21,915 [Worker-158: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-07 23:02:17,583 [Worker-158: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-12-07 23:02:21,937 [Worker-158: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.backend_202012:backend_202012-1:0.0.1-SNAPSHOT @ C:\backend_202012\backend_202012-1\pom.xml.
+2020-12-07 23:02:25,897 [Worker-158: Updating Maven Project] INFO  c.g.e.m.p.f.lib.NodeInstaller - Installing node version v12.16.1
+2020-12-07 23:02:25,901 [Worker-158: Updating Maven Project] INFO  c.g.e.m.p.f.lib.NodeInstaller - Copying node binary from C:\Users\workstation\.m2\repository\com\github\eirslett\node\12.16.1\node-12.16.1-win-x64.exe to C:\backend_202012\backend_202012-1\target\node\node.exe
+2020-12-07 23:02:27,263 [Worker-158: Updating Maven Project] INFO  c.g.e.m.p.f.lib.NodeInstaller - Installed node locally.
+2020-12-07 23:02:27,620 [Worker-158: Updating Maven Project] INFO  c.g.e.m.p.frontend.lib.NPMInstaller - NPM 6.14.0 is already installed.
+2020-12-07 23:02:27,878 [Worker-158: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /backend_202012-1/src/main/java
+2020-12-07 23:02:27,880 [Worker-158: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /backend_202012-1/src/main/resources
+2020-12-07 23:02:27,881 [Worker-158: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /backend_202012-1/src/main/resources
+2020-12-07 23:02:27,883 [Worker-158: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /backend_202012-1/src/test/java
+2020-12-07 23:02:30,834 [Worker-158: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for backend_202012-1
+2020-12-07 23:02:30,865 [Worker-158: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 13 sec
+2020-12-07 23:02:33,734 [Worker-145: Building] INFO  c.g.e.m.p.f.lib.NodeInstaller - Installing node version v12.16.1
+2020-12-07 23:02:33,736 [Worker-145: Building] INFO  c.g.e.m.p.f.lib.NodeInstaller - Copying node binary from C:\Users\workstation\.m2\repository\com\github\eirslett\node\12.16.1\node-12.16.1-win-x64.exe to C:\backend_202012\backend_202012-1\target\node\node.exe
+2020-12-07 23:02:34,690 [Worker-145: Building] INFO  c.g.e.m.p.f.lib.NodeInstaller - Installed node locally.
+2020-12-07 23:02:34,939 [Worker-145: Building] INFO  c.g.e.m.p.frontend.lib.NPMInstaller - NPM 6.14.0 is already installed.
+2020-12-07 23:02:34,942 [Worker-145: Building] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Running 'npm install' in C:\backend_202012\backend_202012-1\frontend
+2020-12-07 23:02:34,945 [Worker-145: Building] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Running 'npm run build' in C:\backend_202012\backend_202012-1\frontend
+2020-12-07 23:02:35,384 [Worker-145: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-07 23:02:35,385 [Worker-145: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-12-07 23:02:35,404 [Worker-145: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-12-07 23:02:35,408 [Worker-145: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-07 23:02:35,409 [Worker-145: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\backend_202012\backend_202012-1\src\test\resources
+2020-12-07 23:02:35,410 [Worker-145: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of backend_202012-1
+2020-12-07 23:02:35,410 [Worker-145: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for backend_202012-1
+2020-12-07 23:02:35,415 [Worker-145: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-07 23:05:06,244 [Worker-145: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.backend_202012:backend_202012-1:0.0.1-SNAPSHOT @ C:\backend_202012\backend_202012-1\pom.xml.
+2020-12-07 23:05:10,489 [Worker-145: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Skipping npm install as package.json unchanged
+2020-12-07 23:05:10,491 [Worker-145: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Skipping npm install as package.json unchanged
+2020-12-07 23:05:10,767 [Worker-145: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-07 23:05:10,771 [Worker-145: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-12-07 23:05:10,796 [Worker-145: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-12-07 23:05:10,799 [Worker-145: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-07 23:05:10,799 [Worker-145: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\backend_202012\backend_202012-1\src\test\resources
+2020-12-07 23:05:10,800 [Worker-145: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of backend_202012-1
+2020-12-07 23:05:10,801 [Worker-145: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for backend_202012-1
+2020-12-07 23:05:10,808 [Worker-145: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-07 23:05:35,607 [Worker-168: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Skipping npm install as package.json unchanged
+2020-12-07 23:05:35,608 [Worker-168: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Skipping npm install as package.json unchanged
+2020-12-07 23:05:36,077 [Worker-168: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-07 23:05:36,081 [Worker-168: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-12-07 23:05:36,082 [Worker-168: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-12-07 23:05:36,085 [Worker-168: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-07 23:05:36,086 [Worker-168: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\backend_202012\backend_202012-1\src\test\resources
+2020-12-07 23:08:26,567 [Worker-165: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.backend_202012:backend_202012-1:0.0.1-SNAPSHOT @ C:\backend_202012\backend_202012-1\pom.xml.
+2020-12-07 23:08:30,258 [Worker-165: Building] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Running 'npm install' in c:\frontend_202012
+2020-12-07 23:09:43,349 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN tsutils@3.17.1 requires a peer of typescript@>=2.8.0 || >= 3.2.0-dev || >= 3.3.0-dev || >= 3.4.0-dev || >= 3.5.0-dev || >= 3.6.0-dev || >= 3.6.0-beta || >= 3.7.0-dev || >= 3.7.0-beta but none is installed. You must install peer dependencies yourself.
+2020-12-07 23:09:43,364 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@2.2.1 (node_modules\fsevents):
+2020-12-07 23:09:43,380 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@2.2.1: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+2020-12-07 23:09:43,398 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@2.1.3 (node_modules\chokidar\node_modules\fsevents):
+2020-12-07 23:09:43,399 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - removed 8 packages and audited 1884 packages in 60.71s
+2020-12-07 23:09:43,434 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@2.1.3: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+2020-12-07 23:09:43,460 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.13 (node_modules\watchpack-chokidar2\node_modules\fsevents):
+2020-12-07 23:09:43,552 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.13: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+2020-12-07 23:09:43,601 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.13 (node_modules\webpack-dev-server\node_modules\fsevents):
+2020-12-07 23:09:43,655 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.13: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+2020-12-07 23:09:43,704 [Exec Stream Pumper] ERROR c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-07 23:09:48,327 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-07 23:09:48,328 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 123 packages are looking for funding
+2020-12-07 23:09:48,328 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   run `npm fund` for details
+2020-12-07 23:09:48,328 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-07 23:09:48,329 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - found 0 vulnerabilities
+2020-12-07 23:09:48,329 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-07 23:09:48,465 [Worker-165: Building] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Running 'npm run build' in c:\frontend_202012
+2020-12-07 23:09:50,508 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-07 23:09:50,509 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - > frontend_202012@0.1.0 build c:\frontend_202012
+2020-12-07 23:09:50,509 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - > react-scripts build
+2020-12-07 23:09:50,509 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-07 23:10:26,970 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Creating an optimized production build...
+2020-12-07 23:11:27,608 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Compiled with warnings.
+2020-12-07 23:11:27,609 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-07 23:11:27,610 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - src\GridTest2.js
+2020-12-07 23:11:27,610 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 35:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-07 23:11:27,611 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-07 23:11:27,611 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Search for the keywords to learn more about each warning.
+2020-12-07 23:11:27,612 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - To ignore, add // eslint-disable-next-line to the line before.
+2020-12-07 23:11:27,612 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-07 23:11:27,612 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - File sizes after gzip:
+2020-12-07 23:11:27,612 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-07 23:11:27,655 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   77.65 KB  build\static\js\2.b3b78fcc.chunk.js
+2020-12-07 23:11:27,655 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   1.41 KB   build\static\js\main.b0b24d2c.chunk.js
+2020-12-07 23:11:27,656 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   1.4 KB    build\static\js\3.de3f874e.chunk.js
+2020-12-07 23:11:27,656 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   1.17 KB   build\static\js\runtime-main.0442dfba.js
+2020-12-07 23:11:27,658 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   527 B     build\static\css\main.920a7a43.chunk.css
+2020-12-07 23:11:27,658 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-07 23:11:27,659 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - The project was built assuming it is hosted at /frontend_202012/.
+2020-12-07 23:11:27,660 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - You can control this with the homepage field in your package.json.
+2020-12-07 23:11:27,660 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-07 23:11:27,660 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - The build folder is ready to be deployed.
+2020-12-07 23:11:27,660 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-07 23:11:27,660 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Find out more about deployment here:
+2020-12-07 23:11:27,660 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-07 23:11:27,660 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   https://cra.link/deployment
+2020-12-07 23:11:27,661 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-07 23:11:28,185 [Worker-165: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-07 23:11:28,190 [Worker-165: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-12-07 23:11:28,224 [Worker-165: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-12-07 23:11:28,226 [Worker-165: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-07 23:11:28,226 [Worker-165: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\backend_202012\backend_202012-1\src\test\resources
+2020-12-07 23:11:28,226 [Worker-165: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of backend_202012-1
+2020-12-07 23:11:28,226 [Worker-165: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for backend_202012-1
+2020-12-07 23:11:28,232 [Worker-165: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-07 23:11:31,944 [Worker-145: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.backend_202012:backend_202012-1:0.0.1-SNAPSHOT @ C:\backend_202012\backend_202012-1\pom.xml.
+2020-12-07 23:11:35,847 [Worker-145: Building] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Running 'npm install' in c:\frontend_202012
+2020-12-07 23:12:09,062 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN tsutils@3.17.1 requires a peer of typescript@>=2.8.0 || >= 3.2.0-dev || >= 3.3.0-dev || >= 3.4.0-dev || >= 3.5.0-dev || >= 3.6.0-dev || >= 3.6.0-beta || >= 3.7.0-dev || >= 3.7.0-beta but none is installed. You must install peer dependencies yourself.
+2020-12-07 23:12:09,065 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - removed 8 packages and audited 1884 packages in 29.733s
+2020-12-07 23:12:09,073 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@2.2.1 (node_modules\fsevents):
+2020-12-07 23:12:09,097 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@2.2.1: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+2020-12-07 23:12:09,134 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@2.1.3 (node_modules\chokidar\node_modules\fsevents):
+2020-12-07 23:12:09,148 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@2.1.3: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+2020-12-07 23:12:09,165 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.13 (node_modules\watchpack-chokidar2\node_modules\fsevents):
+2020-12-07 23:12:09,185 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.13: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+2020-12-07 23:12:09,198 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.13 (node_modules\webpack-dev-server\node_modules\fsevents):
+2020-12-07 23:12:09,223 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.13: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+2020-12-07 23:12:09,241 [Exec Stream Pumper] ERROR c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-07 23:12:12,341 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-07 23:12:12,342 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 123 packages are looking for funding
+2020-12-07 23:12:12,342 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   run `npm fund` for details
+2020-12-07 23:12:12,342 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-07 23:12:12,342 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - found 0 vulnerabilities
+2020-12-07 23:12:12,342 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-07 23:12:12,436 [Worker-145: Building] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Running 'npm run build' in c:\frontend_202012
+2020-12-07 23:12:13,870 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-07 23:12:13,870 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - > frontend_202012@0.1.0 build c:\frontend_202012
+2020-12-07 23:12:13,870 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - > react-scripts build
+2020-12-07 23:12:13,870 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-07 23:12:23,266 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Creating an optimized production build...
+2020-12-07 23:12:48,679 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Compiled with warnings.
+2020-12-07 23:12:48,679 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-07 23:12:48,680 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - src\GridTest2.js
+2020-12-07 23:12:48,680 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 35:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-07 23:12:48,680 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-07 23:12:48,680 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Search for the keywords to learn more about each warning.
+2020-12-07 23:12:48,681 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - To ignore, add // eslint-disable-next-line to the line before.
+2020-12-07 23:12:48,681 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-07 23:12:48,681 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - File sizes after gzip:
+2020-12-07 23:12:48,681 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-07 23:12:48,719 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   77.65 KB  build\static\js\2.b3b78fcc.chunk.js
+2020-12-07 23:12:48,720 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   1.41 KB   build\static\js\main.b0b24d2c.chunk.js
+2020-12-07 23:12:48,721 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   1.4 KB    build\static\js\3.de3f874e.chunk.js
+2020-12-07 23:12:48,721 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   1.17 KB   build\static\js\runtime-main.0442dfba.js
+2020-12-07 23:12:48,721 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   527 B     build\static\css\main.920a7a43.chunk.css
+2020-12-07 23:12:48,721 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-07 23:12:48,722 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - The project was built assuming it is hosted at /frontend_202012/.
+2020-12-07 23:12:48,723 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - You can control this with the homepage field in your package.json.
+2020-12-07 23:12:48,723 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-07 23:12:48,723 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - The build folder is ready to be deployed.
+2020-12-07 23:12:48,723 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-07 23:12:48,723 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Find out more about deployment here:
+2020-12-07 23:12:48,723 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-07 23:12:48,724 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   https://cra.link/deployment
+2020-12-07 23:12:48,724 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-07 23:12:49,113 [Worker-145: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-07 23:12:49,118 [Worker-145: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-12-07 23:12:49,119 [Worker-145: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-12-07 23:12:49,125 [Worker-145: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-07 23:12:49,126 [Worker-145: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\backend_202012\backend_202012-1\src\test\resources
+2020-12-07 23:12:49,126 [Worker-145: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of backend_202012-1
+2020-12-07 23:12:49,127 [Worker-145: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for backend_202012-1
+2020-12-07 23:12:49,134 [Worker-145: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-08 10:55:48,532 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2020-12-08 10:56:33,338 [Worker-12: Building] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Running 'npm install' in c:\frontend_202012
+2020-12-08 10:57:39,258 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN tsutils@3.17.1 requires a peer of typescript@>=2.8.0 || >= 3.2.0-dev || >= 3.3.0-dev || >= 3.4.0-dev || >= 3.5.0-dev || >= 3.6.0-dev || >= 3.6.0-beta || >= 3.7.0-dev || >= 3.7.0-beta but none is installed. You must install peer dependencies yourself.
+2020-12-08 10:57:39,301 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@2.1.3 (node_modules\chokidar\node_modules\fsevents):
+2020-12-08 10:57:39,315 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@2.1.3: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+2020-12-08 10:57:39,343 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@2.2.1 (node_modules\fsevents):
+2020-12-08 10:57:39,362 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@2.2.1: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+2020-12-08 10:57:39,383 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.13 (node_modules\watchpack-chokidar2\node_modules\fsevents):
+2020-12-08 10:57:39,401 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.13: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+2020-12-08 10:57:39,417 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.13 (node_modules\webpack-dev-server\node_modules\fsevents):
+2020-12-08 10:57:39,417 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - removed 8 packages and audited 1884 packages in 51.901s
+2020-12-08 10:57:39,438 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.13: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+2020-12-08 10:57:39,470 [Exec Stream Pumper] ERROR c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-08 10:57:43,414 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-08 10:57:43,415 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 123 packages are looking for funding
+2020-12-08 10:57:43,415 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   run `npm fund` for details
+2020-12-08 10:57:43,416 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-08 10:57:43,416 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - found 0 vulnerabilities
+2020-12-08 10:57:43,416 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-08 10:57:43,566 [Worker-12: Building] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Running 'npm run build' in c:\frontend_202012
+2020-12-08 10:57:45,432 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-08 10:57:45,433 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - > frontend_202012@0.1.0 build c:\frontend_202012
+2020-12-08 10:57:45,433 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - > react-scripts build
+2020-12-08 10:57:45,434 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-08 10:58:32,350 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Creating an optimized production build...
+2020-12-08 10:59:51,550 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Compiled with warnings.
+2020-12-08 10:59:51,551 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-08 10:59:51,551 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - src\GridTest2.js
+2020-12-08 10:59:51,552 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 35:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-08 10:59:51,552 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-08 10:59:51,552 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Search for the keywords to learn more about each warning.
+2020-12-08 10:59:51,552 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - To ignore, add // eslint-disable-next-line to the line before.
+2020-12-08 10:59:51,553 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-08 10:59:51,553 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - File sizes after gzip:
+2020-12-08 10:59:51,553 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-08 10:59:51,588 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   77.65 KB  build\static\js\2.b3b78fcc.chunk.js
+2020-12-08 10:59:51,588 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   1.41 KB   build\static\js\main.b0b24d2c.chunk.js
+2020-12-08 10:59:51,588 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   1.4 KB    build\static\js\3.de3f874e.chunk.js
+2020-12-08 10:59:51,588 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   1.17 KB   build\static\js\runtime-main.0442dfba.js
+2020-12-08 10:59:51,588 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   527 B     build\static\css\main.920a7a43.chunk.css
+2020-12-08 10:59:51,589 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-08 10:59:51,589 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - The project was built assuming it is hosted at /frontend_202012/.
+2020-12-08 10:59:51,589 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - You can control this with the homepage field in your package.json.
+2020-12-08 10:59:51,589 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-08 10:59:51,589 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - The build folder is ready to be deployed.
+2020-12-08 10:59:51,590 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-08 10:59:51,590 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Find out more about deployment here:
+2020-12-08 10:59:51,590 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-08 10:59:51,591 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   https://cra.link/deployment
+2020-12-08 10:59:51,591 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-08 10:59:54,157 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-08 10:59:54,166 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-12-08 10:59:54,203 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-12-08 10:59:54,215 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-08 10:59:54,221 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\backend_202012\backend_202012-1\src\test\resources
+2020-12-08 14:13:04,998 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-12-09 17:48:05,730 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2020-12-09 17:48:56,812 [Worker-14: Building] INFO  c.g.e.m.p.f.lib.NodeInstaller - Node v14.15.1 is already installed.
+2020-12-09 17:49:01,055 [Worker-14: Building] INFO  c.g.e.m.p.frontend.lib.NPMInstaller - NPM 6.14.8 is already installed.
+2020-12-09 17:49:01,076 [Worker-14: Building] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Running 'npm install' in c:\frontend_202012
+2020-12-09 17:50:25,691 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN tsutils@3.17.1 requires a peer of typescript@>=2.8.0 || >= 3.2.0-dev || >= 3.3.0-dev || >= 3.4.0-dev || >= 3.5.0-dev || >= 3.6.0-dev || >= 3.6.0-beta || >= 3.7.0-dev || >= 3.7.0-beta but none is installed. You must install peer dependencies yourself.
+2020-12-09 17:50:25,791 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@2.2.1 (node_modules\fsevents):
+2020-12-09 17:50:25,833 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@2.2.1: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+2020-12-09 17:50:25,941 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@2.1.3 (node_modules\chokidar\node_modules\fsevents):
+2020-12-09 17:50:25,989 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@2.1.3: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+2020-12-09 17:50:26,013 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.13 (node_modules\watchpack-chokidar2\node_modules\fsevents):
+2020-12-09 17:50:26,030 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.13: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+2020-12-09 17:50:26,065 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.13 (node_modules\webpack-dev-server\node_modules\fsevents):
+2020-12-09 17:50:26,076 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - removed 8 packages and audited 1884 packages in 68.439s
+2020-12-09 17:50:26,082 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.13: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+2020-12-09 17:50:26,099 [Exec Stream Pumper] ERROR c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-09 17:50:32,699 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-09 17:50:32,700 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 123 packages are looking for funding
+2020-12-09 17:50:32,700 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   run `npm fund` for details
+2020-12-09 17:50:32,700 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-09 17:50:32,701 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - found 0 vulnerabilities
+2020-12-09 17:50:32,701 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-09 17:50:33,484 [Worker-14: Building] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Running 'npm run build' in c:\frontend_202012
+2020-12-09 17:50:38,664 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-09 17:50:38,665 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - > frontend_202012@0.1.0 build c:\frontend_202012
+2020-12-09 17:50:38,666 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - > react-scripts build
+2020-12-09 17:50:38,666 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-09 17:51:25,404 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Creating an optimized production build...
+2020-12-09 17:53:04,853 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Compiled with warnings.
+2020-12-09 17:53:04,854 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-09 17:53:04,855 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - src\GridTest.js
+2020-12-09 17:53:04,856 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 26:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-09 17:53:04,856 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 35:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-09 17:53:04,857 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 45:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-09 17:53:04,857 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 55:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-09 17:53:04,857 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 65:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-09 17:53:04,857 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 75:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-09 17:53:04,857 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 85:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-09 17:53:04,857 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 96:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-09 17:53:04,858 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-09 17:53:04,858 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - src\GridTest2.js
+2020-12-09 17:53:04,858 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 50:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-09 17:53:04,858 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 59:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-09 17:53:04,859 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-09 17:53:04,859 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Search for the keywords to learn more about each warning.
+2020-12-09 17:53:04,859 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - To ignore, add // eslint-disable-next-line to the line before.
+2020-12-09 17:53:04,859 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-09 17:53:04,859 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - File sizes after gzip:
+2020-12-09 17:53:04,859 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-09 17:53:04,888 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   77.65 KB (-482 B)  build\static\js\2.28a3113f.chunk.js
+2020-12-09 17:53:04,889 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   1.77 KB (+260 B)   build\static\js\main.47665ad9.chunk.js
+2020-12-09 17:53:04,889 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   1.4 KB (+1 B)      build\static\js\3.75663f43.chunk.js
+2020-12-09 17:53:04,889 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   1.18 KB (+2 B)     build\static\js\runtime-main.931c1841.js
+2020-12-09 17:53:04,889 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   543 B              build\static\css\main.510619e5.chunk.css
+2020-12-09 17:53:04,889 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-09 17:53:04,889 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - The project was built assuming it is hosted at /frontend_202012/.
+2020-12-09 17:53:04,889 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - You can control this with the homepage field in your package.json.
+2020-12-09 17:53:04,889 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-09 17:53:04,889 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - The build folder is ready to be deployed.
+2020-12-09 17:53:04,889 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-09 17:53:04,890 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Find out more about deployment here:
+2020-12-09 17:53:04,890 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-09 17:53:04,890 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   https://cra.link/deployment
+2020-12-09 17:53:04,890 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-09 17:53:08,514 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-09 17:53:08,554 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-12-09 17:53:08,599 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-12-09 17:53:08,603 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-09 17:53:08,604 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\backend_202012\backend_202012-1\src\test\resources
+2020-12-09 21:03:00,857 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-12-09 21:52:24,242 [Worker-23: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-12-09 21:52:44,661 [Worker-23: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.backend_202012:backend_202012-1:0.0.1-SNAPSHOT @ C:\backend_202012\backend_202012-1\pom.xml.
+2020-12-09 21:53:20,992 [Worker-23: Updating Maven Project] INFO  c.g.e.m.p.f.lib.NodeInstaller - Node v14.15.1 is already installed.
+2020-12-09 21:53:21,939 [Worker-23: Updating Maven Project] INFO  c.g.e.m.p.frontend.lib.NPMInstaller - NPM 6.14.8 is already installed.
+2020-12-09 21:53:23,211 [Worker-23: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /backend_202012-1/src/main/java
+2020-12-09 21:53:23,213 [Worker-23: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /backend_202012-1/src/main/resources
+2020-12-09 21:53:23,215 [Worker-23: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /backend_202012-1/src/main/resources
+2020-12-09 21:53:23,217 [Worker-23: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /backend_202012-1/src/test/java
+2020-12-09 21:53:34,957 [Worker-23: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for backend_202012-1
+2020-12-09 21:53:35,091 [Worker-23: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 70 sec
+2020-12-09 21:53:42,148 [Worker-30: Building] INFO  c.g.e.m.p.f.lib.NodeInstaller - Node v14.15.1 is already installed.
+2020-12-09 21:53:42,154 [Worker-30: Building] INFO  c.g.e.m.p.frontend.lib.NPMInstaller - NPM 6.14.8 is already installed.
+2020-12-09 21:53:42,161 [Worker-30: Building] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Running 'npm install' in c:\frontend_202012
+2020-12-09 21:56:07,833 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN tsutils@3.17.1 requires a peer of typescript@>=2.8.0 || >= 3.2.0-dev || >= 3.3.0-dev || >= 3.4.0-dev || >= 3.5.0-dev || >= 3.6.0-dev || >= 3.6.0-beta || >= 3.7.0-dev || >= 3.7.0-beta but none is installed. You must install peer dependencies yourself.
+2020-12-09 21:56:07,909 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@2.1.3 (node_modules\chokidar\node_modules\fsevents):
+2020-12-09 21:56:07,923 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@2.1.3: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+2020-12-09 21:56:07,978 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@2.2.1 (node_modules\fsevents):
+2020-12-09 21:56:07,996 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@2.2.1: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+2020-12-09 21:56:08,044 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.13 (node_modules\webpack-dev-server\node_modules\fsevents):
+2020-12-09 21:56:08,061 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.13: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+2020-12-09 21:56:08,101 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.13 (node_modules\watchpack-chokidar2\node_modules\fsevents):
+2020-12-09 21:56:08,107 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - removed 8 packages and audited 1884 packages in 125.606s
+2020-12-09 21:56:08,118 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.13: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+2020-12-09 21:56:08,161 [Exec Stream Pumper] ERROR c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-09 21:56:20,473 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-09 21:56:20,474 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 123 packages are looking for funding
+2020-12-09 21:56:20,474 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   run `npm fund` for details
+2020-12-09 21:56:20,475 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-09 21:56:20,477 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - found 0 vulnerabilities
+2020-12-09 21:56:20,477 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-09 21:56:20,983 [Worker-30: Building] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Running 'npm run build' in c:\frontend_202012
+2020-12-09 21:56:30,247 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-09 21:56:30,248 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - > frontend_202012@0.1.0 build c:\frontend_202012
+2020-12-09 21:56:30,248 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - > react-scripts build
+2020-12-09 21:56:30,249 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-09 21:57:52,257 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Creating an optimized production build...
+2020-12-09 21:59:05,145 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Compiled with warnings.
+2020-12-09 21:59:05,146 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-09 21:59:05,146 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - src\GridTest.js
+2020-12-09 21:59:05,147 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 26:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-09 21:59:05,147 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 35:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-09 21:59:05,147 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 45:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-09 21:59:05,147 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 55:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-09 21:59:05,148 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 65:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-09 21:59:05,148 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 75:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-09 21:59:05,148 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 85:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-09 21:59:05,148 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 96:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-09 21:59:05,149 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-09 21:59:05,149 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - src\GridTest2.js
+2020-12-09 21:59:05,149 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 50:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-09 21:59:05,150 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 59:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-09 21:59:05,150 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-09 21:59:05,150 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Search for the keywords to learn more about each warning.
+2020-12-09 21:59:05,150 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - To ignore, add // eslint-disable-next-line to the line before.
+2020-12-09 21:59:05,150 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-09 21:59:05,150 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - File sizes after gzip:
+2020-12-09 21:59:05,151 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-09 21:59:05,183 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   77.65 KB  build\static\js\2.28a3113f.chunk.js
+2020-12-09 21:59:05,184 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   1.77 KB   build\static\js\main.47665ad9.chunk.js
+2020-12-09 21:59:05,184 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   1.4 KB    build\static\js\3.75663f43.chunk.js
+2020-12-09 21:59:05,184 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   1.18 KB   build\static\js\runtime-main.931c1841.js
+2020-12-09 21:59:05,184 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   543 B     build\static\css\main.510619e5.chunk.css
+2020-12-09 21:59:05,185 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-09 21:59:05,185 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - The project was built assuming it is hosted at /frontend_202012/.
+2020-12-09 21:59:05,186 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - You can control this with the homepage field in your package.json.
+2020-12-09 21:59:05,186 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-09 21:59:05,186 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - The build folder is ready to be deployed.
+2020-12-09 21:59:05,186 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-09 21:59:05,187 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Find out more about deployment here:
+2020-12-09 21:59:05,187 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-09 21:59:05,187 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   https://cra.link/deployment
+2020-12-09 21:59:05,187 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-09 21:59:05,418 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-09 21:59:05,428 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-12-09 21:59:05,466 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-12-09 21:59:05,470 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-09 21:59:05,470 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\backend_202012\backend_202012-1\src\test\resources
+2020-12-09 21:59:05,471 [Worker-30: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of backend_202012-1
+2020-12-09 21:59:05,471 [Worker-30: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for backend_202012-1
+2020-12-09 21:59:05,481 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-09 22:05:25,533 [Worker-28: Discover lifecycle mappings] INFO  o.e.m.i.discovery.MavenDiscovery - No lifecyle mapping found at jar:file:/C:/Users/WORKST~1/AppData/Local/Temp/RemoteBundleDiscoveryStrategy18068407755306411637.tmp/org.eclipse.m2e.discovery.oss_catalog_1.13.jar_3689250630789284897.jar!/lifecycle%2Forg.eclipse.m2e.discovery.lifecyclemapping.m2e-wtp.xml
+2020-12-09 22:05:25,535 [Worker-28: Discover lifecycle mappings] WARN  o.e.m.i.discovery.MavenDiscovery - CatalogItem org.eclipse.m2e.discovery.lifecyclemapping.m2e-wtp does not contain lifecycle mapping metadata
+2020-12-09 22:05:25,545 [Worker-28: Discover lifecycle mappings] INFO  o.e.m.i.discovery.MavenDiscovery - No lifecyle mapping found at jar:file:/C:/Users/WORKST~1/AppData/Local/Temp/RemoteBundleDiscoveryStrategy18068407755306411637.tmp/org.eclipse.m2e.discovery.oss_catalog_1.13.jar_3689250630789284897.jar!/lifecycle%2Forg.eclipse.m2e.discovery.lifecyclemapping.m2e-egit.xml
+2020-12-09 22:05:25,549 [Worker-28: Discover lifecycle mappings] WARN  o.e.m.i.discovery.MavenDiscovery - CatalogItem org.eclipse.m2e.discovery.lifecyclemapping.m2e-egit does not contain lifecycle mapping metadata
+2020-12-09 22:05:25,563 [Worker-28: Discover lifecycle mappings] INFO  o.e.m.i.discovery.MavenDiscovery - No lifecyle mapping found at jar:file:/C:/Users/WORKST~1/AppData/Local/Temp/RemoteBundleDiscoveryStrategy18068407755306411637.tmp/org.eclipse.m2e.discovery.oss_catalog_1.13.jar_3689250630789284897.jar!/lifecycle%2Forg.eclipse.m2e.discovery.lifecyclemapping.m2e-subversive.xml
+2020-12-09 22:05:25,566 [Worker-28: Discover lifecycle mappings] WARN  o.e.m.i.discovery.MavenDiscovery - CatalogItem org.eclipse.m2e.discovery.lifecyclemapping.m2e-subversive does not contain lifecycle mapping metadata
+2020-12-09 22:05:25,658 [Worker-28: Discover lifecycle mappings] INFO  o.e.m.i.discovery.MavenDiscovery - No lifecyle mapping found at jar:file:/C:/Users/WORKST~1/AppData/Local/Temp/RemoteBundleDiscoveryStrategy18068407755306411637.tmp/org.eclipse.m2e.discovery.oss_catalog_1.13.jar_3689250630789284897.jar!/lifecycle%2Forg.eclipse.m2e.discovery.extras.m2e-chromatic.xml
+2020-12-09 22:05:25,660 [Worker-28: Discover lifecycle mappings] WARN  o.e.m.i.discovery.MavenDiscovery - CatalogItem org.eclipse.m2e.discovery.extras.m2e-chromatic does not contain lifecycle mapping metadata
+2020-12-09 22:10:34,828 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-12-09 23:07:00,593 [Worker-18: Discover lifecycle mappings] INFO  o.e.m.i.discovery.MavenDiscovery - No lifecyle mapping found at jar:file:/C:/Users/WORKST~1/AppData/Local/Temp/RemoteBundleDiscoveryStrategy18026806491798289487.tmp/org.eclipse.m2e.discovery.oss_catalog_1.13.jar_17482576633557289006.jar!/lifecycle%2Forg.eclipse.m2e.discovery.lifecyclemapping.m2e-wtp.xml
+2020-12-09 23:07:00,594 [Worker-18: Discover lifecycle mappings] WARN  o.e.m.i.discovery.MavenDiscovery - CatalogItem org.eclipse.m2e.discovery.lifecyclemapping.m2e-wtp does not contain lifecycle mapping metadata
+2020-12-09 23:07:00,626 [Worker-18: Discover lifecycle mappings] INFO  o.e.m.i.discovery.MavenDiscovery - No lifecyle mapping found at jar:file:/C:/Users/WORKST~1/AppData/Local/Temp/RemoteBundleDiscoveryStrategy18026806491798289487.tmp/org.eclipse.m2e.discovery.oss_catalog_1.13.jar_17482576633557289006.jar!/lifecycle%2Forg.eclipse.m2e.discovery.lifecyclemapping.m2e-egit.xml
+2020-12-09 23:07:00,627 [Worker-18: Discover lifecycle mappings] WARN  o.e.m.i.discovery.MavenDiscovery - CatalogItem org.eclipse.m2e.discovery.lifecyclemapping.m2e-egit does not contain lifecycle mapping metadata
+2020-12-09 23:07:00,640 [Worker-18: Discover lifecycle mappings] INFO  o.e.m.i.discovery.MavenDiscovery - No lifecyle mapping found at jar:file:/C:/Users/WORKST~1/AppData/Local/Temp/RemoteBundleDiscoveryStrategy18026806491798289487.tmp/org.eclipse.m2e.discovery.oss_catalog_1.13.jar_17482576633557289006.jar!/lifecycle%2Forg.eclipse.m2e.discovery.lifecyclemapping.m2e-subversive.xml
+2020-12-09 23:07:00,641 [Worker-18: Discover lifecycle mappings] WARN  o.e.m.i.discovery.MavenDiscovery - CatalogItem org.eclipse.m2e.discovery.lifecyclemapping.m2e-subversive does not contain lifecycle mapping metadata
+2020-12-09 23:07:00,715 [Worker-18: Discover lifecycle mappings] INFO  o.e.m.i.discovery.MavenDiscovery - No lifecyle mapping found at jar:file:/C:/Users/WORKST~1/AppData/Local/Temp/RemoteBundleDiscoveryStrategy18026806491798289487.tmp/org.eclipse.m2e.discovery.oss_catalog_1.13.jar_17482576633557289006.jar!/lifecycle%2Forg.eclipse.m2e.discovery.extras.m2e-chromatic.xml
+2020-12-09 23:07:00,717 [Worker-18: Discover lifecycle mappings] WARN  o.e.m.i.discovery.MavenDiscovery - CatalogItem org.eclipse.m2e.discovery.extras.m2e-chromatic does not contain lifecycle mapping metadata
+2020-12-09 23:12:44,517 [Worker-25: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.backend_202012:backend_202012-1:0.0.1-SNAPSHOT @ C:\backend_202012\backend_202012-1\pom.xml.
+2020-12-09 23:12:46,734 [Worker-25: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-core/2.2/hamcrest-core-2.2.jar
+2020-12-09 23:12:47,178 [Worker-25: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-core/2.2/hamcrest-core-2.2.jar
+2020-12-09 23:13:00,826 [Worker-24: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-antrun-plugin/1.8/maven-antrun-plugin-1.8-sources.jar
+2020-12-09 23:13:01,197 [Worker-24: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-antrun-plugin/1.8/maven-antrun-plugin-1.8-sources.jar
+2020-12-09 23:13:02,415 [Worker-24: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.maven.plugins:maven-antrun-plugin:1.8
+2020-12-09 23:13:03,284 [Worker-24: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-api/2.2.1/maven-plugin-api-2.2.1-sources.jar
+2020-12-09 23:13:03,981 [Worker-25: Building] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Running 'npm install' in c:\frontend_202012
+2020-12-09 23:13:04,106 [Worker-24: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-api/2.2.1/maven-plugin-api-2.2.1-sources.jar
+2020-12-09 23:13:05,481 [Worker-24: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.maven:maven-plugin-api:2.2.1
+2020-12-09 23:13:06,356 [Worker-24: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-project/2.2.1/maven-project-2.2.1-sources.jar
+2020-12-09 23:13:06,990 [Worker-24: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-project/2.2.1/maven-project-2.2.1-sources.jar
+2020-12-09 23:13:07,295 [Worker-24: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.maven:maven-project:2.2.1
+2020-12-09 23:13:08,084 [Worker-24: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-settings/2.2.1/maven-settings-2.2.1-sources.jar
+2020-12-09 23:13:08,833 [Worker-24: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-settings/2.2.1/maven-settings-2.2.1-sources.jar
+2020-12-09 23:13:09,485 [Worker-24: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.maven:maven-settings:2.2.1
+2020-12-09 23:13:10,247 [Worker-24: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-profile/2.2.1/maven-profile-2.2.1-sources.jar
+2020-12-09 23:13:10,801 [Worker-24: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-profile/2.2.1/maven-profile-2.2.1-sources.jar
+2020-12-09 23:13:11,443 [Worker-24: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.maven:maven-profile:2.2.1
+2020-12-09 23:13:12,398 [Worker-24: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-model/2.2.1/maven-model-2.2.1-sources.jar
+2020-12-09 23:13:13,097 [Worker-24: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-model/2.2.1/maven-model-2.2.1-sources.jar
+2020-12-09 23:13:13,362 [Worker-24: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.maven:maven-model:2.2.1
+2020-12-09 23:13:14,516 [Worker-24: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-artifact-manager/2.2.1/maven-artifact-manager-2.2.1-sources.jar
+2020-12-09 23:13:14,973 [Worker-24: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-artifact-manager/2.2.1/maven-artifact-manager-2.2.1-sources.jar
+2020-12-09 23:13:15,182 [Worker-24: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.maven:maven-artifact-manager:2.2.1
+2020-12-09 23:13:15,986 [Worker-24: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-repository-metadata/2.2.1/maven-repository-metadata-2.2.1-sources.jar
+2020-12-09 23:13:16,378 [Worker-24: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-repository-metadata/2.2.1/maven-repository-metadata-2.2.1-sources.jar
+2020-12-09 23:13:16,905 [Worker-24: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.maven:maven-repository-metadata:2.2.1
+2020-12-09 23:13:17,824 [Worker-24: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/wagon/wagon-provider-api/1.0-beta-6/wagon-provider-api-1.0-beta-6-sources.jar
+2020-12-09 23:13:18,366 [Worker-24: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/wagon/wagon-provider-api/1.0-beta-6/wagon-provider-api-1.0-beta-6-sources.jar
+2020-12-09 23:13:18,629 [Worker-24: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.maven.wagon:wagon-provider-api:1.0-beta-6
+2020-12-09 23:13:19,463 [Worker-24: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/backport-util-concurrent/backport-util-concurrent/3.1/backport-util-concurrent-3.1-sources.jar
+2020-12-09 23:13:20,303 [Worker-24: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/backport-util-concurrent/backport-util-concurrent/3.1/backport-util-concurrent-3.1-sources.jar
+2020-12-09 23:13:20,617 [Worker-24: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for backport-util-concurrent:backport-util-concurrent:3.1
+2020-12-09 23:13:21,612 [Worker-24: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-registry/2.2.1/maven-plugin-registry-2.2.1-sources.jar
+2020-12-09 23:13:22,207 [Worker-24: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-registry/2.2.1/maven-plugin-registry-2.2.1-sources.jar
+2020-12-09 23:13:23,419 [Worker-24: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.maven:maven-plugin-registry:2.2.1
+2020-12-09 23:13:24,626 [Worker-24: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-interpolation/1.11/plexus-interpolation-1.11-sources.jar
+2020-12-09 23:13:25,163 [Worker-24: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-interpolation/1.11/plexus-interpolation-1.11-sources.jar
+2020-12-09 23:13:25,627 [Worker-24: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.codehaus.plexus:plexus-interpolation:1.11
+2020-12-09 23:13:26,633 [Worker-24: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-container-default/1.0-alpha-9-stable-1/plexus-container-default-1.0-alpha-9-stable-1-sources.jar
+2020-12-09 23:13:27,286 [Worker-24: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-container-default/1.0-alpha-9-stable-1/plexus-container-default-1.0-alpha-9-stable-1-sources.jar
+2020-12-09 23:13:27,684 [Worker-24: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.codehaus.plexus:plexus-container-default:1.0-alpha-9-stable-1
+2020-12-09 23:13:28,679 [Worker-24: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/junit/junit/4.13.1/junit-4.13.1-sources.jar
+2020-12-09 23:13:30,550 [Worker-24: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/junit/junit/4.13.1/junit-4.13.1-sources.jar
+2020-12-09 23:13:31,060 [Worker-24: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for junit:junit:4.13.1
+2020-12-09 23:13:32,058 [Worker-24: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-core/2.2/hamcrest-core-2.2-sources.jar
+2020-12-09 23:13:32,598 [Worker-24: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-core/2.2/hamcrest-core-2.2-sources.jar
+2020-12-09 23:13:33,151 [Worker-24: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.hamcrest:hamcrest-core:2.2
+2020-12-09 23:13:33,811 [Worker-24: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/classworlds/classworlds/1.1-alpha-2/classworlds-1.1-alpha-2-sources.jar
+2020-12-09 23:13:33,907 [Worker-24: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download sources for classworlds:classworlds:1.1-alpha-2
+org.eclipse.core.runtime.CoreException: Could not resolve artifact classworlds:classworlds:jar:sources:1.1-alpha-2
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:804)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:114)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:772)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:749)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:330)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:304)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:269)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:233)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:161)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2020-12-09 23:13:34,966 [Worker-24: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-artifact/2.2.1/maven-artifact-2.2.1-sources.jar
+2020-12-09 23:13:35,577 [Worker-24: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-artifact/2.2.1/maven-artifact-2.2.1-sources.jar
+2020-12-09 23:13:36,655 [Worker-24: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.maven:maven-artifact:2.2.1
+2020-12-09 23:13:37,696 [Worker-24: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/3.0.20/plexus-utils-3.0.20-sources.jar
+2020-12-09 23:13:38,585 [Worker-24: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/3.0.20/plexus-utils-3.0.20-sources.jar
+2020-12-09 23:13:39,063 [Worker-24: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.codehaus.plexus:plexus-utils:3.0.20
+2020-12-09 23:13:39,945 [Worker-24: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/ant/ant/1.9.4/ant-1.9.4-sources.jar
+2020-12-09 23:13:41,454 [Worker-24: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/ant/ant/1.9.4/ant-1.9.4-sources.jar
+2020-12-09 23:13:41,778 [Worker-24: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.ant:ant:1.9.4
+2020-12-09 23:13:42,504 [Worker-24: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/ant/ant-launcher/1.9.4/ant-launcher-1.9.4-sources.jar
+2020-12-09 23:13:43,281 [Worker-24: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/ant/ant-launcher/1.9.4/ant-launcher-1.9.4-sources.jar
+2020-12-09 23:13:43,983 [Worker-24: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.ant:ant-launcher:1.9.4
+2020-12-09 23:14:07,562 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN tsutils@3.17.1 requires a peer of typescript@>=2.8.0 || >= 3.2.0-dev || >= 3.3.0-dev || >= 3.4.0-dev || >= 3.5.0-dev || >= 3.6.0-dev || >= 3.6.0-beta || >= 3.7.0-dev || >= 3.7.0-beta but none is installed. You must install peer dependencies yourself.
+2020-12-09 23:14:07,590 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@2.1.3 (node_modules\chokidar\node_modules\fsevents):
+2020-12-09 23:14:07,607 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@2.1.3: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+2020-12-09 23:14:07,624 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@2.2.1 (node_modules\fsevents):
+2020-12-09 23:14:07,640 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@2.2.1: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+2020-12-09 23:14:07,658 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.13 (node_modules\watchpack-chokidar2\node_modules\fsevents):
+2020-12-09 23:14:07,674 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.13: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+2020-12-09 23:14:07,677 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - removed 8 packages and audited 1884 packages in 50.39s
+2020-12-09 23:14:07,687 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.13 (node_modules\webpack-dev-server\node_modules\fsevents):
+2020-12-09 23:14:07,719 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.13: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+2020-12-09 23:14:07,737 [Exec Stream Pumper] ERROR c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-09 23:14:09,811 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-09 23:14:09,812 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 123 packages are looking for funding
+2020-12-09 23:14:09,812 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   run `npm fund` for details
+2020-12-09 23:14:09,813 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-09 23:14:09,813 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - found 0 vulnerabilities
+2020-12-09 23:14:09,813 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-09 23:14:09,918 [Worker-25: Building] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Running 'npm run build' in c:\frontend_202012
+2020-12-09 23:14:11,484 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-09 23:14:11,485 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - > frontend_202012@0.1.0 build c:\frontend_202012
+2020-12-09 23:14:11,485 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - > react-scripts build
+2020-12-09 23:14:11,486 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-09 23:14:40,884 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Creating an optimized production build...
+2020-12-09 23:15:29,870 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Compiled with warnings.
+2020-12-09 23:15:29,870 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-09 23:15:29,871 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - src\GridTest.js
+2020-12-09 23:15:29,871 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 26:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-09 23:15:29,871 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 35:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-09 23:15:29,872 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 45:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-09 23:15:29,872 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 55:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-09 23:15:29,872 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 65:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-09 23:15:29,872 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 75:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-09 23:15:29,872 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 85:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-09 23:15:29,872 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 96:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-09 23:15:29,873 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-09 23:15:29,873 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - src\GridTest2.js
+2020-12-09 23:15:29,873 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 50:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-09 23:15:29,873 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 59:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-09 23:15:29,873 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-09 23:15:29,873 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Search for the keywords to learn more about each warning.
+2020-12-09 23:15:29,874 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - To ignore, add // eslint-disable-next-line to the line before.
+2020-12-09 23:15:29,874 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-09 23:15:29,874 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - File sizes after gzip:
+2020-12-09 23:15:29,874 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-09 23:15:29,898 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   77.65 KB  build\static\js\2.28a3113f.chunk.js
+2020-12-09 23:15:29,899 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   1.77 KB   build\static\js\main.47665ad9.chunk.js
+2020-12-09 23:15:29,899 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   1.4 KB    build\static\js\3.75663f43.chunk.js
+2020-12-09 23:15:29,899 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   1.18 KB   build\static\js\runtime-main.931c1841.js
+2020-12-09 23:15:29,899 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   543 B     build\static\css\main.510619e5.chunk.css
+2020-12-09 23:15:29,899 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-09 23:15:29,899 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - The project was built assuming it is hosted at /frontend_202012/.
+2020-12-09 23:15:29,899 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - You can control this with the homepage field in your package.json.
+2020-12-09 23:15:29,899 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-09 23:15:29,899 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - The build folder is ready to be deployed.
+2020-12-09 23:15:29,899 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-09 23:15:29,900 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Find out more about deployment here:
+2020-12-09 23:15:29,900 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-09 23:15:29,900 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   https://cra.link/deployment
+2020-12-09 23:15:29,900 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-09 23:15:30,703 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-09 23:15:30,711 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-12-09 23:15:30,738 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-12-09 23:15:30,743 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-09 23:15:30,743 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\backend_202012\backend_202012-1\src\test\resources
+2020-12-09 23:15:30,748 [Worker-25: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of backend_202012-1
+2020-12-09 23:15:30,749 [Worker-25: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for backend_202012-1
+2020-12-09 23:15:30,758 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-09 23:15:34,438 [Worker-31: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/classworlds/classworlds/1.1-alpha-2/classworlds-1.1-alpha-2-javadoc.jar
+2020-12-09 23:15:34,467 [Worker-31: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download javadoc for classworlds:classworlds:1.1-alpha-2
+org.eclipse.core.runtime.CoreException: Could not resolve artifact classworlds:classworlds:jar:javadoc:1.1-alpha-2
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:804)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:114)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:772)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:749)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:330)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:316)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:269)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:233)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:161)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2020-12-09 23:15:36,146 [Worker-26: Building] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Running 'npm install' in c:\frontend_202012
+2020-12-09 23:16:01,076 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN tsutils@3.17.1 requires a peer of typescript@>=2.8.0 || >= 3.2.0-dev || >= 3.3.0-dev || >= 3.4.0-dev || >= 3.5.0-dev || >= 3.6.0-dev || >= 3.6.0-beta || >= 3.7.0-dev || >= 3.7.0-beta but none is installed. You must install peer dependencies yourself.
+2020-12-09 23:16:01,106 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@2.1.3 (node_modules\chokidar\node_modules\fsevents):
+2020-12-09 23:16:01,124 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@2.1.3: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+2020-12-09 23:16:01,137 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.13 (node_modules\watchpack-chokidar2\node_modules\fsevents):
+2020-12-09 23:16:01,156 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.13: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+2020-12-09 23:16:01,174 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@2.2.1 (node_modules\fsevents):
+2020-12-09 23:16:01,190 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@2.2.1: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+2020-12-09 23:16:01,201 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - removed 8 packages and audited 1884 packages in 21.921s
+2020-12-09 23:16:01,218 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.13 (node_modules\webpack-dev-server\node_modules\fsevents):
+2020-12-09 23:16:01,237 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.13: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+2020-12-09 23:16:01,271 [Exec Stream Pumper] ERROR c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-09 23:16:03,243 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-09 23:16:03,244 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 123 packages are looking for funding
+2020-12-09 23:16:03,244 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   run `npm fund` for details
+2020-12-09 23:16:03,245 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-09 23:16:03,245 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - found 0 vulnerabilities
+2020-12-09 23:16:03,245 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-09 23:16:03,326 [Worker-26: Building] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Running 'npm run build' in c:\frontend_202012
+2020-12-09 23:16:04,356 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-09 23:16:04,356 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - > frontend_202012@0.1.0 build c:\frontend_202012
+2020-12-09 23:16:04,356 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - > react-scripts build
+2020-12-09 23:16:04,356 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-09 23:16:11,652 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Creating an optimized production build...
+2020-12-09 23:16:31,770 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Compiled with warnings.
+2020-12-09 23:16:31,770 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-09 23:16:31,771 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - src\GridTest.js
+2020-12-09 23:16:31,771 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 26:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-09 23:16:31,771 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 35:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-09 23:16:31,771 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 45:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-09 23:16:31,771 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 55:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-09 23:16:31,772 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 65:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-09 23:16:31,772 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 75:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-09 23:16:31,772 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 85:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-09 23:16:31,773 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 96:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-09 23:16:31,773 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-09 23:16:31,773 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - src\GridTest2.js
+2020-12-09 23:16:31,773 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 50:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-09 23:16:31,773 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 59:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-09 23:16:31,774 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-09 23:16:31,774 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Search for the keywords to learn more about each warning.
+2020-12-09 23:16:31,774 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - To ignore, add // eslint-disable-next-line to the line before.
+2020-12-09 23:16:31,774 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-09 23:16:31,774 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - File sizes after gzip:
+2020-12-09 23:16:31,774 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-09 23:16:31,801 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   77.65 KB  build\static\js\2.28a3113f.chunk.js
+2020-12-09 23:16:31,802 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   1.77 KB   build\static\js\main.47665ad9.chunk.js
+2020-12-09 23:16:31,803 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   1.4 KB    build\static\js\3.75663f43.chunk.js
+2020-12-09 23:16:31,803 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   1.18 KB   build\static\js\runtime-main.931c1841.js
+2020-12-09 23:16:31,803 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   543 B     build\static\css\main.510619e5.chunk.css
+2020-12-09 23:16:31,804 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-09 23:16:31,805 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - The project was built assuming it is hosted at /frontend_202012/.
+2020-12-09 23:16:31,805 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - You can control this with the homepage field in your package.json.
+2020-12-09 23:16:31,806 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-09 23:16:31,806 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - The build folder is ready to be deployed.
+2020-12-09 23:16:31,806 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-09 23:16:31,807 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Find out more about deployment here:
+2020-12-09 23:16:31,807 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-09 23:16:31,807 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   https://cra.link/deployment
+2020-12-09 23:16:31,808 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-09 23:16:32,112 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-09 23:16:32,119 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-12-09 23:16:32,128 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-12-09 23:16:32,132 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-09 23:16:32,132 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\backend_202012\backend_202012-1\src\test\resources
+2020-12-09 23:27:18,766 [Worker-31: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-12-09 23:27:22,717 [Worker-31: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.backend_202012:backend_202012-1:0.0.1-SNAPSHOT @ C:\backend_202012\backend_202012-1\pom.xml.
+2020-12-09 23:27:27,934 [Worker-31: Updating Maven Project] INFO  c.g.e.m.p.f.lib.NodeInstaller - Node v14.15.1 is already installed.
+2020-12-09 23:27:28,330 [Worker-31: Updating Maven Project] INFO  c.g.e.m.p.frontend.lib.NPMInstaller - NPM 6.14.8 is already installed.
+2020-12-09 23:27:28,812 [Worker-31: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /backend_202012-1/src/main/java
+2020-12-09 23:27:28,813 [Worker-31: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /backend_202012-1/src/main/resources
+2020-12-09 23:27:28,815 [Worker-31: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /backend_202012-1/src/main/resources
+2020-12-09 23:27:28,816 [Worker-31: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /backend_202012-1/src/test/java
+2020-12-09 23:27:33,298 [Worker-31: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for backend_202012-1
+2020-12-09 23:27:33,349 [Worker-31: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 14 sec
+2020-12-09 23:27:36,846 [Worker-31: Building] INFO  c.g.e.m.p.f.lib.NodeInstaller - Node v14.15.1 is already installed.
+2020-12-09 23:27:36,854 [Worker-31: Building] INFO  c.g.e.m.p.frontend.lib.NPMInstaller - NPM 6.14.8 is already installed.
+2020-12-09 23:27:36,860 [Worker-31: Building] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Running 'npm install' in c:\frontend_202012
+2020-12-09 23:28:00,862 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN tsutils@3.17.1 requires a peer of typescript@>=2.8.0 || >= 3.2.0-dev || >= 3.3.0-dev || >= 3.4.0-dev || >= 3.5.0-dev || >= 3.6.0-dev || >= 3.6.0-beta || >= 3.7.0-dev || >= 3.7.0-beta but none is installed. You must install peer dependencies yourself.
+2020-12-09 23:28:00,891 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@2.1.3 (node_modules\chokidar\node_modules\fsevents):
+2020-12-09 23:28:00,908 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@2.1.3: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+2020-12-09 23:28:00,924 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@2.2.1 (node_modules\fsevents):
+2020-12-09 23:28:00,940 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@2.2.1: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+2020-12-09 23:28:00,957 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.13 (node_modules\watchpack-chokidar2\node_modules\fsevents):
+2020-12-09 23:28:00,971 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.13: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+2020-12-09 23:28:00,984 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.13 (node_modules\webpack-dev-server\node_modules\fsevents):
+2020-12-09 23:28:00,998 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.13: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+2020-12-09 23:28:01,018 [Exec Stream Pumper] ERROR c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-09 23:28:01,668 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - removed 8 packages and audited 1884 packages in 22.432s
+2020-12-09 23:28:03,727 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-09 23:28:03,727 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 123 packages are looking for funding
+2020-12-09 23:28:03,728 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   run `npm fund` for details
+2020-12-09 23:28:03,728 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-09 23:28:03,728 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - found 0 vulnerabilities
+2020-12-09 23:28:03,728 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-09 23:28:03,804 [Worker-31: Building] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Running 'npm run build' in c:\frontend_202012
+2020-12-09 23:28:04,904 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-09 23:28:04,904 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - > frontend_202012@0.1.0 build c:\frontend_202012
+2020-12-09 23:28:04,905 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - > react-scripts build
+2020-12-09 23:28:04,905 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-09 23:28:13,179 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Creating an optimized production build...
+2020-12-09 23:28:41,219 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Compiled with warnings.
+2020-12-09 23:28:41,219 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-09 23:28:41,220 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - src\GridTest.js
+2020-12-09 23:28:41,220 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 26:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-09 23:28:41,221 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 35:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-09 23:28:41,221 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 45:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-09 23:28:41,221 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 55:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-09 23:28:41,222 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 65:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-09 23:28:41,222 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 75:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-09 23:28:41,222 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 85:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-09 23:28:41,222 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 96:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-09 23:28:41,222 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-09 23:28:41,222 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - src\GridTest2.js
+2020-12-09 23:28:41,222 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 50:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-09 23:28:41,223 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 59:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-09 23:28:41,223 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-09 23:28:41,223 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Search for the keywords to learn more about each warning.
+2020-12-09 23:28:41,223 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - To ignore, add // eslint-disable-next-line to the line before.
+2020-12-09 23:28:41,223 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-09 23:28:41,223 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - File sizes after gzip:
+2020-12-09 23:28:41,224 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-09 23:28:41,256 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   77.65 KB  build\static\js\2.28a3113f.chunk.js
+2020-12-09 23:28:41,257 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   1.77 KB   build\static\js\main.47665ad9.chunk.js
+2020-12-09 23:28:41,257 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   1.4 KB    build\static\js\3.75663f43.chunk.js
+2020-12-09 23:28:41,257 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   1.18 KB   build\static\js\runtime-main.931c1841.js
+2020-12-09 23:28:41,257 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   543 B     build\static\css\main.510619e5.chunk.css
+2020-12-09 23:28:41,257 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-09 23:28:41,257 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - The project was built assuming it is hosted at /frontend_202012/.
+2020-12-09 23:28:41,257 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - You can control this with the homepage field in your package.json.
+2020-12-09 23:28:41,257 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-09 23:28:41,258 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - The build folder is ready to be deployed.
+2020-12-09 23:28:41,258 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-09 23:28:41,259 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Find out more about deployment here:
+2020-12-09 23:28:41,259 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-09 23:28:41,259 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   https://cra.link/deployment
+2020-12-09 23:28:41,259 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-09 23:28:41,421 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-09 23:28:41,422 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-12-09 23:28:41,446 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-12-09 23:28:41,450 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-09 23:28:41,451 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\backend_202012\backend_202012-1\src\test\resources
+2020-12-09 23:28:41,451 [Worker-31: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of backend_202012-1
+2020-12-09 23:28:41,451 [Worker-31: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for backend_202012-1
+2020-12-09 23:28:41,460 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
