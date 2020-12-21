@@ -73,7 +73,7 @@
 				<artifactId>frontend-maven-plugin</artifactId>
 				<version>1.7.6</version> <!-- frontend-maven-plugin Version -->
 				<configuration>
-					<workingDirectory>c:\\frontend_202012</workingDirectory> <!-- React JS 가 설치된 디렉토리 -->
+					<workingDirectory>C:\\frontend_202012</workingDirectory> <!-- React JS 가 설치된 디렉토리 -->
 					<installDirectory>target</installDirectory> <!-- war & jar 가 생성되는 메이븐 빌드의 타겟 디렉토리 -->
 				</configuration>
 				<executions>
@@ -115,8 +115,8 @@
 						<phase>generate-resources</phase> <!-- 리소스 생성 -->
 						<configuration>
 							<target>
-								<copy todir="${project.build.directory}/classes/public">  <!-- 복사할 디렉토리 설정 -->
-									<fileset dir="c://frontend_202012/build" />  <!-- 가져올 디렉토리 및 파일 -->
+								<copy todir="${project.basedir}\src\main\resources">  <!-- 복사할 디렉토리 설정 -->
+									<fileset dir="C:\\frontend_202012\build" />  <!-- 가져올 디렉토리 및 파일 -->
 								</copy>
 							</target>
 						</configuration>
