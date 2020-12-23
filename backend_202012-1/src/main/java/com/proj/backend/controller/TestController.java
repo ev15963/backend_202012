@@ -1,21 +1,16 @@
-package com.proj;
+package com.proj.backend.controller;
 
-import javax.servlet.http.HttpServletRequest;
-
-import org.springframework.http.ResponseEntity;
-import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.GetMapping;
-import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
-import org.springframework.web.bind.annotation.RequestMethod;
+import org.springframework.web.bind.annotation.RestController;
 
 import lombok.extern.slf4j.Slf4j;
 
 //import ospringframework.web.bind.annotation.RestController;
 
 @Slf4j
-@Controller
+@RestController
 //@RequestMapping("/api")
 public class TestController {
 	
@@ -29,7 +24,7 @@ public class TestController {
 	public String rootMethod() {
 		log.info("looooog");
 		
-		return "home";
+		return "home.html";
 	}
 	
 	@GetMapping(value="/hello")

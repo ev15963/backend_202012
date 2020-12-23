@@ -1,4 +1,4 @@
-package com.proj;
+package com.proj.backend.domain;
 
 public class UserVO {
 
