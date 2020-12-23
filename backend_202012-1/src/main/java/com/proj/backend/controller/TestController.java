@@ -5,6 +5,8 @@ import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 
+import com.proj.backend.domain.UserVO;
+
 import lombok.extern.slf4j.Slf4j;
 
 //import ospringframework.web.bind.annotation.RestController;
@@ -30,10 +32,10 @@ public class TestController {
 	@GetMapping("/hello")
 	public String hello(Model model) {
 		log.info("helloooo");
-//		UserVO user = new UserVO();
-//		user.setUserID("아이디");
-//		user.setName("이름");
-		model.addAttribute("name", "userdddd");
+		UserVO user = new UserVO();
+		user.setUserID("아이디");
+		user.setName("이름");
+		model.addAttribute("name", user);
 		
 		return "hello";
 	}
