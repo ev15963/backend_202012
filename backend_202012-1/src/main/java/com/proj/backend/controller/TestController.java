@@ -1,16 +1,16 @@
 package com.proj.backend.controller;
 
+import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
-import org.springframework.web.bind.annotation.RestController;
 
 import lombok.extern.slf4j.Slf4j;
 
 //import ospringframework.web.bind.annotation.RestController;
 
 @Slf4j
-@RestController
+@Controller
 //@RequestMapping("/api")
 public class TestController {
 	
@@ -24,10 +24,10 @@ public class TestController {
 	public String rootMethod() {
 		log.info("looooog");
 		
-		return "home.html";
+		return "home";
 	}
 	
-	@GetMapping(value="/hello")
+	@GetMapping("/hello")
 	public String hello(Model model) {
 		log.info("helloooo");
 //		UserVO user = new UserVO();

@@ -20714,3 +20714,1249 @@ Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: expected ST
 2020-12-23 13:49:12,865 [Worker-79: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.javateam:demo:1.0 @ C:\backend_202012\demo\pom.xml.
 2020-12-23 13:49:17,834 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2020-12-23 13:49:17,836 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-12-23 13:49:17,876 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-12-23 13:49:17,880 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-23 13:49:17,881 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\backend_202012\demo\src\test\resources
+2020-12-23 14:47:05,372 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-12-23 14:47:56,393 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-23 14:47:56,407 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-12-23 14:47:56,445 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-12-23 14:47:56,474 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-23 14:47:56,474 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\backend_202012\backend_202012-1\src\test\resources
+2020-12-23 14:48:07,815 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-23 14:48:07,817 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-12-23 14:48:07,831 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-12-23 14:48:07,835 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-23 14:48:07,835 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\backend_202012\demo\src\test\resources
+2020-12-23 14:48:17,916 [Worker-8: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-jar-plugin/3.1.2/maven-jar-plugin-3.1.2.pom
+2020-12-23 14:48:18,276 [Worker-8: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-jar-plugin/3.1.2/maven-jar-plugin-3.1.2.pom
+2020-12-23 14:48:18,463 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-23 14:48:18,465 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-12-23 14:48:18,468 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 18 resources
+2020-12-23 14:48:18,481 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-23 14:48:18,481 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\backend_202012\my-app-backend-master\src\test\resources
+2020-12-23 14:48:19,507 [Worker-8: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/shared/file-management/3.0.0/file-management-3.0.0.pom
+2020-12-23 14:48:20,038 [Worker-8: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/shared/file-management/3.0.0/file-management-3.0.0.pom
+2020-12-23 14:48:20,267 [Worker-8: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-io/3.0.0/maven-shared-io-3.0.0.pom
+2020-12-23 14:48:20,453 [Worker-8: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-io/3.0.0/maven-shared-io-3.0.0.pom
+2020-12-23 14:48:20,643 [Worker-8: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-compat/3.0/maven-compat-3.0.pom
+2020-12-23 14:48:20,947 [Worker-8: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-compat/3.0/maven-compat-3.0.pom
+2020-12-23 14:48:21,143 [Worker-8: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/wagon/wagon-provider-api/1.0-beta-6/wagon-provider-api-1.0-beta-6.pom
+2020-12-23 14:48:21,327 [Worker-8: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/wagon/wagon-provider-api/1.0-beta-6/wagon-provider-api-1.0-beta-6.pom
+2020-12-23 14:48:21,509 [Worker-8: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/wagon/wagon/1.0-beta-6/wagon-1.0-beta-6.pom
+2020-12-23 14:48:21,723 [Worker-8: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/wagon/wagon/1.0-beta-6/wagon-1.0-beta-6.pom
+2020-12-23 14:48:21,960 [Worker-8: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/1.4.2/plexus-utils-1.4.2.pom
+2020-12-23 14:48:22,147 [Worker-8: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/1.4.2/plexus-utils-1.4.2.pom
+2020-12-23 14:48:22,353 [Worker-8: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/wagon/wagon-provider-api/2.10/wagon-provider-api-2.10.pom
+2020-12-23 14:48:22,580 [Worker-8: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/wagon/wagon-provider-api/2.10/wagon-provider-api-2.10.pom
+2020-12-23 14:48:22,880 [Worker-8: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/wagon/wagon/2.10/wagon-2.10.pom
+2020-12-23 14:48:23,095 [Worker-8: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/wagon/wagon/2.10/wagon-2.10.pom
+2020-12-23 14:48:23,356 [Worker-8: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/3.0.15/plexus-utils-3.0.15.pom
+2020-12-23 14:48:23,538 [Worker-8: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/3.0.15/plexus-utils-3.0.15.pom
+2020-12-23 14:48:24,445 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/shared/file-management/3.0.0/file-management-3.0.0.jar
+2020-12-23 14:48:24,598 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/wagon/wagon-provider-api/2.10/wagon-provider-api-2.10.jar
+2020-12-23 14:48:24,633 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-io/3.0.0/maven-shared-io-3.0.0.jar
+2020-12-23 14:48:24,635 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-compat/3.0/maven-compat-3.0.jar
+2020-12-23 14:48:25,136 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/wagon/wagon-provider-api/2.10/wagon-provider-api-2.10.jar
+2020-12-23 14:48:25,136 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/shared/file-management/3.0.0/file-management-3.0.0.jar
+2020-12-23 14:48:25,255 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-compat/3.0/maven-compat-3.0.jar
+2020-12-23 14:48:25,501 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-io/3.0.0/maven-shared-io-3.0.0.jar
+2020-12-23 14:51:29,713 [Worker-6: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-12-23 14:51:36,530 [Worker-6: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.backend_202012:backend_202012-1:0.0.1-SNAPSHOT @ C:\backend_202012\backend_202012-1\pom.xml.
+2020-12-23 14:51:41,810 [Worker-6: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /backend_202012-1/src/main/java
+2020-12-23 14:51:41,812 [Worker-6: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /backend_202012-1/src/main/resources
+2020-12-23 14:51:41,814 [Worker-6: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /backend_202012-1/src/main/resources
+2020-12-23 14:51:41,816 [Worker-6: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /backend_202012-1/src/test/java
+2020-12-23 14:51:47,219 [Worker-6: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for backend_202012-1
+2020-12-23 14:51:47,266 [Worker-6: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 17 sec
+2020-12-23 14:51:52,057 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-23 14:51:52,059 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-12-23 14:51:52,064 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-12-23 14:51:52,173 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-23 14:51:52,174 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\backend_202012\backend_202012-1\src\test\resources
+2020-12-23 14:51:52,175 [Worker-6: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of backend_202012-1
+2020-12-23 14:51:52,176 [Worker-6: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for backend_202012-1
+2020-12-23 14:51:52,187 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-23 14:53:27,848 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-12-23 14:53:44,083 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-23 14:53:44,092 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-12-23 14:53:44,185 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-12-23 14:53:44,243 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-23 14:53:44,244 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\backend_202012\backend_202012-1\src\test\resources
+2020-12-23 14:56:09,360 [Worker-7: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.backend_202012:backend_202012-1:0.0.1-SNAPSHOT @ C:\backend_202012\backend_202012-1\pom.xml.
+2020-12-23 14:56:18,574 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-23 14:56:18,577 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-12-23 14:56:18,605 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-12-23 14:56:18,611 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-23 14:56:18,611 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\backend_202012\backend_202012-1\src\test\resources
+2020-12-23 14:56:36,647 [Worker-11: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-12-23 14:56:41,450 [Worker-11: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.backend_202012:backend_202012-1:0.0.1-SNAPSHOT @ C:\backend_202012\backend_202012-1\pom.xml.
+2020-12-23 14:56:46,445 [Worker-11: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /backend_202012-1/src/main/java
+2020-12-23 14:56:46,447 [Worker-11: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /backend_202012-1/src/main/resources
+2020-12-23 14:56:46,448 [Worker-11: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /backend_202012-1/src/main/resources
+2020-12-23 14:56:46,450 [Worker-11: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /backend_202012-1/src/test/java
+2020-12-23 14:56:51,025 [Worker-11: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for backend_202012-1
+2020-12-23 14:56:51,060 [Worker-11: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 14 sec
+2020-12-23 14:56:54,676 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-23 14:56:54,678 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-12-23 14:56:54,701 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-12-23 14:56:54,729 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-23 14:56:54,730 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\backend_202012\backend_202012-1\src\test\resources
+2020-12-23 14:56:54,730 [Worker-10: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of backend_202012-1
+2020-12-23 14:56:54,731 [Worker-10: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for backend_202012-1
+2020-12-23 14:56:54,744 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-23 15:26:03,025 [Worker-10: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.backend_202012:backend_202012-1:0.0.1-SNAPSHOT @ C:\backend_202012\backend_202012-1\pom.xml.
+2020-12-23 15:26:09,765 [Worker-10: Building] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Running 'npm install' in C:\frontend_202012
+2020-12-23 15:27:05,514 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN tsutils@3.17.1 requires a peer of typescript@>=2.8.0 || >= 3.2.0-dev || >= 3.3.0-dev || >= 3.4.0-dev || >= 3.5.0-dev || >= 3.6.0-dev || >= 3.6.0-beta || >= 3.7.0-dev || >= 3.7.0-beta but none is installed. You must install peer dependencies yourself.
+2020-12-23 15:27:05,536 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@2.2.1 (node_modules\fsevents):
+2020-12-23 15:27:05,549 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@2.2.1: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+2020-12-23 15:27:05,559 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@2.1.3 (node_modules\chokidar\node_modules\fsevents):
+2020-12-23 15:27:05,572 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@2.1.3: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+2020-12-23 15:27:05,586 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.13 (node_modules\watchpack-chokidar2\node_modules\fsevents):
+2020-12-23 15:27:05,599 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.13: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+2020-12-23 15:27:05,618 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.13 (node_modules\webpack-dev-server\node_modules\fsevents):
+2020-12-23 15:27:05,620 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - removed 8 packages and audited 1885 packages in 45.543s
+2020-12-23 15:27:05,631 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.13: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+2020-12-23 15:27:05,661 [Exec Stream Pumper] ERROR c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 15:27:08,541 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 15:27:08,542 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 123 packages are looking for funding
+2020-12-23 15:27:08,542 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   run `npm fund` for details
+2020-12-23 15:27:08,543 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 15:27:08,545 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - found 1 low severity vulnerability
+2020-12-23 15:27:08,545 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   run `npm audit fix` to fix them, or `npm audit` for details
+2020-12-23 15:27:08,671 [Worker-10: Building] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Running 'npm run build' in C:\frontend_202012
+2020-12-23 15:27:10,439 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 15:27:10,440 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - > frontend_202012@0.1.0 build C:\frontend_202012
+2020-12-23 15:27:10,440 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - > react-scripts build
+2020-12-23 15:27:10,440 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 15:27:42,416 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Creating an optimized production build...
+2020-12-23 15:28:38,482 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Compiled with warnings.
+2020-12-23 15:28:38,483 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 15:28:38,483 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - src\GridTest.js
+2020-12-23 15:28:38,483 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 26:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-23 15:28:38,484 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 35:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-23 15:28:38,484 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 45:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-23 15:28:38,484 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 55:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-23 15:28:38,484 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 65:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-23 15:28:38,484 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 75:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-23 15:28:38,485 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 85:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-23 15:28:38,485 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 96:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-23 15:28:38,485 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 15:28:38,486 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - src\GridTest2.js
+2020-12-23 15:28:38,486 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 50:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-23 15:28:38,486 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 59:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-23 15:28:38,486 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 15:28:38,486 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Search for the keywords to learn more about each warning.
+2020-12-23 15:28:38,486 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - To ignore, add // eslint-disable-next-line to the line before.
+2020-12-23 15:28:38,486 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 15:28:38,486 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - File sizes after gzip:
+2020-12-23 15:28:38,486 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 15:28:38,518 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   78.13 KB  build\static\js\2.8ee57783.chunk.js
+2020-12-23 15:28:38,518 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   1.84 KB   build\static\js\main.62c90346.chunk.js
+2020-12-23 15:28:38,518 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   1.4 KB    build\static\js\3.9d55265e.chunk.js
+2020-12-23 15:28:38,518 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   1.18 KB   build\static\js\runtime-main.020a57e7.js
+2020-12-23 15:28:38,518 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   577 B     build\static\css\main.91380d01.chunk.css
+2020-12-23 15:28:38,518 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 15:28:38,519 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - The project was built assuming it is hosted at /frontend_202012/.
+2020-12-23 15:28:38,519 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - You can control this with the homepage field in your package.json.
+2020-12-23 15:28:38,519 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 15:28:38,519 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - The build folder is ready to be deployed.
+2020-12-23 15:28:38,519 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 15:28:38,520 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Find out more about deployment here:
+2020-12-23 15:28:38,520 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 15:28:38,520 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   https://cra.link/deployment
+2020-12-23 15:28:38,520 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 15:28:38,941 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-23 15:28:38,946 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-12-23 15:28:38,947 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-12-23 15:28:38,951 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-23 15:28:38,951 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\backend_202012\backend_202012-1\src\test\resources
+2020-12-23 15:28:38,952 [Worker-10: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of backend_202012-1
+2020-12-23 15:28:38,952 [Worker-10: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for backend_202012-1
+2020-12-23 15:28:38,960 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-23 15:45:08,583 [Worker-27: Building] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Running 'npm install' in C:\frontend_202012
+2020-12-23 15:45:49,550 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN tsutils@3.17.1 requires a peer of typescript@>=2.8.0 || >= 3.2.0-dev || >= 3.3.0-dev || >= 3.4.0-dev || >= 3.5.0-dev || >= 3.6.0-dev || >= 3.6.0-beta || >= 3.7.0-dev || >= 3.7.0-beta but none is installed. You must install peer dependencies yourself.
+2020-12-23 15:45:49,586 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@2.1.3 (node_modules\chokidar\node_modules\fsevents):
+2020-12-23 15:45:49,598 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@2.1.3: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+2020-12-23 15:45:49,621 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@2.2.1 (node_modules\fsevents):
+2020-12-23 15:45:49,636 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@2.2.1: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+2020-12-23 15:45:49,655 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.13 (node_modules\watchpack-chokidar2\node_modules\fsevents):
+2020-12-23 15:45:49,670 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.13: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+2020-12-23 15:45:49,688 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.13 (node_modules\webpack-dev-server\node_modules\fsevents):
+2020-12-23 15:45:49,694 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - removed 8 packages and audited 1885 packages in 35.242s
+2020-12-23 15:45:49,705 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.13: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+2020-12-23 15:45:49,721 [Exec Stream Pumper] ERROR c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 15:45:53,198 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 15:45:53,199 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 123 packages are looking for funding
+2020-12-23 15:45:53,199 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   run `npm fund` for details
+2020-12-23 15:45:53,202 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 15:45:53,202 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - found 1 low severity vulnerability
+2020-12-23 15:45:53,202 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   run `npm audit fix` to fix them, or `npm audit` for details
+2020-12-23 15:45:53,302 [Worker-27: Building] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Running 'npm run build' in C:\frontend_202012
+2020-12-23 15:45:54,659 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 15:45:54,660 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - > frontend_202012@0.1.0 build C:\frontend_202012
+2020-12-23 15:45:54,660 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - > react-scripts build
+2020-12-23 15:45:54,661 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 15:46:02,794 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Creating an optimized production build...
+2020-12-23 15:46:24,872 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Compiled with warnings.
+2020-12-23 15:46:24,873 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 15:46:24,873 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - src\GridTest.js
+2020-12-23 15:46:24,873 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 26:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-23 15:46:24,874 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 35:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-23 15:46:24,874 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 45:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-23 15:46:24,874 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 55:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-23 15:46:24,874 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 65:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-23 15:46:24,875 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 75:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-23 15:46:24,875 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 85:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-23 15:46:24,875 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 96:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-23 15:46:24,875 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 15:46:24,875 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - src\GridTest2.js
+2020-12-23 15:46:24,875 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 50:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-23 15:46:24,875 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 59:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-23 15:46:24,876 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 15:46:24,876 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Search for the keywords to learn more about each warning.
+2020-12-23 15:46:24,876 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - To ignore, add // eslint-disable-next-line to the line before.
+2020-12-23 15:46:24,876 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 15:46:24,876 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - File sizes after gzip:
+2020-12-23 15:46:24,876 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 15:46:24,908 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   78.13 KB  build\static\js\2.8ee57783.chunk.js
+2020-12-23 15:46:24,908 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   1.84 KB   build\static\js\main.62c90346.chunk.js
+2020-12-23 15:46:24,909 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   1.4 KB    build\static\js\3.9d55265e.chunk.js
+2020-12-23 15:46:24,909 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   1.18 KB   build\static\js\runtime-main.020a57e7.js
+2020-12-23 15:46:24,909 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   577 B     build\static\css\main.91380d01.chunk.css
+2020-12-23 15:46:24,909 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 15:46:24,911 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - The project was built assuming it is hosted at /frontend_202012/.
+2020-12-23 15:46:24,913 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - You can control this with the homepage field in your package.json.
+2020-12-23 15:46:24,913 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 15:46:24,913 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - The build folder is ready to be deployed.
+2020-12-23 15:46:24,913 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 15:46:24,913 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Find out more about deployment here:
+2020-12-23 15:46:24,913 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 15:46:24,913 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   https://cra.link/deployment
+2020-12-23 15:46:24,913 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 15:46:25,103 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-23 15:46:25,111 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-12-23 15:46:25,151 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-12-23 15:46:25,157 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-23 15:46:25,158 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\backend_202012\backend_202012-1\src\test\resources
+2020-12-23 15:58:19,577 [Worker-42: Building] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Running 'npm install' in C:\frontend_202012
+2020-12-23 15:58:52,566 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN tsutils@3.17.1 requires a peer of typescript@>=2.8.0 || >= 3.2.0-dev || >= 3.3.0-dev || >= 3.4.0-dev || >= 3.5.0-dev || >= 3.6.0-dev || >= 3.6.0-beta || >= 3.7.0-dev || >= 3.7.0-beta but none is installed. You must install peer dependencies yourself.
+2020-12-23 15:58:52,596 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@2.2.1 (node_modules\fsevents):
+2020-12-23 15:58:52,608 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@2.2.1: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+2020-12-23 15:58:52,622 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@2.1.3 (node_modules\chokidar\node_modules\fsevents):
+2020-12-23 15:58:52,635 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@2.1.3: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+2020-12-23 15:58:52,654 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.13 (node_modules\watchpack-chokidar2\node_modules\fsevents):
+2020-12-23 15:58:52,667 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.13: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+2020-12-23 15:58:52,681 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.13 (node_modules\webpack-dev-server\node_modules\fsevents):
+2020-12-23 15:58:52,690 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - removed 8 packages and audited 1885 packages in 29.151s
+2020-12-23 15:58:52,694 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.13: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+2020-12-23 15:58:52,708 [Exec Stream Pumper] ERROR c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 15:58:55,917 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 15:58:55,918 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 123 packages are looking for funding
+2020-12-23 15:58:55,918 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   run `npm fund` for details
+2020-12-23 15:58:55,919 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 15:58:55,921 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - found 1 low severity vulnerability
+2020-12-23 15:58:55,921 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   run `npm audit fix` to fix them, or `npm audit` for details
+2020-12-23 15:58:56,018 [Worker-42: Building] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Running 'npm run build' in C:\frontend_202012
+2020-12-23 15:58:57,394 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 15:58:57,394 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - > frontend_202012@0.1.0 build C:\frontend_202012
+2020-12-23 15:58:57,395 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - > react-scripts build
+2020-12-23 15:58:57,395 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 15:59:05,656 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Creating an optimized production build...
+2020-12-23 15:59:28,162 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Compiled with warnings.
+2020-12-23 15:59:28,162 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 15:59:28,163 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - src\GridTest.js
+2020-12-23 15:59:28,163 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 26:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-23 15:59:28,164 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 35:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-23 15:59:28,164 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 45:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-23 15:59:28,164 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 55:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-23 15:59:28,165 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 65:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-23 15:59:28,165 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 75:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-23 15:59:28,165 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 85:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-23 15:59:28,165 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 96:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-23 15:59:28,165 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 15:59:28,165 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - src\GridTest2.js
+2020-12-23 15:59:28,165 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 50:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-23 15:59:28,166 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 59:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-23 15:59:28,166 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 15:59:28,166 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Search for the keywords to learn more about each warning.
+2020-12-23 15:59:28,166 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - To ignore, add // eslint-disable-next-line to the line before.
+2020-12-23 15:59:28,166 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 15:59:28,166 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - File sizes after gzip:
+2020-12-23 15:59:28,166 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 15:59:28,198 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   78.13 KB  build\static\js\2.8ee57783.chunk.js
+2020-12-23 15:59:28,198 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   1.84 KB   build\static\js\main.62c90346.chunk.js
+2020-12-23 15:59:28,198 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   1.4 KB    build\static\js\3.9d55265e.chunk.js
+2020-12-23 15:59:28,199 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   1.18 KB   build\static\js\runtime-main.020a57e7.js
+2020-12-23 15:59:28,199 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   577 B     build\static\css\main.91380d01.chunk.css
+2020-12-23 15:59:28,199 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 15:59:28,199 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - The project was built assuming it is hosted at /frontend_202012/.
+2020-12-23 15:59:28,199 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - You can control this with the homepage field in your package.json.
+2020-12-23 15:59:28,199 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 15:59:28,200 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - The build folder is ready to be deployed.
+2020-12-23 15:59:28,200 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 15:59:28,200 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Find out more about deployment here:
+2020-12-23 15:59:28,200 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 15:59:28,200 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   https://cra.link/deployment
+2020-12-23 15:59:28,200 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 15:59:28,365 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-23 15:59:28,369 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-12-23 15:59:28,370 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-12-23 15:59:28,384 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-23 15:59:28,384 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\backend_202012\backend_202012-1\src\test\resources
+2020-12-23 16:07:35,372 [Worker-25: Building] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Running 'npm install' in C:\frontend_202012
+2020-12-23 16:08:14,446 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN tsutils@3.17.1 requires a peer of typescript@>=2.8.0 || >= 3.2.0-dev || >= 3.3.0-dev || >= 3.4.0-dev || >= 3.5.0-dev || >= 3.6.0-dev || >= 3.6.0-beta || >= 3.7.0-dev || >= 3.7.0-beta but none is installed. You must install peer dependencies yourself.
+2020-12-23 16:08:14,473 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@2.1.3 (node_modules\chokidar\node_modules\fsevents):
+2020-12-23 16:08:14,485 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@2.1.3: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+2020-12-23 16:08:14,503 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@2.2.1 (node_modules\fsevents):
+2020-12-23 16:08:14,517 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@2.2.1: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+2020-12-23 16:08:14,530 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.13 (node_modules\watchpack-chokidar2\node_modules\fsevents):
+2020-12-23 16:08:14,544 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.13: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+2020-12-23 16:08:14,557 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.13 (node_modules\webpack-dev-server\node_modules\fsevents):
+2020-12-23 16:08:14,559 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - removed 8 packages and audited 1885 packages in 34.882s
+2020-12-23 16:08:14,570 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.13: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+2020-12-23 16:08:14,581 [Exec Stream Pumper] ERROR c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 16:08:17,952 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 16:08:17,953 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 123 packages are looking for funding
+2020-12-23 16:08:17,953 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   run `npm fund` for details
+2020-12-23 16:08:17,953 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 16:08:17,954 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - found 1 low severity vulnerability
+2020-12-23 16:08:17,954 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   run `npm audit fix` to fix them, or `npm audit` for details
+2020-12-23 16:08:18,078 [Worker-25: Building] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Running 'npm run build' in C:\frontend_202012
+2020-12-23 16:08:19,867 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 16:08:19,868 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - > frontend_202012@0.1.0 build C:\frontend_202012
+2020-12-23 16:08:19,868 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - > react-scripts build
+2020-12-23 16:08:19,868 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 16:08:28,913 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Creating an optimized production build...
+2020-12-23 16:08:52,882 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Compiled with warnings.
+2020-12-23 16:08:52,883 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 16:08:52,883 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - src\GridTest.js
+2020-12-23 16:08:52,884 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 26:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-23 16:08:52,884 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 35:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-23 16:08:52,885 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 45:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-23 16:08:52,885 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 55:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-23 16:08:52,885 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 65:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-23 16:08:52,885 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 75:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-23 16:08:52,885 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 85:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-23 16:08:52,885 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 96:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-23 16:08:52,885 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 16:08:52,885 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - src\GridTest2.js
+2020-12-23 16:08:52,886 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 50:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-23 16:08:52,886 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 59:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-23 16:08:52,886 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 16:08:52,886 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Search for the keywords to learn more about each warning.
+2020-12-23 16:08:52,886 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - To ignore, add // eslint-disable-next-line to the line before.
+2020-12-23 16:08:52,886 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 16:08:52,886 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - File sizes after gzip:
+2020-12-23 16:08:52,887 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 16:08:52,941 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   78.13 KB  build\static\js\2.8ee57783.chunk.js
+2020-12-23 16:08:52,941 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   1.84 KB   build\static\js\main.62c90346.chunk.js
+2020-12-23 16:08:52,941 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   1.4 KB    build\static\js\3.9d55265e.chunk.js
+2020-12-23 16:08:52,942 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   1.18 KB   build\static\js\runtime-main.020a57e7.js
+2020-12-23 16:08:52,942 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   577 B     build\static\css\main.91380d01.chunk.css
+2020-12-23 16:08:52,944 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 16:08:52,946 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - The project was built assuming it is hosted at /frontend_202012/.
+2020-12-23 16:08:52,946 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - You can control this with the homepage field in your package.json.
+2020-12-23 16:08:52,946 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 16:08:52,947 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - The build folder is ready to be deployed.
+2020-12-23 16:08:52,947 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 16:08:52,947 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Find out more about deployment here:
+2020-12-23 16:08:52,947 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 16:08:52,947 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   https://cra.link/deployment
+2020-12-23 16:08:52,948 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 16:08:53,115 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-23 16:08:53,117 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-12-23 16:08:53,118 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-12-23 16:08:53,135 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-23 16:08:53,136 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\backend_202012\backend_202012-1\src\test\resources
+2020-12-23 16:09:20,532 [Worker-25: Building] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Running 'npm install' in C:\frontend_202012
+2020-12-23 16:09:53,556 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN tsutils@3.17.1 requires a peer of typescript@>=2.8.0 || >= 3.2.0-dev || >= 3.3.0-dev || >= 3.4.0-dev || >= 3.5.0-dev || >= 3.6.0-dev || >= 3.6.0-beta || >= 3.7.0-dev || >= 3.7.0-beta but none is installed. You must install peer dependencies yourself.
+2020-12-23 16:09:53,580 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@2.1.3 (node_modules\chokidar\node_modules\fsevents):
+2020-12-23 16:09:53,590 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@2.1.3: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+2020-12-23 16:09:53,606 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@2.2.1 (node_modules\fsevents):
+2020-12-23 16:09:53,618 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@2.2.1: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+2020-12-23 16:09:53,633 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.13 (node_modules\watchpack-chokidar2\node_modules\fsevents):
+2020-12-23 16:09:53,646 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.13: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+2020-12-23 16:09:53,660 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.13 (node_modules\webpack-dev-server\node_modules\fsevents):
+2020-12-23 16:09:53,666 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - removed 8 packages and audited 1885 packages in 28.913s
+2020-12-23 16:09:53,672 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.13: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+2020-12-23 16:09:53,712 [Exec Stream Pumper] ERROR c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 16:09:56,711 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 16:09:56,712 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 123 packages are looking for funding
+2020-12-23 16:09:56,712 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   run `npm fund` for details
+2020-12-23 16:09:56,712 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 16:09:56,713 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - found 1 low severity vulnerability
+2020-12-23 16:09:56,713 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   run `npm audit fix` to fix them, or `npm audit` for details
+2020-12-23 16:09:56,801 [Worker-25: Building] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Running 'npm run build' in C:\frontend_202012
+2020-12-23 16:09:58,109 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 16:09:58,110 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - > frontend_202012@0.1.0 build C:\frontend_202012
+2020-12-23 16:09:58,110 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - > react-scripts build
+2020-12-23 16:09:58,110 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 16:10:09,451 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Creating an optimized production build...
+2020-12-23 16:10:38,426 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Compiled with warnings.
+2020-12-23 16:10:38,427 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 16:10:38,427 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - src\GridTest.js
+2020-12-23 16:10:38,427 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 26:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-23 16:10:38,428 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 35:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-23 16:10:38,428 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 45:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-23 16:10:38,428 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 55:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-23 16:10:38,428 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 65:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-23 16:10:38,429 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 75:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-23 16:10:38,429 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 85:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-23 16:10:38,429 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 96:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-23 16:10:38,429 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 16:10:38,429 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - src\GridTest2.js
+2020-12-23 16:10:38,429 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 50:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-23 16:10:38,430 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 59:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-23 16:10:38,430 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 16:10:38,430 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Search for the keywords to learn more about each warning.
+2020-12-23 16:10:38,430 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - To ignore, add // eslint-disable-next-line to the line before.
+2020-12-23 16:10:38,430 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 16:10:38,430 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - File sizes after gzip:
+2020-12-23 16:10:38,430 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 16:10:38,454 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   78.13 KB  build\static\js\2.8ee57783.chunk.js
+2020-12-23 16:10:38,455 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   1.84 KB   build\static\js\main.62c90346.chunk.js
+2020-12-23 16:10:38,455 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   1.4 KB    build\static\js\3.9d55265e.chunk.js
+2020-12-23 16:10:38,455 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   1.18 KB   build\static\js\runtime-main.020a57e7.js
+2020-12-23 16:10:38,455 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   577 B     build\static\css\main.91380d01.chunk.css
+2020-12-23 16:10:38,455 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 16:10:38,455 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - The project was built assuming it is hosted at /frontend_202012/.
+2020-12-23 16:10:38,455 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - You can control this with the homepage field in your package.json.
+2020-12-23 16:10:38,455 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 16:10:38,456 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - The build folder is ready to be deployed.
+2020-12-23 16:10:38,456 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 16:10:38,456 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Find out more about deployment here:
+2020-12-23 16:10:38,456 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 16:10:38,456 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   https://cra.link/deployment
+2020-12-23 16:10:38,456 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 16:10:38,613 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-23 16:10:38,614 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-12-23 16:10:38,616 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-12-23 16:10:38,634 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-23 16:10:38,634 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\backend_202012\backend_202012-1\src\test\resources
+2020-12-23 16:11:11,047 [Worker-48: Building] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Running 'npm install' in C:\frontend_202012
+2020-12-23 16:11:47,500 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN tsutils@3.17.1 requires a peer of typescript@>=2.8.0 || >= 3.2.0-dev || >= 3.3.0-dev || >= 3.4.0-dev || >= 3.5.0-dev || >= 3.6.0-dev || >= 3.6.0-beta || >= 3.7.0-dev || >= 3.7.0-beta but none is installed. You must install peer dependencies yourself.
+2020-12-23 16:11:47,526 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@2.1.3 (node_modules\chokidar\node_modules\fsevents):
+2020-12-23 16:11:47,538 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@2.1.3: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+2020-12-23 16:11:47,554 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@2.2.1 (node_modules\fsevents):
+2020-12-23 16:11:47,567 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@2.2.1: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+2020-12-23 16:11:47,579 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.13 (node_modules\watchpack-chokidar2\node_modules\fsevents):
+2020-12-23 16:11:47,590 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.13: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+2020-12-23 16:11:47,602 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.13 (node_modules\webpack-dev-server\node_modules\fsevents):
+2020-12-23 16:11:47,604 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - removed 8 packages and audited 1885 packages in 32.347s
+2020-12-23 16:11:47,612 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.13: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+2020-12-23 16:11:47,624 [Exec Stream Pumper] ERROR c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 16:11:49,701 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 16:11:49,701 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 123 packages are looking for funding
+2020-12-23 16:11:49,701 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   run `npm fund` for details
+2020-12-23 16:11:49,702 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 16:11:49,702 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - found 1 low severity vulnerability
+2020-12-23 16:11:49,702 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   run `npm audit fix` to fix them, or `npm audit` for details
+2020-12-23 16:11:49,793 [Worker-48: Building] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Running 'npm run build' in C:\frontend_202012
+2020-12-23 16:11:51,607 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 16:11:51,608 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - > frontend_202012@0.1.0 build C:\frontend_202012
+2020-12-23 16:11:51,608 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - > react-scripts build
+2020-12-23 16:11:51,608 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 16:11:59,763 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Creating an optimized production build...
+2020-12-23 16:12:22,807 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Compiled with warnings.
+2020-12-23 16:12:22,808 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 16:12:22,808 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - src\GridTest.js
+2020-12-23 16:12:22,809 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 26:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-23 16:12:22,809 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 35:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-23 16:12:22,809 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 45:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-23 16:12:22,809 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 55:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-23 16:12:22,810 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 65:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-23 16:12:22,810 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 75:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-23 16:12:22,810 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 85:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-23 16:12:22,810 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 96:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-23 16:12:22,811 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 16:12:22,811 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - src\GridTest2.js
+2020-12-23 16:12:22,811 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 50:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-23 16:12:22,811 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 59:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-23 16:12:22,811 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 16:12:22,811 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Search for the keywords to learn more about each warning.
+2020-12-23 16:12:22,811 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - To ignore, add // eslint-disable-next-line to the line before.
+2020-12-23 16:12:22,811 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 16:12:22,812 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - File sizes after gzip:
+2020-12-23 16:12:22,812 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 16:12:22,834 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   78.13 KB  build\static\js\2.8ee57783.chunk.js
+2020-12-23 16:12:22,835 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   1.84 KB   build\static\js\main.62c90346.chunk.js
+2020-12-23 16:12:22,835 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   1.4 KB    build\static\js\3.9d55265e.chunk.js
+2020-12-23 16:12:22,835 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   1.18 KB   build\static\js\runtime-main.020a57e7.js
+2020-12-23 16:12:22,835 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   577 B     build\static\css\main.91380d01.chunk.css
+2020-12-23 16:12:22,835 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 16:12:22,838 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - The project was built assuming it is hosted at /frontend_202012/.
+2020-12-23 16:12:22,839 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - You can control this with the homepage field in your package.json.
+2020-12-23 16:12:22,839 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 16:12:22,839 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - The build folder is ready to be deployed.
+2020-12-23 16:12:22,839 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 16:12:22,839 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Find out more about deployment here:
+2020-12-23 16:12:22,839 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 16:12:22,839 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   https://cra.link/deployment
+2020-12-23 16:12:22,840 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 16:12:23,018 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-23 16:12:23,019 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-12-23 16:12:23,019 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-12-23 16:12:23,029 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-23 16:12:23,029 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\backend_202012\backend_202012-1\src\test\resources
+2020-12-23 16:12:25,077 [Worker-58: Building] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Running 'npm install' in C:\frontend_202012
+2020-12-23 16:13:01,785 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN tsutils@3.17.1 requires a peer of typescript@>=2.8.0 || >= 3.2.0-dev || >= 3.3.0-dev || >= 3.4.0-dev || >= 3.5.0-dev || >= 3.6.0-dev || >= 3.6.0-beta || >= 3.7.0-dev || >= 3.7.0-beta but none is installed. You must install peer dependencies yourself.
+2020-12-23 16:13:01,863 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@2.1.3 (node_modules\chokidar\node_modules\fsevents):
+2020-12-23 16:13:01,955 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@2.1.3: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+2020-12-23 16:13:01,981 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@2.2.1 (node_modules\fsevents):
+2020-12-23 16:13:02,009 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@2.2.1: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+2020-12-23 16:13:02,011 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - removed 8 packages and audited 1885 packages in 33.166s
+2020-12-23 16:13:02,026 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.13 (node_modules\watchpack-chokidar2\node_modules\fsevents):
+2020-12-23 16:13:02,042 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.13: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+2020-12-23 16:13:02,074 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.13 (node_modules\webpack-dev-server\node_modules\fsevents):
+2020-12-23 16:13:02,088 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.13: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+2020-12-23 16:13:02,113 [Exec Stream Pumper] ERROR c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 16:13:06,108 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 16:13:06,108 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 123 packages are looking for funding
+2020-12-23 16:13:06,109 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   run `npm fund` for details
+2020-12-23 16:13:06,109 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 16:13:06,110 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - found 1 low severity vulnerability
+2020-12-23 16:13:06,110 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   run `npm audit fix` to fix them, or `npm audit` for details
+2020-12-23 16:13:06,209 [Worker-58: Building] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Running 'npm run build' in C:\frontend_202012
+2020-12-23 16:13:07,992 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 16:13:07,993 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - > frontend_202012@0.1.0 build C:\frontend_202012
+2020-12-23 16:13:07,993 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - > react-scripts build
+2020-12-23 16:13:07,993 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 16:13:17,088 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Creating an optimized production build...
+2020-12-23 16:13:44,962 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Compiled with warnings.
+2020-12-23 16:13:44,962 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 16:13:44,963 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - src\GridTest.js
+2020-12-23 16:13:44,963 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 26:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-23 16:13:44,964 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 35:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-23 16:13:44,964 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 45:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-23 16:13:44,964 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 55:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-23 16:13:44,964 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 65:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-23 16:13:44,965 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 75:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-23 16:13:44,965 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 85:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-23 16:13:44,965 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 96:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-23 16:13:44,965 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 16:13:44,965 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - src\GridTest2.js
+2020-12-23 16:13:44,965 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 50:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-23 16:13:44,965 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 59:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-23 16:13:44,966 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 16:13:44,966 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Search for the keywords to learn more about each warning.
+2020-12-23 16:13:44,966 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - To ignore, add // eslint-disable-next-line to the line before.
+2020-12-23 16:13:44,967 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 16:13:44,968 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - File sizes after gzip:
+2020-12-23 16:13:44,968 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 16:13:45,002 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   78.13 KB  build\static\js\2.8ee57783.chunk.js
+2020-12-23 16:13:45,003 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   1.84 KB   build\static\js\main.62c90346.chunk.js
+2020-12-23 16:13:45,003 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   1.4 KB    build\static\js\3.9d55265e.chunk.js
+2020-12-23 16:13:45,004 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   1.18 KB   build\static\js\runtime-main.020a57e7.js
+2020-12-23 16:13:45,004 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   577 B     build\static\css\main.91380d01.chunk.css
+2020-12-23 16:13:45,004 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 16:13:45,004 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - The project was built assuming it is hosted at /frontend_202012/.
+2020-12-23 16:13:45,004 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - You can control this with the homepage field in your package.json.
+2020-12-23 16:13:45,005 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 16:13:45,005 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - The build folder is ready to be deployed.
+2020-12-23 16:13:45,005 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 16:13:45,005 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Find out more about deployment here:
+2020-12-23 16:13:45,005 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 16:13:45,006 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   https://cra.link/deployment
+2020-12-23 16:13:45,006 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 16:13:45,237 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-23 16:13:45,242 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-12-23 16:13:45,263 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-12-23 16:13:45,268 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-23 16:13:45,268 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\backend_202012\backend_202012-1\src\test\resources
+2020-12-23 16:13:49,349 [Worker-57: Building] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Running 'npm install' in C:\frontend_202012
+2020-12-23 16:14:25,870 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN tsutils@3.17.1 requires a peer of typescript@>=2.8.0 || >= 3.2.0-dev || >= 3.3.0-dev || >= 3.4.0-dev || >= 3.5.0-dev || >= 3.6.0-dev || >= 3.6.0-beta || >= 3.7.0-dev || >= 3.7.0-beta but none is installed. You must install peer dependencies yourself.
+2020-12-23 16:14:25,895 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@2.1.3 (node_modules\chokidar\node_modules\fsevents):
+2020-12-23 16:14:25,910 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@2.1.3: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+2020-12-23 16:14:25,925 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@2.2.1 (node_modules\fsevents):
+2020-12-23 16:14:25,936 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@2.2.1: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+2020-12-23 16:14:25,951 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.13 (node_modules\watchpack-chokidar2\node_modules\fsevents):
+2020-12-23 16:14:25,962 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.13: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+2020-12-23 16:14:25,975 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.13 (node_modules\webpack-dev-server\node_modules\fsevents):
+2020-12-23 16:14:25,978 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - removed 8 packages and audited 1885 packages in 31.874s
+2020-12-23 16:14:25,988 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.13: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+2020-12-23 16:14:25,998 [Exec Stream Pumper] ERROR c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 16:14:28,873 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 16:14:28,873 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 123 packages are looking for funding
+2020-12-23 16:14:28,873 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   run `npm fund` for details
+2020-12-23 16:14:28,873 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 16:14:28,874 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - found 1 low severity vulnerability
+2020-12-23 16:14:28,875 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   run `npm audit fix` to fix them, or `npm audit` for details
+2020-12-23 16:14:28,945 [Worker-57: Building] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Running 'npm run build' in C:\frontend_202012
+2020-12-23 16:14:30,195 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 16:14:30,196 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - > frontend_202012@0.1.0 build C:\frontend_202012
+2020-12-23 16:14:30,196 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - > react-scripts build
+2020-12-23 16:14:30,196 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 16:14:40,319 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Creating an optimized production build...
+2020-12-23 16:15:07,961 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Compiled with warnings.
+2020-12-23 16:15:07,961 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 16:15:07,962 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - src\GridTest.js
+2020-12-23 16:15:07,962 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 26:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-23 16:15:07,962 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 35:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-23 16:15:07,963 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 45:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-23 16:15:07,963 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 55:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-23 16:15:07,963 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 65:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-23 16:15:07,963 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 75:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-23 16:15:07,964 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 85:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-23 16:15:07,964 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 96:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-23 16:15:07,964 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 16:15:07,964 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - src\GridTest2.js
+2020-12-23 16:15:07,964 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 50:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-23 16:15:07,964 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 59:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-23 16:15:07,964 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 16:15:07,964 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Search for the keywords to learn more about each warning.
+2020-12-23 16:15:07,965 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - To ignore, add // eslint-disable-next-line to the line before.
+2020-12-23 16:15:07,965 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 16:15:07,965 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - File sizes after gzip:
+2020-12-23 16:15:07,965 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 16:15:07,989 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   78.13 KB  build\static\js\2.8ee57783.chunk.js
+2020-12-23 16:15:07,989 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   1.84 KB   build\static\js\main.62c90346.chunk.js
+2020-12-23 16:15:07,989 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   1.4 KB    build\static\js\3.9d55265e.chunk.js
+2020-12-23 16:15:07,989 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   1.18 KB   build\static\js\runtime-main.020a57e7.js
+2020-12-23 16:15:07,989 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   577 B     build\static\css\main.91380d01.chunk.css
+2020-12-23 16:15:07,989 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 16:15:07,989 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - The project was built assuming it is hosted at /frontend_202012/.
+2020-12-23 16:15:07,990 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - You can control this with the homepage field in your package.json.
+2020-12-23 16:15:07,990 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 16:15:07,990 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - The build folder is ready to be deployed.
+2020-12-23 16:15:07,990 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 16:15:07,990 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Find out more about deployment here:
+2020-12-23 16:15:07,990 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 16:15:07,990 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   https://cra.link/deployment
+2020-12-23 16:15:07,990 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 16:15:08,311 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-23 16:15:08,317 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-12-23 16:15:08,328 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-12-23 16:15:08,333 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-23 16:15:08,334 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\backend_202012\backend_202012-1\src\test\resources
+2020-12-23 16:15:13,272 [Worker-25: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.javateam:demo:1.0 @ C:\backend_202012\demo\pom.xml.
+2020-12-23 16:15:21,451 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-23 16:15:21,452 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-12-23 16:15:21,614 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-12-23 16:15:21,618 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-23 16:15:21,619 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\backend_202012\demo\src\test\resources
+2020-12-23 16:17:34,872 [Worker-57: Building] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Running 'npm install' in C:\frontend_202012
+2020-12-23 16:18:10,442 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN tsutils@3.17.1 requires a peer of typescript@>=2.8.0 || >= 3.2.0-dev || >= 3.3.0-dev || >= 3.4.0-dev || >= 3.5.0-dev || >= 3.6.0-dev || >= 3.6.0-beta || >= 3.7.0-dev || >= 3.7.0-beta but none is installed. You must install peer dependencies yourself.
+2020-12-23 16:18:10,468 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@2.1.3 (node_modules\chokidar\node_modules\fsevents):
+2020-12-23 16:18:10,478 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@2.1.3: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+2020-12-23 16:18:10,489 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@2.2.1 (node_modules\fsevents):
+2020-12-23 16:18:10,501 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@2.2.1: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+2020-12-23 16:18:10,513 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.13 (node_modules\watchpack-chokidar2\node_modules\fsevents):
+2020-12-23 16:18:10,526 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.13: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+2020-12-23 16:18:10,538 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - removed 8 packages and audited 1885 packages in 32.022s
+2020-12-23 16:18:10,538 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.13 (node_modules\webpack-dev-server\node_modules\fsevents):
+2020-12-23 16:18:10,548 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.13: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+2020-12-23 16:18:10,563 [Exec Stream Pumper] ERROR c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 16:18:14,452 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 16:18:14,453 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 123 packages are looking for funding
+2020-12-23 16:18:14,454 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   run `npm fund` for details
+2020-12-23 16:18:14,454 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 16:18:14,455 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - found 1 low severity vulnerability
+2020-12-23 16:18:14,456 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   run `npm audit fix` to fix them, or `npm audit` for details
+2020-12-23 16:18:14,576 [Worker-57: Building] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Running 'npm run build' in C:\frontend_202012
+2020-12-23 16:18:16,067 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 16:18:16,068 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - > frontend_202012@0.1.0 build C:\frontend_202012
+2020-12-23 16:18:16,068 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - > react-scripts build
+2020-12-23 16:18:16,069 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 16:18:25,145 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Creating an optimized production build...
+2020-12-23 16:18:49,325 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Compiled with warnings.
+2020-12-23 16:18:49,326 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 16:18:49,326 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - src\GridTest.js
+2020-12-23 16:18:49,327 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 26:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-23 16:18:49,327 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 35:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-23 16:18:49,327 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 45:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-23 16:18:49,327 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 55:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-23 16:18:49,327 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 65:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-23 16:18:49,327 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 75:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-23 16:18:49,328 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 85:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-23 16:18:49,328 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 96:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-23 16:18:49,328 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 16:18:49,328 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - src\GridTest2.js
+2020-12-23 16:18:49,328 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 50:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-23 16:18:49,328 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 59:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-23 16:18:49,328 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 16:18:49,328 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Search for the keywords to learn more about each warning.
+2020-12-23 16:18:49,328 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - To ignore, add // eslint-disable-next-line to the line before.
+2020-12-23 16:18:49,328 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 16:18:49,328 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - File sizes after gzip:
+2020-12-23 16:18:49,329 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 16:18:49,360 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   78.13 KB  build\static\js\2.8ee57783.chunk.js
+2020-12-23 16:18:49,360 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   1.84 KB   build\static\js\main.62c90346.chunk.js
+2020-12-23 16:18:49,360 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   1.4 KB    build\static\js\3.9d55265e.chunk.js
+2020-12-23 16:18:49,360 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   1.18 KB   build\static\js\runtime-main.020a57e7.js
+2020-12-23 16:18:49,361 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   577 B     build\static\css\main.91380d01.chunk.css
+2020-12-23 16:18:49,361 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 16:18:49,361 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - The project was built assuming it is hosted at /frontend_202012/.
+2020-12-23 16:18:49,361 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - You can control this with the homepage field in your package.json.
+2020-12-23 16:18:49,361 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 16:18:49,361 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - The build folder is ready to be deployed.
+2020-12-23 16:18:49,361 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 16:18:49,362 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Find out more about deployment here:
+2020-12-23 16:18:49,362 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 16:18:49,362 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   https://cra.link/deployment
+2020-12-23 16:18:49,362 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 16:18:49,523 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-23 16:18:49,523 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-12-23 16:18:49,524 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-12-23 16:18:49,540 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-23 16:18:49,540 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\backend_202012\backend_202012-1\src\test\resources
+2020-12-23 16:20:28,705 [Worker-62: Building] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Running 'npm install' in C:\frontend_202012
+2020-12-23 16:21:08,357 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN tsutils@3.17.1 requires a peer of typescript@>=2.8.0 || >= 3.2.0-dev || >= 3.3.0-dev || >= 3.4.0-dev || >= 3.5.0-dev || >= 3.6.0-dev || >= 3.6.0-beta || >= 3.7.0-dev || >= 3.7.0-beta but none is installed. You must install peer dependencies yourself.
+2020-12-23 16:21:08,379 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@2.2.1 (node_modules\fsevents):
+2020-12-23 16:21:08,393 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@2.2.1: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+2020-12-23 16:21:08,406 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@2.1.3 (node_modules\chokidar\node_modules\fsevents):
+2020-12-23 16:21:08,418 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@2.1.3: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+2020-12-23 16:21:08,430 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.13 (node_modules\watchpack-chokidar2\node_modules\fsevents):
+2020-12-23 16:21:08,442 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.13: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+2020-12-23 16:21:08,453 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - removed 8 packages and audited 1885 packages in 35.689s
+2020-12-23 16:21:08,454 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.13 (node_modules\webpack-dev-server\node_modules\fsevents):
+2020-12-23 16:21:08,470 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.13: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+2020-12-23 16:21:08,486 [Exec Stream Pumper] ERROR c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 16:21:11,710 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 16:21:11,711 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 123 packages are looking for funding
+2020-12-23 16:21:11,711 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   run `npm fund` for details
+2020-12-23 16:21:11,711 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 16:21:11,712 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - found 1 low severity vulnerability
+2020-12-23 16:21:11,713 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   run `npm audit fix` to fix them, or `npm audit` for details
+2020-12-23 16:21:11,798 [Worker-62: Building] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Running 'npm run build' in C:\frontend_202012
+2020-12-23 16:21:13,157 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 16:21:13,157 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - > frontend_202012@0.1.0 build C:\frontend_202012
+2020-12-23 16:21:13,158 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - > react-scripts build
+2020-12-23 16:21:13,158 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 16:21:22,992 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Creating an optimized production build...
+2020-12-23 16:21:47,735 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Compiled with warnings.
+2020-12-23 16:21:47,735 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 16:21:47,735 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - src\GridTest.js
+2020-12-23 16:21:47,736 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 26:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-23 16:21:47,736 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 35:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-23 16:21:47,736 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 45:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-23 16:21:47,736 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 55:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-23 16:21:47,736 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 65:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-23 16:21:47,736 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 75:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-23 16:21:47,737 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 85:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-23 16:21:47,737 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 96:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-23 16:21:47,737 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 16:21:47,737 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - src\GridTest2.js
+2020-12-23 16:21:47,737 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 50:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-23 16:21:47,737 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 59:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-23 16:21:47,737 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 16:21:47,737 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Search for the keywords to learn more about each warning.
+2020-12-23 16:21:47,737 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - To ignore, add // eslint-disable-next-line to the line before.
+2020-12-23 16:21:47,737 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 16:21:47,737 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - File sizes after gzip:
+2020-12-23 16:21:47,737 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 16:21:47,774 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   78.13 KB  build\static\js\2.8ee57783.chunk.js
+2020-12-23 16:21:47,775 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   1.84 KB   build\static\js\main.62c90346.chunk.js
+2020-12-23 16:21:47,775 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   1.4 KB    build\static\js\3.9d55265e.chunk.js
+2020-12-23 16:21:47,775 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   1.18 KB   build\static\js\runtime-main.020a57e7.js
+2020-12-23 16:21:47,775 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   577 B     build\static\css\main.91380d01.chunk.css
+2020-12-23 16:21:47,775 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 16:21:47,776 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - The project was built assuming it is hosted at /frontend_202012/.
+2020-12-23 16:21:47,776 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - You can control this with the homepage field in your package.json.
+2020-12-23 16:21:47,776 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 16:21:47,777 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - The build folder is ready to be deployed.
+2020-12-23 16:21:47,777 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 16:21:47,777 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Find out more about deployment here:
+2020-12-23 16:21:47,777 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 16:21:47,777 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   https://cra.link/deployment
+2020-12-23 16:21:47,777 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 16:21:47,954 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-23 16:21:47,954 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-12-23 16:21:47,959 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-12-23 16:21:47,962 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-23 16:21:47,962 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\backend_202012\backend_202012-1\src\test\resources
+2020-12-23 16:22:27,989 [Worker-66: Building Workspace] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Running 'npm install' in C:\frontend_202012
+2020-12-23 16:23:11,149 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN tsutils@3.17.1 requires a peer of typescript@>=2.8.0 || >= 3.2.0-dev || >= 3.3.0-dev || >= 3.4.0-dev || >= 3.5.0-dev || >= 3.6.0-dev || >= 3.6.0-beta || >= 3.7.0-dev || >= 3.7.0-beta but none is installed. You must install peer dependencies yourself.
+2020-12-23 16:23:11,174 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@2.1.3 (node_modules\chokidar\node_modules\fsevents):
+2020-12-23 16:23:11,186 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@2.1.3: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+2020-12-23 16:23:11,200 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@2.2.1 (node_modules\fsevents):
+2020-12-23 16:23:11,211 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@2.2.1: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+2020-12-23 16:23:11,222 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.13 (node_modules\webpack-dev-server\node_modules\fsevents):
+2020-12-23 16:23:11,233 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.13: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+2020-12-23 16:23:11,251 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.13 (node_modules\watchpack-chokidar2\node_modules\fsevents):
+2020-12-23 16:23:11,251 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - removed 8 packages and audited 1885 packages in 38.75s
+2020-12-23 16:23:11,263 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.13: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+2020-12-23 16:23:11,282 [Exec Stream Pumper] ERROR c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 16:23:13,642 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 16:23:13,643 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 123 packages are looking for funding
+2020-12-23 16:23:13,643 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   run `npm fund` for details
+2020-12-23 16:23:13,643 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 16:23:13,644 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - found 1 low severity vulnerability
+2020-12-23 16:23:13,644 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   run `npm audit fix` to fix them, or `npm audit` for details
+2020-12-23 16:23:13,730 [Worker-66: Building Workspace] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Running 'npm run build' in C:\frontend_202012
+2020-12-23 16:23:15,248 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 16:23:15,249 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - > frontend_202012@0.1.0 build C:\frontend_202012
+2020-12-23 16:23:15,249 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - > react-scripts build
+2020-12-23 16:23:15,250 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 16:23:23,758 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Creating an optimized production build...
+2020-12-23 16:23:55,405 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Compiled with warnings.
+2020-12-23 16:23:55,406 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 16:23:55,406 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - src\GridTest.js
+2020-12-23 16:23:55,406 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 26:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-23 16:23:55,406 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 35:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-23 16:23:55,406 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 45:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-23 16:23:55,406 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 55:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-23 16:23:55,406 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 65:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-23 16:23:55,407 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 75:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-23 16:23:55,407 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 85:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-23 16:23:55,407 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 96:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-23 16:23:55,407 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 16:23:55,407 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - src\GridTest2.js
+2020-12-23 16:23:55,407 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 50:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-23 16:23:55,407 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 59:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-23 16:23:55,407 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 16:23:55,407 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Search for the keywords to learn more about each warning.
+2020-12-23 16:23:55,407 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - To ignore, add // eslint-disable-next-line to the line before.
+2020-12-23 16:23:55,407 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 16:23:55,407 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - File sizes after gzip:
+2020-12-23 16:23:55,407 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 16:23:55,439 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   78.13 KB  build\static\js\2.8ee57783.chunk.js
+2020-12-23 16:23:55,439 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   1.84 KB   build\static\js\main.62c90346.chunk.js
+2020-12-23 16:23:55,439 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   1.4 KB    build\static\js\3.9d55265e.chunk.js
+2020-12-23 16:23:55,440 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   1.18 KB   build\static\js\runtime-main.020a57e7.js
+2020-12-23 16:23:55,440 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   577 B     build\static\css\main.91380d01.chunk.css
+2020-12-23 16:23:55,440 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 16:23:55,440 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - The project was built assuming it is hosted at /frontend_202012/.
+2020-12-23 16:23:55,440 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - You can control this with the homepage field in your package.json.
+2020-12-23 16:23:55,440 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 16:23:55,440 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - The build folder is ready to be deployed.
+2020-12-23 16:23:55,440 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 16:23:55,440 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Find out more about deployment here:
+2020-12-23 16:23:55,440 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 16:23:55,440 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   https://cra.link/deployment
+2020-12-23 16:23:55,440 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 16:23:55,581 [Worker-66: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-23 16:23:55,586 [Worker-66: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-12-23 16:23:55,592 [Worker-66: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-12-23 16:23:55,615 [Worker-66: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-23 16:23:55,615 [Worker-66: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\backend_202012\backend_202012-1\src\test\resources
+2020-12-23 16:52:17,389 [Worker-66: Building] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Running 'npm install' in C:\frontend_202012
+2020-12-23 16:52:55,465 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN tsutils@3.17.1 requires a peer of typescript@>=2.8.0 || >= 3.2.0-dev || >= 3.3.0-dev || >= 3.4.0-dev || >= 3.5.0-dev || >= 3.6.0-dev || >= 3.6.0-beta || >= 3.7.0-dev || >= 3.7.0-beta but none is installed. You must install peer dependencies yourself.
+2020-12-23 16:52:55,509 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@2.1.3 (node_modules\chokidar\node_modules\fsevents):
+2020-12-23 16:52:55,523 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@2.1.3: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+2020-12-23 16:52:55,563 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@2.2.1 (node_modules\fsevents):
+2020-12-23 16:52:55,577 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@2.2.1: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+2020-12-23 16:52:55,597 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.13 (node_modules\watchpack-chokidar2\node_modules\fsevents):
+2020-12-23 16:52:55,611 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.13: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+2020-12-23 16:52:55,636 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.13 (node_modules\webpack-dev-server\node_modules\fsevents):
+2020-12-23 16:52:55,648 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - removed 8 packages and audited 1885 packages in 34.098s
+2020-12-23 16:52:55,655 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.13: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+2020-12-23 16:52:55,668 [Exec Stream Pumper] ERROR c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 16:52:59,155 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 16:52:59,156 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 123 packages are looking for funding
+2020-12-23 16:52:59,156 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   run `npm fund` for details
+2020-12-23 16:52:59,157 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 16:52:59,159 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - found 1 low severity vulnerability
+2020-12-23 16:52:59,159 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   run `npm audit fix` to fix them, or `npm audit` for details
+2020-12-23 16:52:59,271 [Worker-66: Building] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Running 'npm run build' in C:\frontend_202012
+2020-12-23 16:53:00,858 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 16:53:00,858 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - > frontend_202012@0.1.0 build C:\frontend_202012
+2020-12-23 16:53:00,858 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - > react-scripts build
+2020-12-23 16:53:00,858 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 16:53:09,861 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Creating an optimized production build...
+2020-12-23 16:53:33,565 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Compiled with warnings.
+2020-12-23 16:53:33,565 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 16:53:33,566 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - src\GridTest.js
+2020-12-23 16:53:33,566 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 26:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-23 16:53:33,566 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 35:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-23 16:53:33,566 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 45:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-23 16:53:33,566 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 55:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-23 16:53:33,567 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 65:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-23 16:53:33,567 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 75:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-23 16:53:33,567 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 85:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-23 16:53:33,567 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 96:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-23 16:53:33,567 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 16:53:33,567 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - src\GridTest2.js
+2020-12-23 16:53:33,567 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 50:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-23 16:53:33,567 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 59:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-23 16:53:33,568 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 16:53:33,568 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Search for the keywords to learn more about each warning.
+2020-12-23 16:53:33,568 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - To ignore, add // eslint-disable-next-line to the line before.
+2020-12-23 16:53:33,568 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 16:53:33,568 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - File sizes after gzip:
+2020-12-23 16:53:33,568 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 16:53:33,599 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   78.13 KB  build\static\js\2.8ee57783.chunk.js
+2020-12-23 16:53:33,600 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   1.84 KB   build\static\js\main.62c90346.chunk.js
+2020-12-23 16:53:33,600 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   1.4 KB    build\static\js\3.9d55265e.chunk.js
+2020-12-23 16:53:33,601 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   1.18 KB   build\static\js\runtime-main.020a57e7.js
+2020-12-23 16:53:33,601 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   577 B     build\static\css\main.91380d01.chunk.css
+2020-12-23 16:53:33,602 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 16:53:33,603 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - The project was built assuming it is hosted at /frontend_202012/.
+2020-12-23 16:53:33,603 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - You can control this with the homepage field in your package.json.
+2020-12-23 16:53:33,604 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 16:53:33,605 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - The build folder is ready to be deployed.
+2020-12-23 16:53:33,606 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 16:53:33,607 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Find out more about deployment here:
+2020-12-23 16:53:33,607 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 16:53:33,608 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   https://cra.link/deployment
+2020-12-23 16:53:33,608 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 16:53:33,819 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-23 16:53:33,821 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-12-23 16:53:33,827 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-12-23 16:53:33,831 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-23 16:53:33,831 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\backend_202012\backend_202012-1\src\test\resources
+2020-12-23 16:53:39,771 [Worker-75: Building] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Running 'npm install' in C:\frontend_202012
+2020-12-23 16:54:29,046 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN tsutils@3.17.1 requires a peer of typescript@>=2.8.0 || >= 3.2.0-dev || >= 3.3.0-dev || >= 3.4.0-dev || >= 3.5.0-dev || >= 3.6.0-dev || >= 3.6.0-beta || >= 3.7.0-dev || >= 3.7.0-beta but none is installed. You must install peer dependencies yourself.
+2020-12-23 16:54:29,088 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@2.1.3 (node_modules\chokidar\node_modules\fsevents):
+2020-12-23 16:54:29,101 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@2.1.3: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+2020-12-23 16:54:29,135 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@2.2.1 (node_modules\fsevents):
+2020-12-23 16:54:29,156 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@2.2.1: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+2020-12-23 16:54:29,184 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.13 (node_modules\watchpack-chokidar2\node_modules\fsevents):
+2020-12-23 16:54:29,201 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.13: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+2020-12-23 16:54:29,226 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.13 (node_modules\webpack-dev-server\node_modules\fsevents):
+2020-12-23 16:54:29,230 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - removed 8 packages and audited 1885 packages in 45.801s
+2020-12-23 16:54:29,239 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.13: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+2020-12-23 16:54:29,257 [Exec Stream Pumper] ERROR c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 16:54:33,710 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 16:54:33,710 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 123 packages are looking for funding
+2020-12-23 16:54:33,711 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   run `npm fund` for details
+2020-12-23 16:54:33,711 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 16:54:33,711 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - found 1 low severity vulnerability
+2020-12-23 16:54:33,711 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   run `npm audit fix` to fix them, or `npm audit` for details
+2020-12-23 16:54:33,802 [Worker-75: Building] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Running 'npm run build' in C:\frontend_202012
+2020-12-23 16:54:35,668 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 16:54:35,668 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - > frontend_202012@0.1.0 build C:\frontend_202012
+2020-12-23 16:54:35,669 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - > react-scripts build
+2020-12-23 16:54:35,669 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 16:54:46,723 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Creating an optimized production build...
+2020-12-23 16:55:14,416 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Compiled with warnings.
+2020-12-23 16:55:14,416 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 16:55:14,416 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - src\GridTest.js
+2020-12-23 16:55:14,416 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 26:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-23 16:55:14,417 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 35:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-23 16:55:14,417 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 45:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-23 16:55:14,417 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 55:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-23 16:55:14,417 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 65:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-23 16:55:14,417 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 75:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-23 16:55:14,417 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 85:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-23 16:55:14,417 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 96:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-23 16:55:14,417 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 16:55:14,417 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - src\GridTest2.js
+2020-12-23 16:55:14,418 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 50:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-23 16:55:14,418 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 59:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-23 16:55:14,418 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 16:55:14,418 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Search for the keywords to learn more about each warning.
+2020-12-23 16:55:14,418 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - To ignore, add // eslint-disable-next-line to the line before.
+2020-12-23 16:55:14,418 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 16:55:14,418 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - File sizes after gzip:
+2020-12-23 16:55:14,418 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 16:55:14,458 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   78.13 KB  build\static\js\2.8ee57783.chunk.js
+2020-12-23 16:55:14,459 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   1.84 KB   build\static\js\main.62c90346.chunk.js
+2020-12-23 16:55:14,459 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   1.4 KB    build\static\js\3.9d55265e.chunk.js
+2020-12-23 16:55:14,459 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   1.18 KB   build\static\js\runtime-main.020a57e7.js
+2020-12-23 16:55:14,459 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   577 B     build\static\css\main.91380d01.chunk.css
+2020-12-23 16:55:14,459 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 16:55:14,460 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - The project was built assuming it is hosted at /frontend_202012/.
+2020-12-23 16:55:14,460 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - You can control this with the homepage field in your package.json.
+2020-12-23 16:55:14,460 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 16:55:14,460 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - The build folder is ready to be deployed.
+2020-12-23 16:55:14,460 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 16:55:14,460 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Find out more about deployment here:
+2020-12-23 16:55:14,460 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 16:55:14,461 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   https://cra.link/deployment
+2020-12-23 16:55:14,461 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 16:55:14,684 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-23 16:55:14,690 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-12-23 16:55:14,701 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-12-23 16:55:14,706 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-23 16:55:14,707 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\backend_202012\backend_202012-1\src\test\resources
+2020-12-23 17:04:03,749 [Worker-84: Building] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Running 'npm install' in C:\frontend_202012
+2020-12-23 17:04:44,421 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN tsutils@3.17.1 requires a peer of typescript@>=2.8.0 || >= 3.2.0-dev || >= 3.3.0-dev || >= 3.4.0-dev || >= 3.5.0-dev || >= 3.6.0-dev || >= 3.6.0-beta || >= 3.7.0-dev || >= 3.7.0-beta but none is installed. You must install peer dependencies yourself.
+2020-12-23 17:04:44,467 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@2.1.3 (node_modules\chokidar\node_modules\fsevents):
+2020-12-23 17:04:44,481 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@2.1.3: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+2020-12-23 17:04:44,503 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@2.2.1 (node_modules\fsevents):
+2020-12-23 17:04:44,516 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@2.2.1: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+2020-12-23 17:04:44,530 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.13 (node_modules\watchpack-chokidar2\node_modules\fsevents):
+2020-12-23 17:04:44,545 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.13: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+2020-12-23 17:04:44,564 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.13 (node_modules\webpack-dev-server\node_modules\fsevents):
+2020-12-23 17:04:44,568 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - removed 8 packages and audited 1885 packages in 36.171s
+2020-12-23 17:04:44,580 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.13: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+2020-12-23 17:04:44,605 [Exec Stream Pumper] ERROR c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 17:04:48,267 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 17:04:48,267 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 123 packages are looking for funding
+2020-12-23 17:04:48,268 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   run `npm fund` for details
+2020-12-23 17:04:48,268 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 17:04:48,269 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - found 1 low severity vulnerability
+2020-12-23 17:04:48,269 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   run `npm audit fix` to fix them, or `npm audit` for details
+2020-12-23 17:04:48,350 [Worker-84: Building] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Running 'npm run build' in C:\frontend_202012
+2020-12-23 17:04:50,123 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 17:04:50,124 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - > frontend_202012@0.1.0 build C:\frontend_202012
+2020-12-23 17:04:50,124 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - > react-scripts build
+2020-12-23 17:04:50,124 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 17:05:00,282 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Creating an optimized production build...
+2020-12-23 17:05:30,677 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Compiled with warnings.
+2020-12-23 17:05:30,677 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 17:05:30,678 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - src\GridTest.js
+2020-12-23 17:05:30,678 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 26:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-23 17:05:30,678 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 35:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-23 17:05:30,679 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 45:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-23 17:05:30,679 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 55:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-23 17:05:30,679 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 65:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-23 17:05:30,679 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 75:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-23 17:05:30,679 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 85:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-23 17:05:30,679 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 96:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-23 17:05:30,679 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 17:05:30,679 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - src\GridTest2.js
+2020-12-23 17:05:30,680 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 50:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-23 17:05:30,680 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 59:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-23 17:05:30,680 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 17:05:30,680 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Search for the keywords to learn more about each warning.
+2020-12-23 17:05:30,680 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - To ignore, add // eslint-disable-next-line to the line before.
+2020-12-23 17:05:30,680 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 17:05:30,680 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - File sizes after gzip:
+2020-12-23 17:05:30,680 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 17:05:30,719 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   78.13 KB  build\static\js\2.8ee57783.chunk.js
+2020-12-23 17:05:30,719 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   1.84 KB   build\static\js\main.62c90346.chunk.js
+2020-12-23 17:05:30,719 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   1.4 KB    build\static\js\3.9d55265e.chunk.js
+2020-12-23 17:05:30,720 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   1.18 KB   build\static\js\runtime-main.020a57e7.js
+2020-12-23 17:05:30,720 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   577 B     build\static\css\main.91380d01.chunk.css
+2020-12-23 17:05:30,720 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 17:05:30,721 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - The project was built assuming it is hosted at /frontend_202012/.
+2020-12-23 17:05:30,722 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - You can control this with the homepage field in your package.json.
+2020-12-23 17:05:30,722 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 17:05:30,722 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - The build folder is ready to be deployed.
+2020-12-23 17:05:30,722 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 17:05:30,723 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Find out more about deployment here:
+2020-12-23 17:05:30,723 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 17:05:30,723 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   https://cra.link/deployment
+2020-12-23 17:05:30,723 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 17:05:30,934 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-23 17:05:30,935 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-12-23 17:05:30,943 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-12-23 17:05:30,946 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-23 17:05:30,947 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\backend_202012\backend_202012-1\src\test\resources
+2020-12-23 17:10:57,975 [Worker-84: Building] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Running 'npm install' in C:\frontend_202012
+2020-12-23 17:11:47,254 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN tsutils@3.17.1 requires a peer of typescript@>=2.8.0 || >= 3.2.0-dev || >= 3.3.0-dev || >= 3.4.0-dev || >= 3.5.0-dev || >= 3.6.0-dev || >= 3.6.0-beta || >= 3.7.0-dev || >= 3.7.0-beta but none is installed. You must install peer dependencies yourself.
+2020-12-23 17:11:47,361 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@2.1.3 (node_modules\chokidar\node_modules\fsevents):
+2020-12-23 17:11:47,379 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@2.1.3: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+2020-12-23 17:11:47,499 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@2.2.1 (node_modules\fsevents):
+2020-12-23 17:11:47,524 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@2.2.1: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+2020-12-23 17:11:47,628 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.13 (node_modules\watchpack-chokidar2\node_modules\fsevents):
+2020-12-23 17:11:47,658 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.13: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+2020-12-23 17:11:47,679 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.13 (node_modules\webpack-dev-server\node_modules\fsevents):
+2020-12-23 17:11:47,683 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - removed 8 packages and audited 1885 packages in 45.2s
+2020-12-23 17:11:47,701 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.13: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+2020-12-23 17:11:47,727 [Exec Stream Pumper] ERROR c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 17:11:52,611 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 17:11:52,611 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 123 packages are looking for funding
+2020-12-23 17:11:52,612 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   run `npm fund` for details
+2020-12-23 17:11:52,612 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 17:11:52,612 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - found 1 low severity vulnerability
+2020-12-23 17:11:52,612 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   run `npm audit fix` to fix them, or `npm audit` for details
+2020-12-23 17:11:52,689 [Worker-84: Building] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Running 'npm run build' in C:\frontend_202012
+2020-12-23 17:11:54,073 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 17:11:54,074 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - > frontend_202012@0.1.0 build C:\frontend_202012
+2020-12-23 17:11:54,074 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - > react-scripts build
+2020-12-23 17:11:54,074 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 17:12:03,182 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Creating an optimized production build...
+2020-12-23 17:12:39,915 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Compiled with warnings.
+2020-12-23 17:12:39,915 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 17:12:39,916 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - src\GridTest.js
+2020-12-23 17:12:39,916 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 26:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-23 17:12:39,916 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 35:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-23 17:12:39,917 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 45:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-23 17:12:39,917 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 55:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-23 17:12:39,917 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 65:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-23 17:12:39,917 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 75:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-23 17:12:39,917 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 85:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-23 17:12:39,917 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 96:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-23 17:12:39,917 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 17:12:39,918 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - src\GridTest2.js
+2020-12-23 17:12:39,918 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 50:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-23 17:12:39,918 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 59:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-23 17:12:39,918 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 17:12:39,918 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Search for the keywords to learn more about each warning.
+2020-12-23 17:12:39,918 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - To ignore, add // eslint-disable-next-line to the line before.
+2020-12-23 17:12:39,918 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 17:12:39,918 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - File sizes after gzip:
+2020-12-23 17:12:39,919 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 17:12:40,002 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   78.13 KB  build\static\js\2.8ee57783.chunk.js
+2020-12-23 17:12:40,002 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   1.84 KB   build\static\js\main.62c90346.chunk.js
+2020-12-23 17:12:40,003 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   1.4 KB    build\static\js\3.9d55265e.chunk.js
+2020-12-23 17:12:40,003 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   1.18 KB   build\static\js\runtime-main.020a57e7.js
+2020-12-23 17:12:40,003 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   577 B     build\static\css\main.91380d01.chunk.css
+2020-12-23 17:12:40,003 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 17:12:40,006 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - The project was built assuming it is hosted at /frontend_202012/.
+2020-12-23 17:12:40,006 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - You can control this with the homepage field in your package.json.
+2020-12-23 17:12:40,006 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 17:12:40,006 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - The build folder is ready to be deployed.
+2020-12-23 17:12:40,006 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 17:12:40,006 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Find out more about deployment here:
+2020-12-23 17:12:40,006 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 17:12:40,007 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   https://cra.link/deployment
+2020-12-23 17:12:40,007 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 17:12:40,313 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-23 17:12:40,314 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-12-23 17:12:40,315 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-12-23 17:12:40,350 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-23 17:12:40,350 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\backend_202012\backend_202012-1\src\test\resources
+2020-12-23 17:16:16,802 [Worker-90: Building] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Running 'npm install' in C:\frontend_202012
+2020-12-23 17:16:51,583 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN tsutils@3.17.1 requires a peer of typescript@>=2.8.0 || >= 3.2.0-dev || >= 3.3.0-dev || >= 3.4.0-dev || >= 3.5.0-dev || >= 3.6.0-dev || >= 3.6.0-beta || >= 3.7.0-dev || >= 3.7.0-beta but none is installed. You must install peer dependencies yourself.
+2020-12-23 17:16:51,697 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@2.1.3 (node_modules\chokidar\node_modules\fsevents):
+2020-12-23 17:16:51,720 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@2.1.3: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+2020-12-23 17:16:51,831 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.13 (node_modules\watchpack-chokidar2\node_modules\fsevents):
+2020-12-23 17:16:51,854 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.13: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+2020-12-23 17:16:51,919 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@2.2.1 (node_modules\fsevents):
+2020-12-23 17:16:51,948 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@2.2.1: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+2020-12-23 17:16:51,984 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.13 (node_modules\webpack-dev-server\node_modules\fsevents):
+2020-12-23 17:16:51,992 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - removed 8 packages and audited 1885 packages in 30.441s
+2020-12-23 17:16:52,001 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.13: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+2020-12-23 17:16:52,029 [Exec Stream Pumper] ERROR c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 17:16:54,909 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 17:16:54,910 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 123 packages are looking for funding
+2020-12-23 17:16:54,910 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   run `npm fund` for details
+2020-12-23 17:16:54,910 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 17:16:54,913 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - found 1 low severity vulnerability
+2020-12-23 17:16:54,913 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   run `npm audit fix` to fix them, or `npm audit` for details
+2020-12-23 17:16:55,057 [Worker-90: Building] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Running 'npm run build' in C:\frontend_202012
+2020-12-23 17:16:56,434 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 17:16:56,435 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - > frontend_202012@0.1.0 build C:\frontend_202012
+2020-12-23 17:16:56,435 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - > react-scripts build
+2020-12-23 17:16:56,435 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 17:17:06,252 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Creating an optimized production build...
+2020-12-23 17:17:31,022 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Compiled with warnings.
+2020-12-23 17:17:31,022 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 17:17:31,023 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - src\GridTest.js
+2020-12-23 17:17:31,023 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 26:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-23 17:17:31,023 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 35:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-23 17:17:31,023 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 45:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-23 17:17:31,023 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 55:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-23 17:17:31,024 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 65:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-23 17:17:31,024 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 75:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-23 17:17:31,024 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 85:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-23 17:17:31,024 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 96:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-23 17:17:31,024 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 17:17:31,024 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - src\GridTest2.js
+2020-12-23 17:17:31,024 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 50:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-23 17:17:31,024 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 59:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-23 17:17:31,024 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 17:17:31,025 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Search for the keywords to learn more about each warning.
+2020-12-23 17:17:31,025 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - To ignore, add // eslint-disable-next-line to the line before.
+2020-12-23 17:17:31,025 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 17:17:31,027 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - File sizes after gzip:
+2020-12-23 17:17:31,027 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 17:17:31,070 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   78.13 KB  build\static\js\2.8ee57783.chunk.js
+2020-12-23 17:17:31,070 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   1.84 KB   build\static\js\main.62c90346.chunk.js
+2020-12-23 17:17:31,070 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   1.4 KB    build\static\js\3.9d55265e.chunk.js
+2020-12-23 17:17:31,070 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   1.18 KB   build\static\js\runtime-main.020a57e7.js
+2020-12-23 17:17:31,071 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   577 B     build\static\css\main.91380d01.chunk.css
+2020-12-23 17:17:31,071 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 17:17:31,071 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - The project was built assuming it is hosted at /frontend_202012/.
+2020-12-23 17:17:31,071 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - You can control this with the homepage field in your package.json.
+2020-12-23 17:17:31,072 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 17:17:31,072 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - The build folder is ready to be deployed.
+2020-12-23 17:17:31,072 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 17:17:31,072 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Find out more about deployment here:
+2020-12-23 17:17:31,073 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 17:17:31,073 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   https://cra.link/deployment
+2020-12-23 17:17:31,073 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 17:17:31,384 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-23 17:17:31,392 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-12-23 17:17:31,406 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-12-23 17:17:31,411 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-23 17:17:31,412 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\backend_202012\backend_202012-1\src\test\resources
+2020-12-23 17:17:32,651 [Worker-95: Building] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Running 'npm install' in C:\frontend_202012
+2020-12-23 17:18:09,036 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN tsutils@3.17.1 requires a peer of typescript@>=2.8.0 || >= 3.2.0-dev || >= 3.3.0-dev || >= 3.4.0-dev || >= 3.5.0-dev || >= 3.6.0-dev || >= 3.6.0-beta || >= 3.7.0-dev || >= 3.7.0-beta but none is installed. You must install peer dependencies yourself.
+2020-12-23 17:18:09,088 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@2.1.3 (node_modules\chokidar\node_modules\fsevents):
+2020-12-23 17:18:09,105 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@2.1.3: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+2020-12-23 17:18:09,133 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@2.2.1 (node_modules\fsevents):
+2020-12-23 17:18:09,155 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@2.2.1: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+2020-12-23 17:18:09,180 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.13 (node_modules\watchpack-chokidar2\node_modules\fsevents):
+2020-12-23 17:18:09,198 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.13: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+2020-12-23 17:18:09,217 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.13 (node_modules\webpack-dev-server\node_modules\fsevents):
+2020-12-23 17:18:09,221 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - removed 8 packages and audited 1885 packages in 32.579s
+2020-12-23 17:18:09,233 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.13: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+2020-12-23 17:18:09,247 [Exec Stream Pumper] ERROR c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 17:18:11,910 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 17:18:11,910 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 123 packages are looking for funding
+2020-12-23 17:18:11,910 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   run `npm fund` for details
+2020-12-23 17:18:11,910 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 17:18:11,911 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - found 1 low severity vulnerability
+2020-12-23 17:18:11,911 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   run `npm audit fix` to fix them, or `npm audit` for details
+2020-12-23 17:18:12,032 [Worker-95: Building] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Running 'npm run build' in C:\frontend_202012
+2020-12-23 17:18:13,279 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 17:18:13,280 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - > frontend_202012@0.1.0 build C:\frontend_202012
+2020-12-23 17:18:13,280 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - > react-scripts build
+2020-12-23 17:18:13,280 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 17:18:22,194 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Creating an optimized production build...
+2020-12-23 17:18:51,756 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Compiled with warnings.
+2020-12-23 17:18:51,756 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 17:18:51,757 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - src\GridTest.js
+2020-12-23 17:18:51,757 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 26:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-23 17:18:51,757 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 35:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-23 17:18:51,757 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 45:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-23 17:18:51,758 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 55:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-23 17:18:51,758 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 65:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-23 17:18:51,758 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 75:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-23 17:18:51,758 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 85:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-23 17:18:51,758 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 96:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-23 17:18:51,758 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 17:18:51,758 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - src\GridTest2.js
+2020-12-23 17:18:51,758 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 50:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-23 17:18:51,758 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 59:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-23 17:18:51,758 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 17:18:51,758 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Search for the keywords to learn more about each warning.
+2020-12-23 17:18:51,758 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - To ignore, add // eslint-disable-next-line to the line before.
+2020-12-23 17:18:51,759 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 17:18:51,759 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - File sizes after gzip:
+2020-12-23 17:18:51,759 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 17:18:51,781 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   78.13 KB  build\static\js\2.8ee57783.chunk.js
+2020-12-23 17:18:51,781 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   1.84 KB   build\static\js\main.62c90346.chunk.js
+2020-12-23 17:18:51,781 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   1.4 KB    build\static\js\3.9d55265e.chunk.js
+2020-12-23 17:18:51,781 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   1.18 KB   build\static\js\runtime-main.020a57e7.js
+2020-12-23 17:18:51,781 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   577 B     build\static\css\main.91380d01.chunk.css
+2020-12-23 17:18:51,782 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 17:18:51,782 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - The project was built assuming it is hosted at /frontend_202012/.
+2020-12-23 17:18:51,782 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - You can control this with the homepage field in your package.json.
+2020-12-23 17:18:51,782 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 17:18:51,782 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - The build folder is ready to be deployed.
+2020-12-23 17:18:51,782 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 17:18:51,782 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Find out more about deployment here:
+2020-12-23 17:18:51,782 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 17:18:51,782 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   https://cra.link/deployment
+2020-12-23 17:18:51,782 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 17:18:51,954 [Worker-95: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-23 17:18:51,955 [Worker-95: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-12-23 17:18:51,956 [Worker-95: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-12-23 17:18:51,977 [Worker-95: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-23 17:18:51,977 [Worker-95: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\backend_202012\backend_202012-1\src\test\resources
+2020-12-23 17:28:55,317 [Worker-101: Building] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Running 'npm install' in C:\frontend_202012
+2020-12-23 17:29:39,831 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN tsutils@3.17.1 requires a peer of typescript@>=2.8.0 || >= 3.2.0-dev || >= 3.3.0-dev || >= 3.4.0-dev || >= 3.5.0-dev || >= 3.6.0-dev || >= 3.6.0-beta || >= 3.7.0-dev || >= 3.7.0-beta but none is installed. You must install peer dependencies yourself.
+2020-12-23 17:29:39,854 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.13 (node_modules\watchpack-chokidar2\node_modules\fsevents):
+2020-12-23 17:29:39,869 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.13: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+2020-12-23 17:29:39,884 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@2.1.3 (node_modules\chokidar\node_modules\fsevents):
+2020-12-23 17:29:39,897 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@2.1.3: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+2020-12-23 17:29:39,915 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@2.2.1 (node_modules\fsevents):
+2020-12-23 17:29:39,927 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@2.2.1: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+2020-12-23 17:29:39,942 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.13 (node_modules\webpack-dev-server\node_modules\fsevents):
+2020-12-23 17:29:39,962 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.13: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+2020-12-23 17:29:39,962 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - removed 8 packages and audited 1885 packages in 40.857s
+2020-12-23 17:29:39,972 [Exec Stream Pumper] ERROR c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 17:29:43,154 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 17:29:43,154 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 123 packages are looking for funding
+2020-12-23 17:29:43,154 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   run `npm fund` for details
+2020-12-23 17:29:43,154 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 17:29:43,155 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - found 1 low severity vulnerability
+2020-12-23 17:29:43,155 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   run `npm audit fix` to fix them, or `npm audit` for details
+2020-12-23 17:29:43,245 [Worker-101: Building] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Running 'npm run build' in C:\frontend_202012
+2020-12-23 17:29:44,449 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 17:29:44,450 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - > frontend_202012@0.1.0 build C:\frontend_202012
+2020-12-23 17:29:44,450 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - > react-scripts build
+2020-12-23 17:29:44,450 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 17:29:54,028 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Creating an optimized production build...
+2020-12-23 17:30:22,958 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Compiled with warnings.
+2020-12-23 17:30:22,959 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 17:30:22,959 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - src\GridTest.js
+2020-12-23 17:30:22,960 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 26:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-23 17:30:22,960 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 35:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-23 17:30:22,960 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 45:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-23 17:30:22,960 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 55:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-23 17:30:22,960 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 65:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-23 17:30:22,960 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 75:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-23 17:30:22,961 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 85:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-23 17:30:22,961 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 96:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-23 17:30:22,961 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2020-12-23 17:30:22,961 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - src\GridTest2.js
+2020-12-23 17:30:22,961 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 50:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-23 17:30:22,961 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   Line 59:15:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+2020-12-23 17:30:22,961 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
