@@ -1,28 +1,32 @@
 package com.proj.backend.controller;
 
-import org.springframework.stereotype.Controller;
+import javax.servlet.http.HttpServletRequest;
+
+import org.springframework.http.ResponseEntity;
 import org.springframework.ui.Model;
+import org.springframework.web.bind.annotation.CrossOrigin;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RestController;
 
 import com.proj.backend.domain.UserVO;
 
 import lombok.extern.slf4j.Slf4j;
 
-//import ospringframework.web.bind.annotation.RestController;
 
 @Slf4j
-@Controller
-//@RequestMapping("/api")
+@RestController
+@RequestMapping(value = "/api")
 public class TestController {
 	
-//	@PostMapping(value = "/ip")
-//	public ResponseEntity<String> ip (HttpServletRequest request) {
-//		//요청을 보낸 클라이언트 IP 주소 반환
-//		return ResponseEntity.ok(request.getRemoteAddr());
-//	}
+	@RequestMapping(value = "/ip")
+	public ResponseEntity<String> ip (HttpServletRequest request) {
+		log.info("/api/ip들어갔니");
+		//요청을 보낸 클라이언트 IP 주소 반환
+		return ResponseEntity.ok(request.getRemoteAddr());
+	}
 	
-	@RequestMapping("/")
+	@RequestMapping("/home")
 	public String rootMethod() {
 		log.info("looooog");
 		
