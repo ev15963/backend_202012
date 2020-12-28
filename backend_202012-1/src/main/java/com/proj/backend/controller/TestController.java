@@ -4,8 +4,8 @@ import javax.servlet.http.HttpServletRequest;
 
 import org.springframework.http.ResponseEntity;
 import org.springframework.ui.Model;
-import org.springframework.web.bind.annotation.CrossOrigin;
 import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
@@ -16,10 +16,10 @@ import lombok.extern.slf4j.Slf4j;
 
 @Slf4j
 @RestController
-@RequestMapping(value = "/api")
+@RequestMapping("/api")
 public class TestController {
 	
-	@RequestMapping(value = "/ip")
+	@PostMapping("/ip")
 	public ResponseEntity<String> ip (HttpServletRequest request) {
 		log.info("/api/ip들어갔니");
 		//요청을 보낸 클라이언트 IP 주소 반환

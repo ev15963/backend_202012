@@ -22,6 +22,19 @@
 
 	<dependencies>
 		<dependency>
+			<groupId>org.webjars.bower</groupId>
+			<artifactId>jquery</artifactId>
+			<version>3.3.1 </version>
+		</dependency>
+
+		<dependency>
+			<groupId>org.webjars</groupId>
+			<artifactId>webjars-locator-core</artifactId>
+			<version>0.35</version>
+		</dependency>
+
+
+		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-web</artifactId>
 		</dependency>
@@ -118,14 +131,16 @@
 						<phase>generate-resources</phase> <!-- resource todtjd -->
 						<configuration>
 							<target>
-								<copy todir="${project.basedir}\src\main\resources">  복사할 디렉토리 설정
-									<fileset dir="C:\\frontend_202012\build" />  가져올 디렉토리 및 파일
+								<copy todir="${project.basedir}\src\main\resources">
+									복사할 디렉토리 설정
+									<fileset dir="C:\\frontend_202012\build" />
+									가져올 디렉토리 및 파일
 								</copy>
 							</target>
 						</configuration>
- 						<goals>
- 							<goal>run</goal>  <!-- copy and tlfgod -->
- 						</goals>
+						<goals>
+							<goal>run</goal>  <!-- copy and tlfgod -->
+						</goals>
 					</execution>
 				</executions>
 			</plugin>
