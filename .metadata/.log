@@ -5564,3 +5564,81 @@ java.util.concurrent.TimeoutException
 
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-29 12:35:16.436
 !MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-12-29 12:43:18.352
+!MESSAGE npm WARN tsutils@3.17.1 requires a peer of typescript@>=2.8.0 || >= 3.2.0-dev || >= 3.3.0-dev || >= 3.4.0-dev || >= 3.5.0-dev || >= 3.6.0-dev || >= 3.6.0-beta || >= 3.7.0-dev || >= 3.7.0-beta but none is installed. You must install peer dependencies yourself.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-12-29 12:43:18.388
+!MESSAGE npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@2.1.3 (node_modules\chokidar\node_modules\fsevents):
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-12-29 12:43:18.402
+!MESSAGE npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@2.1.3: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-12-29 12:43:18.424
+!MESSAGE npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@2.2.1 (node_modules\fsevents):
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-12-29 12:43:18.437
+!MESSAGE npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@2.2.1: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-12-29 12:43:18.453
+!MESSAGE npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.13 (node_modules\watchpack-chokidar2\node_modules\fsevents):
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-12-29 12:43:18.466
+!MESSAGE npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.13: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-12-29 12:43:18.483
+!MESSAGE npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.13 (node_modules\webpack-dev-server\node_modules\fsevents):
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-12-29 12:43:18.512
+!MESSAGE npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.13: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2020-12-29 12:43:18.551
+!MESSAGE 
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2020-12-29 12:43:32.074
+!MESSAGE (node:29276) [DEP0148] DeprecationWarning: Use of deprecated folder mapping "./" in the "exports" field module resolution of the package at C:\frontend_202012\node_modules\postcss-safe-parser\node_modules\postcss\package.json.
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2020-12-29 12:43:32.101
+!MESSAGE Update this package.json to use a subpath pattern like "./*".
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2020-12-29 12:43:32.115
+!MESSAGE (Use `node --trace-deprecation ...` to show where the warning was created)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-12-29 12:44:50.417
+!MESSAGE npm WARN tsutils@3.17.1 requires a peer of typescript@>=2.8.0 || >= 3.2.0-dev || >= 3.3.0-dev || >= 3.4.0-dev || >= 3.5.0-dev || >= 3.6.0-dev || >= 3.6.0-beta || >= 3.7.0-dev || >= 3.7.0-beta but none is installed. You must install peer dependencies yourself.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-12-29 12:44:50.540
+!MESSAGE npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@2.1.3 (node_modules\chokidar\node_modules\fsevents):
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-12-29 12:44:50.555
+!MESSAGE npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@2.1.3: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-12-29 12:44:50.626
+!MESSAGE npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@2.2.1 (node_modules\fsevents):
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-12-29 12:44:50.640
+!MESSAGE npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@2.2.1: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-12-29 12:44:50.730
+!MESSAGE npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.13 (node_modules\webpack-dev-server\node_modules\fsevents):
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-12-29 12:44:50.747
+!MESSAGE npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.13: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-12-29 12:44:50.822
+!MESSAGE npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.13 (node_modules\watchpack-chokidar2\node_modules\fsevents):
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-12-29 12:44:50.838
+!MESSAGE npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.13: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2020-12-29 12:44:50.854
+!MESSAGE 
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2020-12-29 12:45:11.348
+!MESSAGE (node:12008) [DEP0148] DeprecationWarning: Use of deprecated folder mapping "./" in the "exports" field module resolution of the package at C:\frontend_202012\node_modules\postcss-safe-parser\node_modules\postcss\package.json.
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2020-12-29 12:45:11.387
+!MESSAGE Update this package.json to use a subpath pattern like "./*".
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2020-12-29 12:45:11.409
+!MESSAGE (Use `node --trace-deprecation ...` to show where the warning was created)
