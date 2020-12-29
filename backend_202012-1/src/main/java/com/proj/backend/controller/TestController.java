@@ -1,9 +1,13 @@
 package com.proj.backend.controller;
 
+import java.util.HashMap;
+import java.util.Map;
+
 import javax.servlet.http.HttpServletRequest;
 
 import org.springframework.http.ResponseEntity;
 import org.springframework.ui.Model;
+import org.springframework.web.bind.annotation.CrossOrigin;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
@@ -19,6 +23,7 @@ import lombok.extern.slf4j.Slf4j;
 @RequestMapping("/api")
 public class TestController {
 	
+	@CrossOrigin(origins="http://localhost:3000")
 	@PostMapping("/ip")
 	public ResponseEntity<String> ip (HttpServletRequest request) {
 		log.info("/api/ip들어갔니");
@@ -32,7 +37,7 @@ public class TestController {
 		
 		return "home";
 	}
-	
+
 	@GetMapping("/hello")
 	public String hello(Model model) {
 		log.info("helloooo");
@@ -42,5 +47,15 @@ public class TestController {
 		model.addAttribute("name", user);
 		
 		return "hello";
+	}
+	
+	@GetMapping("/json")
+	public Map<String, Object> hellow() {
+		log.info("helloooowwwww");
+		Map<String, Object> map = new HashMap<String, Object>();
+		map.put("ID", "아이디");
+		map.put("name", "이름");
+		
+		return map;
 	}
 }
