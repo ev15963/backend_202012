@@ -1,5 +1,6 @@
 package com.proj.backend.controller;
 
+import java.util.Date;
 import java.util.HashMap;
 import java.util.Map;
 
@@ -23,7 +24,7 @@ import lombok.extern.slf4j.Slf4j;
 @RequestMapping("/api")
 public class TestController {
 	
-	@CrossOrigin(origins="http://localhost:3000")
+	@CrossOrigin(origins="http://localhost:3000/**")
 	@PostMapping("/ip")
 	public ResponseEntity<String> ip (HttpServletRequest request) {
 		log.info("/api/ip들어갔니");
@@ -57,5 +58,11 @@ public class TestController {
 		map.put("name", "이름");
 		
 		return map;
+	}
+	
+	@GetMapping("/bye")
+	public String bye(){
+		log.info("byeeeeee");
+	return "안녕하세요. 현재 서버시간은 "+new Date() +"입니다. \n";
 	}
 }
