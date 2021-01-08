@@ -11985,3 +11985,865 @@ Binding(CTRL+SHIFT+C,
 
 !ENTRY org.eclipse.wst.server.core 4 0 2021-01-07 23:47:05.994
 !MESSAGE Server Tomcat v9.0 Server at localhost was unable to start within 45 seconds. If the server requires more time, try increasing the timeout in the server editor.
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-01-08 00:00:52.718
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-01-08 00:00:52.734
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@beac39c[org.springframework.tooling.boot.ls:1.23.0.202010230633(id=673)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-01-08 00:00:52.748
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2021-01-08 00:01:55.004
+!MESSAGE No line style provider for org.eclipse.wst.sse.ST_DEFAULT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2021-01-08 00:01:55.035
+!MESSAGE No line style provider for org.eclipse.wst.sse.UNKNOWN_PARTITION_TYPE
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2021-01-08 00:01:55.196
+!MESSAGE No line style provider for org.eclipse.wst.xml.XML_DEFAULT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2021-01-08 00:01:55.268
+!MESSAGE No line style provider for org.eclipse.wst.xml.XML_CDATA
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2021-01-08 00:01:55.283
+!MESSAGE No line style provider for org.eclipse.wst.xml.XML_DECL
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2021-01-08 00:01:55.301
+!MESSAGE No line style provider for org.eclipse.wst.xml.XML_COMMENT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2021-01-08 00:01:55.322
+!MESSAGE No line style provider for org.eclipse.wst.xml.dtd.internal_subset
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2021-01-08 00:01:55.335
+!MESSAGE No line style provider for org.eclipse.wst.xml.PROCESSING_INSTRUCTION:
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2021-01-08 00:01:55.355
+!MESSAGE No line style provider for org.eclipse.wst.html.SCRIPT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2021-01-08 00:01:55.386
+!MESSAGE No line style provider for org.eclipse.wst.html.SCRIPT.EVENTHANDLER
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-08 00:03:05.571
+!MESSAGE npm WARN tsutils@3.17.1 requires a peer of typescript@>=2.8.0 || >= 3.2.0-dev || >= 3.3.0-dev || >= 3.4.0-dev || >= 3.5.0-dev || >= 3.6.0-dev || >= 3.6.0-beta || >= 3.7.0-dev || >= 3.7.0-beta but none is installed. You must install peer dependencies yourself.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-08 00:03:05.623
+!MESSAGE npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@2.1.3 (node_modules\chokidar\node_modules\fsevents):
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-08 00:03:05.652
+!MESSAGE npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@2.1.3: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-08 00:03:05.672
+!MESSAGE npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@2.2.1 (node_modules\fsevents):
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-08 00:03:05.698
+!MESSAGE npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@2.2.1: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-08 00:03:05.719
+!MESSAGE npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.13 (node_modules\watchpack-chokidar2\node_modules\fsevents):
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-08 00:03:05.744
+!MESSAGE npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.13: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-08 00:03:05.764
+!MESSAGE npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.13 (node_modules\webpack-dev-server\node_modules\fsevents):
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-08 00:03:05.781
+!MESSAGE npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.13: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2021-01-08 00:03:05.794
+!MESSAGE 
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2021-01-08 00:03:39.600
+!MESSAGE (node:35156) [DEP0148] DeprecationWarning: Use of deprecated folder mapping "./" in the "exports" field module resolution of the package at C:\frontend_202012\node_modules\postcss-safe-parser\node_modules\postcss\package.json.
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2021-01-08 00:03:39.639
+!MESSAGE Update this package.json to use a subpath pattern like "./*".
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2021-01-08 00:03:39.660
+!MESSAGE (Use `node --trace-deprecation ...` to show where the warning was created)
+
+!ENTRY org.eclipse.wst.server.core 4 0 2021-01-08 20:20:07.161
+!MESSAGE Server Tomcat v9.0 Server at localhost was unable to start within 45 seconds. If the server requires more time, try increasing the timeout in the server editor.
+
+!ENTRY org.eclipse.wst.server.core 4 0 2021-01-08 21:11:45.516
+!MESSAGE Server Tomcat v9.0 Server at localhost was unable to start within 45 seconds. If the server requires more time, try increasing the timeout in the server editor.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-08 21:49:36.590
+!MESSAGE npm WARN tsutils@3.17.1 requires a peer of typescript@>=2.8.0 || >= 3.2.0-dev || >= 3.3.0-dev || >= 3.4.0-dev || >= 3.5.0-dev || >= 3.6.0-dev || >= 3.6.0-beta || >= 3.7.0-dev || >= 3.7.0-beta but none is installed. You must install peer dependencies yourself.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-08 21:49:36.647
+!MESSAGE npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@2.1.3 (node_modules\chokidar\node_modules\fsevents):
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-08 21:49:36.667
+!MESSAGE npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@2.1.3: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-08 21:49:36.716
+!MESSAGE npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.13 (node_modules\watchpack-chokidar2\node_modules\fsevents):
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-08 21:49:36.729
+!MESSAGE npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.13: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-08 21:49:36.772
+!MESSAGE npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@2.2.1 (node_modules\fsevents):
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-08 21:49:36.792
+!MESSAGE npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@2.2.1: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-08 21:49:36.821
+!MESSAGE npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.13 (node_modules\webpack-dev-server\node_modules\fsevents):
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-08 21:49:36.840
+!MESSAGE npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.13: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2021-01-08 21:49:36.856
+!MESSAGE 
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2021-01-08 21:50:31.624
+!MESSAGE (node:17588) [DEP0148] DeprecationWarning: Use of deprecated folder mapping "./" in the "exports" field module resolution of the package at C:\frontend_202012\node_modules\postcss-safe-parser\node_modules\postcss\package.json.
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2021-01-08 21:50:31.653
+!MESSAGE Update this package.json to use a subpath pattern like "./*".
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2021-01-08 21:50:31.670
+!MESSAGE (Use `node --trace-deprecation ...` to show where the warning was created)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-08 21:57:08.119
+!MESSAGE npm WARN tsutils@3.17.1 requires a peer of typescript@>=2.8.0 || >= 3.2.0-dev || >= 3.3.0-dev || >= 3.4.0-dev || >= 3.5.0-dev || >= 3.6.0-dev || >= 3.6.0-beta || >= 3.7.0-dev || >= 3.7.0-beta but none is installed. You must install peer dependencies yourself.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-08 21:57:08.176
+!MESSAGE npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@2.1.3 (node_modules\chokidar\node_modules\fsevents):
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-08 21:57:08.189
+!MESSAGE npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@2.1.3: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-08 21:57:08.243
+!MESSAGE npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@2.2.1 (node_modules\fsevents):
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-08 21:57:08.256
+!MESSAGE npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@2.2.1: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-08 21:57:08.309
+!MESSAGE npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.13 (node_modules\watchpack-chokidar2\node_modules\fsevents):
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-08 21:57:08.321
+!MESSAGE npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.13: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-08 21:57:08.353
+!MESSAGE npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.13 (node_modules\webpack-dev-server\node_modules\fsevents):
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-08 21:57:08.369
+!MESSAGE npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.13: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2021-01-08 21:57:08.382
+!MESSAGE 
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2021-01-08 21:57:36.645
+!MESSAGE (node:36628) [DEP0148] DeprecationWarning: Use of deprecated folder mapping "./" in the "exports" field module resolution of the package at C:\frontend_202012\node_modules\postcss-safe-parser\node_modules\postcss\package.json.
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2021-01-08 21:57:36.665
+!MESSAGE Update this package.json to use a subpath pattern like "./*".
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2021-01-08 21:57:36.678
+!MESSAGE (Use `node --trace-deprecation ...` to show where the warning was created)
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2021-01-08 21:58:10.943
+!MESSAGE Internal Error
+!STACK 1
+Java Model Exception: Core Exception [code 368] Resource '/backend_202012-1/src/main/resources/templates/static' does not exist.
+	at org.eclipse.jdt.internal.corext.refactoring.reorg.ReorgPolicyFactory$MoveFilesFoldersAndCusPolicy.checkFinalConditions(ReorgPolicyFactory.java:1327)
+	at org.eclipse.jdt.internal.corext.refactoring.reorg.JavaMoveProcessor.checkFinalConditions(JavaMoveProcessor.java:122)
+	at org.eclipse.ltk.core.refactoring.participants.ProcessorBasedRefactoring.checkFinalConditions(ProcessorBasedRefactoring.java:226)
+	at org.eclipse.ltk.core.refactoring.Refactoring.checkAllConditions(Refactoring.java:165)
+	at org.eclipse.jdt.internal.ui.refactoring.RefactoringExecutionHelper$Operation.run(RefactoringExecutionHelper.java:84)
+	at org.eclipse.jdt.internal.core.BatchOperation.executeOperation(BatchOperation.java:41)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.run(JavaModelOperation.java:736)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2292)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2317)
+	at org.eclipse.jdt.core.JavaCore.run(JavaCore.java:5895)
+	at org.eclipse.jdt.internal.ui.actions.WorkbenchRunnableAdapter.run(WorkbenchRunnableAdapter.java:108)
+	at org.eclipse.jface.operation.ModalContext.runInCurrentThread(ModalContext.java:436)
+	at org.eclipse.jface.operation.ModalContext.run(ModalContext.java:352)
+	at org.eclipse.ui.internal.WorkbenchWindow.lambda$7(WorkbenchWindow.java:2353)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:74)
+	at org.eclipse.ui.internal.WorkbenchWindow.run(WorkbenchWindow.java:2351)
+	at org.eclipse.jdt.internal.ui.refactoring.RefactoringExecutionHelper.perform(RefactoringExecutionHelper.java:187)
+	at org.eclipse.jdt.internal.ui.refactoring.RefactoringExecutionHelper.perform(RefactoringExecutionHelper.java:151)
+	at org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMoveStarter.run(ReorgMoveStarter.java:73)
+	at org.eclipse.jdt.internal.ui.packageview.SelectionTransferDropAdapter.handleDropMove(SelectionTransferDropAdapter.java:268)
+	at org.eclipse.jdt.internal.ui.packageview.SelectionTransferDropAdapter.performDrop(SelectionTransferDropAdapter.java:205)
+	at org.eclipse.jdt.internal.ui.dnd.JdtViewerDropAdapter.drop(JdtViewerDropAdapter.java:252)
+	at org.eclipse.jface.util.DelegatingDropAdapter$3.run(DelegatingDropAdapter.java:227)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jface.util.SafeRunnable.run(SafeRunnable.java:174)
+	at org.eclipse.jface.util.DelegatingDropAdapter.drop(DelegatingDropAdapter.java:224)
+	at org.eclipse.swt.dnd.DNDListener.handleEvent(DNDListener.java:94)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4195)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1037)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1061)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1046)
+	at org.eclipse.swt.widgets.Widget.notifyListeners(Widget.java:760)
+	at org.eclipse.swt.dnd.DropTarget.Drop(DropTarget.java:467)
+	at org.eclipse.swt.dnd.DropTarget.Drop_64(DropTarget.java:401)
+	at org.eclipse.swt.dnd.DropTarget$1.method6(DropTarget.java:265)
+	at org.eclipse.swt.internal.ole.win32.COMObject.callback6(COMObject.java:120)
+	at org.eclipse.swt.internal.ole.win32.COM.DoDragDrop(Native Method)
+	at org.eclipse.swt.dnd.DragSource.drag(DragSource.java:373)
+	at org.eclipse.swt.dnd.DragSource.lambda$0(DragSource.java:173)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4195)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1037)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4012)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3612)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1157)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1046)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:644)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:551)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:153)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:150)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:401)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:64)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:657)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
+Caused by: java.lang.Exception: Resource '/backend_202012-1/src/main/resources/templates/static' does not exist.
+	at org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:42)
+	at org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:38)
+	at org.eclipse.core.internal.resources.Resource.checkExists(Resource.java:330)
+	at org.eclipse.core.internal.resources.Resource.checkAccessible(Resource.java:204)
+	at org.eclipse.core.internal.resources.Container.members(Container.java:244)
+	at org.eclipse.core.internal.resources.Container.members(Container.java:231)
+	at org.eclipse.jdt.internal.corext.refactoring.reorg.ReadOnlyResourceFinder.hasReadOnlyResourcesAndSubResources(ReadOnlyResourceFinder.java:134)
+	at org.eclipse.jdt.internal.corext.refactoring.reorg.ReadOnlyResourceFinder.hasReadOnlyResourcesAndSubResources(ReadOnlyResourceFinder.java:121)
+	at org.eclipse.jdt.internal.corext.refactoring.reorg.ReadOnlyResourceFinder.hasReadOnlyResourcesAndSubResources(ReadOnlyResourceFinder.java:57)
+	at org.eclipse.jdt.internal.corext.refactoring.reorg.ReadOnlyResourceFinder.confirmOperationOnReadOnlyElements(ReadOnlyResourceFinder.java:48)
+	at org.eclipse.jdt.internal.corext.refactoring.reorg.ReadOnlyResourceFinder.confirmMoveOfReadOnlyElements(ReadOnlyResourceFinder.java:44)
+	at org.eclipse.jdt.internal.corext.refactoring.reorg.ReorgPolicyFactory$MoveFilesFoldersAndCusPolicy.confirmMovingReadOnly(ReorgPolicyFactory.java:1368)
+	at org.eclipse.jdt.internal.corext.refactoring.reorg.ReorgPolicyFactory$MoveFilesFoldersAndCusPolicy.checkFinalConditions(ReorgPolicyFactory.java:1318)
+	... 65 more
+Caused by: org.eclipse.core.internal.resources.ResourceException(/backend_202012-1/src/main/resources/templates/static)[368]: java.lang.Exception: Resource '/backend_202012-1/src/main/resources/templates/static' does not exist.
+	at org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:42)
+	at org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:38)
+	at org.eclipse.core.internal.resources.Resource.checkExists(Resource.java:330)
+	at org.eclipse.core.internal.resources.Resource.checkAccessible(Resource.java:204)
+	at org.eclipse.core.internal.resources.Container.members(Container.java:244)
+	at org.eclipse.core.internal.resources.Container.members(Container.java:231)
+	at org.eclipse.jdt.internal.corext.refactoring.reorg.ReadOnlyResourceFinder.hasReadOnlyResourcesAndSubResources(ReadOnlyResourceFinder.java:134)
+	at org.eclipse.jdt.internal.corext.refactoring.reorg.ReadOnlyResourceFinder.hasReadOnlyResourcesAndSubResources(ReadOnlyResourceFinder.java:121)
+	at org.eclipse.jdt.internal.corext.refactoring.reorg.ReadOnlyResourceFinder.hasReadOnlyResourcesAndSubResources(ReadOnlyResourceFinder.java:57)
+	at org.eclipse.jdt.internal.corext.refactoring.reorg.ReadOnlyResourceFinder.confirmOperationOnReadOnlyElements(ReadOnlyResourceFinder.java:48)
+	at org.eclipse.jdt.internal.corext.refactoring.reorg.ReadOnlyResourceFinder.confirmMoveOfReadOnlyElements(ReadOnlyResourceFinder.java:44)
+	at org.eclipse.jdt.internal.corext.refactoring.reorg.ReorgPolicyFactory$MoveFilesFoldersAndCusPolicy.confirmMovingReadOnly(ReorgPolicyFactory.java:1368)
+	at org.eclipse.jdt.internal.corext.refactoring.reorg.ReorgPolicyFactory$MoveFilesFoldersAndCusPolicy.checkFinalConditions(ReorgPolicyFactory.java:1318)
+	at org.eclipse.jdt.internal.corext.refactoring.reorg.JavaMoveProcessor.checkFinalConditions(JavaMoveProcessor.java:122)
+	at org.eclipse.ltk.core.refactoring.participants.ProcessorBasedRefactoring.checkFinalConditions(ProcessorBasedRefactoring.java:226)
+	at org.eclipse.ltk.core.refactoring.Refactoring.checkAllConditions(Refactoring.java:165)
+	at org.eclipse.jdt.internal.ui.refactoring.RefactoringExecutionHelper$Operation.run(RefactoringExecutionHelper.java:84)
+	at org.eclipse.jdt.internal.core.BatchOperation.executeOperation(BatchOperation.java:41)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.run(JavaModelOperation.java:736)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2292)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2317)
+	at org.eclipse.jdt.core.JavaCore.run(JavaCore.java:5895)
+	at org.eclipse.jdt.internal.ui.actions.WorkbenchRunnableAdapter.run(WorkbenchRunnableAdapter.java:108)
+	at org.eclipse.jface.operation.ModalContext.runInCurrentThread(ModalContext.java:436)
+	at org.eclipse.jface.operation.ModalContext.run(ModalContext.java:352)
+	at org.eclipse.ui.internal.WorkbenchWindow.lambda$7(WorkbenchWindow.java:2353)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:74)
+	at org.eclipse.ui.internal.WorkbenchWindow.run(WorkbenchWindow.java:2351)
+	at org.eclipse.jdt.internal.ui.refactoring.RefactoringExecutionHelper.perform(RefactoringExecutionHelper.java:187)
+	at org.eclipse.jdt.internal.ui.refactoring.RefactoringExecutionHelper.perform(RefactoringExecutionHelper.java:151)
+	at org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMoveStarter.run(ReorgMoveStarter.java:73)
+	at org.eclipse.jdt.internal.ui.packageview.SelectionTransferDropAdapter.handleDropMove(SelectionTransferDropAdapter.java:268)
+	at org.eclipse.jdt.internal.ui.packageview.SelectionTransferDropAdapter.performDrop(SelectionTransferDropAdapter.java:205)
+	at org.eclipse.jdt.internal.ui.dnd.JdtViewerDropAdapter.drop(JdtViewerDropAdapter.java:252)
+	at org.eclipse.jface.util.DelegatingDropAdapter$3.run(DelegatingDropAdapter.java:227)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jface.util.SafeRunnable.run(SafeRunnable.java:174)
+	at org.eclipse.jface.util.DelegatingDropAdapter.drop(DelegatingDropAdapter.java:224)
+	at org.eclipse.swt.dnd.DNDListener.handleEvent(DNDListener.java:94)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4195)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1037)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1061)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1046)
+	at org.eclipse.swt.widgets.Widget.notifyListeners(Widget.java:760)
+	at org.eclipse.swt.dnd.DropTarget.Drop(DropTarget.java:467)
+	at org.eclipse.swt.dnd.DropTarget.Drop_64(DropTarget.java:401)
+	at org.eclipse.swt.dnd.DropTarget$1.method6(DropTarget.java:265)
+	at org.eclipse.swt.internal.ole.win32.COMObject.callback6(COMObject.java:120)
+	at org.eclipse.swt.internal.ole.win32.COM.DoDragDrop(Native Method)
+	at org.eclipse.swt.dnd.DragSource.drag(DragSource.java:373)
+	at org.eclipse.swt.dnd.DragSource.lambda$0(DragSource.java:173)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4195)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1037)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4012)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3612)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1157)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1046)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:644)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:551)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:153)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:150)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:401)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:64)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:657)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
+!SUBENTRY 1 org.eclipse.core.resources 4 368 2021-01-08 21:58:10.952
+!MESSAGE Resource '/backend_202012-1/src/main/resources/templates/static' does not exist.
+!STACK 0
+java.lang.Exception: Resource '/backend_202012-1/src/main/resources/templates/static' does not exist.
+	at org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:42)
+	at org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:38)
+	at org.eclipse.core.internal.resources.Resource.checkExists(Resource.java:330)
+	at org.eclipse.core.internal.resources.Resource.checkAccessible(Resource.java:204)
+	at org.eclipse.core.internal.resources.Container.members(Container.java:244)
+	at org.eclipse.core.internal.resources.Container.members(Container.java:231)
+	at org.eclipse.jdt.internal.corext.refactoring.reorg.ReadOnlyResourceFinder.hasReadOnlyResourcesAndSubResources(ReadOnlyResourceFinder.java:134)
+	at org.eclipse.jdt.internal.corext.refactoring.reorg.ReadOnlyResourceFinder.hasReadOnlyResourcesAndSubResources(ReadOnlyResourceFinder.java:121)
+	at org.eclipse.jdt.internal.corext.refactoring.reorg.ReadOnlyResourceFinder.hasReadOnlyResourcesAndSubResources(ReadOnlyResourceFinder.java:57)
+	at org.eclipse.jdt.internal.corext.refactoring.reorg.ReadOnlyResourceFinder.confirmOperationOnReadOnlyElements(ReadOnlyResourceFinder.java:48)
+	at org.eclipse.jdt.internal.corext.refactoring.reorg.ReadOnlyResourceFinder.confirmMoveOfReadOnlyElements(ReadOnlyResourceFinder.java:44)
+	at org.eclipse.jdt.internal.corext.refactoring.reorg.ReorgPolicyFactory$MoveFilesFoldersAndCusPolicy.confirmMovingReadOnly(ReorgPolicyFactory.java:1368)
+	at org.eclipse.jdt.internal.corext.refactoring.reorg.ReorgPolicyFactory$MoveFilesFoldersAndCusPolicy.checkFinalConditions(ReorgPolicyFactory.java:1318)
+	at org.eclipse.jdt.internal.corext.refactoring.reorg.JavaMoveProcessor.checkFinalConditions(JavaMoveProcessor.java:122)
+	at org.eclipse.ltk.core.refactoring.participants.ProcessorBasedRefactoring.checkFinalConditions(ProcessorBasedRefactoring.java:226)
+	at org.eclipse.ltk.core.refactoring.Refactoring.checkAllConditions(Refactoring.java:165)
+	at org.eclipse.jdt.internal.ui.refactoring.RefactoringExecutionHelper$Operation.run(RefactoringExecutionHelper.java:84)
+	at org.eclipse.jdt.internal.core.BatchOperation.executeOperation(BatchOperation.java:41)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.run(JavaModelOperation.java:736)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2292)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2317)
+	at org.eclipse.jdt.core.JavaCore.run(JavaCore.java:5895)
+	at org.eclipse.jdt.internal.ui.actions.WorkbenchRunnableAdapter.run(WorkbenchRunnableAdapter.java:108)
+	at org.eclipse.jface.operation.ModalContext.runInCurrentThread(ModalContext.java:436)
+	at org.eclipse.jface.operation.ModalContext.run(ModalContext.java:352)
+	at org.eclipse.ui.internal.WorkbenchWindow.lambda$7(WorkbenchWindow.java:2353)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:74)
+	at org.eclipse.ui.internal.WorkbenchWindow.run(WorkbenchWindow.java:2351)
+	at org.eclipse.jdt.internal.ui.refactoring.RefactoringExecutionHelper.perform(RefactoringExecutionHelper.java:187)
+	at org.eclipse.jdt.internal.ui.refactoring.RefactoringExecutionHelper.perform(RefactoringExecutionHelper.java:151)
+	at org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMoveStarter.run(ReorgMoveStarter.java:73)
+	at org.eclipse.jdt.internal.ui.packageview.SelectionTransferDropAdapter.handleDropMove(SelectionTransferDropAdapter.java:268)
+	at org.eclipse.jdt.internal.ui.packageview.SelectionTransferDropAdapter.performDrop(SelectionTransferDropAdapter.java:205)
+	at org.eclipse.jdt.internal.ui.dnd.JdtViewerDropAdapter.drop(JdtViewerDropAdapter.java:252)
+	at org.eclipse.jface.util.DelegatingDropAdapter$3.run(DelegatingDropAdapter.java:227)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jface.util.SafeRunnable.run(SafeRunnable.java:174)
+	at org.eclipse.jface.util.DelegatingDropAdapter.drop(DelegatingDropAdapter.java:224)
+	at org.eclipse.swt.dnd.DNDListener.handleEvent(DNDListener.java:94)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4195)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1037)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1061)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1046)
+	at org.eclipse.swt.widgets.Widget.notifyListeners(Widget.java:760)
+	at org.eclipse.swt.dnd.DropTarget.Drop(DropTarget.java:467)
+	at org.eclipse.swt.dnd.DropTarget.Drop_64(DropTarget.java:401)
+	at org.eclipse.swt.dnd.DropTarget$1.method6(DropTarget.java:265)
+	at org.eclipse.swt.internal.ole.win32.COMObject.callback6(COMObject.java:120)
+	at org.eclipse.swt.internal.ole.win32.COM.DoDragDrop(Native Method)
+	at org.eclipse.swt.dnd.DragSource.drag(DragSource.java:373)
+	at org.eclipse.swt.dnd.DragSource.lambda$0(DragSource.java:173)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4195)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1037)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4012)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3612)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1157)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1046)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:644)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:551)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:153)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:150)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:401)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:64)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:657)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-08 21:58:58.476
+!MESSAGE npm WARN tsutils@3.17.1 requires a peer of typescript@>=2.8.0 || >= 3.2.0-dev || >= 3.3.0-dev || >= 3.4.0-dev || >= 3.5.0-dev || >= 3.6.0-dev || >= 3.6.0-beta || >= 3.7.0-dev || >= 3.7.0-beta but none is installed. You must install peer dependencies yourself.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-08 21:58:58.524
+!MESSAGE npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@2.1.3 (node_modules\chokidar\node_modules\fsevents):
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-08 21:58:58.537
+!MESSAGE npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@2.1.3: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-08 21:58:58.567
+!MESSAGE npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.13 (node_modules\watchpack-chokidar2\node_modules\fsevents):
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-08 21:58:58.581
+!MESSAGE npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.13: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-08 21:58:58.611
+!MESSAGE npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@2.2.1 (node_modules\fsevents):
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-08 21:58:58.624
+!MESSAGE npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@2.2.1: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-08 21:58:58.643
+!MESSAGE npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.13 (node_modules\webpack-dev-server\node_modules\fsevents):
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-08 21:58:58.656
+!MESSAGE npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.13: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2021-01-08 21:58:58.670
+!MESSAGE 
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2021-01-08 21:59:14.391
+!MESSAGE (node:19004) [DEP0148] DeprecationWarning: Use of deprecated folder mapping "./" in the "exports" field module resolution of the package at C:\frontend_202012\node_modules\postcss-safe-parser\node_modules\postcss\package.json.
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2021-01-08 21:59:14.404
+!MESSAGE Update this package.json to use a subpath pattern like "./*".
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2021-01-08 21:59:14.432
+!MESSAGE (Use `node --trace-deprecation ...` to show where the warning was created)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-08 22:02:41.313
+!MESSAGE npm WARN tsutils@3.17.1 requires a peer of typescript@>=2.8.0 || >= 3.2.0-dev || >= 3.3.0-dev || >= 3.4.0-dev || >= 3.5.0-dev || >= 3.6.0-dev || >= 3.6.0-beta || >= 3.7.0-dev || >= 3.7.0-beta but none is installed. You must install peer dependencies yourself.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-08 22:02:41.350
+!MESSAGE npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@2.1.3 (node_modules\chokidar\node_modules\fsevents):
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-08 22:02:41.365
+!MESSAGE npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@2.1.3: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-08 22:02:41.382
+!MESSAGE npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.13 (node_modules\watchpack-chokidar2\node_modules\fsevents):
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-08 22:02:41.394
+!MESSAGE npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.13: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-08 22:02:41.421
+!MESSAGE npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@2.2.1 (node_modules\fsevents):
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-08 22:02:41.433
+!MESSAGE npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@2.2.1: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-08 22:02:41.455
+!MESSAGE npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.13 (node_modules\webpack-dev-server\node_modules\fsevents):
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-08 22:02:41.468
+!MESSAGE npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.13: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2021-01-08 22:02:41.480
+!MESSAGE 
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2021-01-08 22:02:54.525
+!MESSAGE (node:36676) [DEP0148] DeprecationWarning: Use of deprecated folder mapping "./" in the "exports" field module resolution of the package at C:\frontend_202012\node_modules\postcss-safe-parser\node_modules\postcss\package.json.
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2021-01-08 22:02:54.571
+!MESSAGE Update this package.json to use a subpath pattern like "./*".
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2021-01-08 22:02:54.593
+!MESSAGE (Use `node --trace-deprecation ...` to show where the warning was created)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-01-08 22:14:55.492
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-01-08 22:14:55.508
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@beac39c[org.springframework.tooling.boot.ls:1.23.0.202010230633(id=673)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-01-08 22:14:55.519
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-08 22:18:48.859
+!MESSAGE npm WARN tsutils@3.17.1 requires a peer of typescript@>=2.8.0 || >= 3.2.0-dev || >= 3.3.0-dev || >= 3.4.0-dev || >= 3.5.0-dev || >= 3.6.0-dev || >= 3.6.0-beta || >= 3.7.0-dev || >= 3.7.0-beta but none is installed. You must install peer dependencies yourself.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-08 22:18:48.897
+!MESSAGE npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@2.2.1 (node_modules\fsevents):
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-08 22:18:48.912
+!MESSAGE npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@2.2.1: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-08 22:18:48.929
+!MESSAGE npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.13 (node_modules\watchpack-chokidar2\node_modules\fsevents):
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-08 22:18:48.941
+!MESSAGE npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.13: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-08 22:18:48.958
+!MESSAGE npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.13 (node_modules\webpack-dev-server\node_modules\fsevents):
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-08 22:18:48.971
+!MESSAGE npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.13: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-08 22:18:49.007
+!MESSAGE npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@2.1.3 (node_modules\chokidar\node_modules\fsevents):
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-08 22:18:49.019
+!MESSAGE npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@2.1.3: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2021-01-08 22:18:49.033
+!MESSAGE 
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2021-01-08 22:19:03.426
+!MESSAGE (node:27592) [DEP0148] DeprecationWarning: Use of deprecated folder mapping "./" in the "exports" field module resolution of the package at C:\frontend_202012\node_modules\postcss-safe-parser\node_modules\postcss\package.json.
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2021-01-08 22:19:03.445
+!MESSAGE Update this package.json to use a subpath pattern like "./*".
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2021-01-08 22:19:03.459
+!MESSAGE (Use `node --trace-deprecation ...` to show where the warning was created)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-01-08 22:22:50.003
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-01-08 22:22:50.029
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@beac39c[org.springframework.tooling.boot.ls:1.23.0.202010230633(id=673)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-01-08 22:22:50.043
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-01-08 22:22:57.939
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-01-08 22:22:57.949
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@beac39c[org.springframework.tooling.boot.ls:1.23.0.202010230633(id=673)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-01-08 22:22:57.959
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2021-01-08 22:25:36.969
+!MESSAGE No line style provider for org.eclipse.wst.sse.ST_DEFAULT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2021-01-08 22:25:36.985
+!MESSAGE No line style provider for org.eclipse.wst.sse.UNKNOWN_PARTITION_TYPE
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2021-01-08 22:25:36.996
+!MESSAGE No line style provider for org.eclipse.wst.xml.XML_DEFAULT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2021-01-08 22:25:37.008
+!MESSAGE No line style provider for org.eclipse.wst.xml.XML_CDATA
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2021-01-08 22:25:37.023
+!MESSAGE No line style provider for org.eclipse.wst.xml.XML_DECL
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2021-01-08 22:25:37.036
+!MESSAGE No line style provider for org.eclipse.wst.xml.XML_COMMENT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2021-01-08 22:25:37.060
+!MESSAGE No line style provider for org.eclipse.wst.xml.dtd.internal_subset
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2021-01-08 22:25:37.085
+!MESSAGE No line style provider for org.eclipse.wst.xml.PROCESSING_INSTRUCTION:
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2021-01-08 22:25:37.106
+!MESSAGE No line style provider for org.eclipse.wst.html.SCRIPT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2021-01-08 22:25:37.124
+!MESSAGE No line style provider for org.eclipse.wst.html.SCRIPT.EVENTHANDLER
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2021-01-08 22:28:47.236
+!MESSAGE No line style provider for org.eclipse.wst.sse.ST_DEFAULT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2021-01-08 22:28:47.262
+!MESSAGE No line style provider for org.eclipse.wst.sse.UNKNOWN_PARTITION_TYPE
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2021-01-08 22:28:47.275
+!MESSAGE No line style provider for org.eclipse.wst.xml.XML_DEFAULT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2021-01-08 22:28:47.289
+!MESSAGE No line style provider for org.eclipse.wst.xml.XML_CDATA
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2021-01-08 22:28:47.302
+!MESSAGE No line style provider for org.eclipse.wst.xml.XML_DECL
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2021-01-08 22:28:47.315
+!MESSAGE No line style provider for org.eclipse.wst.xml.XML_COMMENT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2021-01-08 22:28:47.326
+!MESSAGE No line style provider for org.eclipse.wst.xml.dtd.internal_subset
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2021-01-08 22:28:47.339
+!MESSAGE No line style provider for org.eclipse.wst.xml.PROCESSING_INSTRUCTION:
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2021-01-08 22:28:47.354
+!MESSAGE No line style provider for org.eclipse.wst.html.SCRIPT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2021-01-08 22:28:47.365
+!MESSAGE No line style provider for org.eclipse.wst.html.SCRIPT.EVENTHANDLER
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-01-08 22:33:09.191
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-01-08 22:33:09.209
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@beac39c[org.springframework.tooling.boot.ls:1.23.0.202010230633(id=673)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-01-08 22:33:09.222
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-01-08 22:33:15.202
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-01-08 22:33:15.215
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@beac39c[org.springframework.tooling.boot.ls:1.23.0.202010230633(id=673)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-01-08 22:33:15.224
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-01-08 22:33:40.097
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-01-08 22:33:40.110
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@beac39c[org.springframework.tooling.boot.ls:1.23.0.202010230633(id=673)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-01-08 22:33:40.121
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-01-08 22:33:50.605
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-01-08 22:33:50.648
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@beac39c[org.springframework.tooling.boot.ls:1.23.0.202010230633(id=673)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-01-08 22:33:50.663
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-01-08 22:34:35.312
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-01-08 22:34:35.331
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@beac39c[org.springframework.tooling.boot.ls:1.23.0.202010230633(id=673)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-01-08 22:34:35.343
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-08 22:34:44.938
+!MESSAGE npm WARN tsutils@3.17.1 requires a peer of typescript@>=2.8.0 || >= 3.2.0-dev || >= 3.3.0-dev || >= 3.4.0-dev || >= 3.5.0-dev || >= 3.6.0-dev || >= 3.6.0-beta || >= 3.7.0-dev || >= 3.7.0-beta but none is installed. You must install peer dependencies yourself.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-08 22:34:44.995
+!MESSAGE npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@2.1.3 (node_modules\chokidar\node_modules\fsevents):
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-08 22:34:45.008
+!MESSAGE npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@2.1.3: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-08 22:34:45.030
+!MESSAGE npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.13 (node_modules\webpack-dev-server\node_modules\fsevents):
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-08 22:34:45.047
+!MESSAGE npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.13: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-08 22:34:45.080
+!MESSAGE npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@2.2.1 (node_modules\fsevents):
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-08 22:34:45.094
+!MESSAGE npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@2.2.1: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-08 22:34:45.114
+!MESSAGE npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.13 (node_modules\watchpack-chokidar2\node_modules\fsevents):
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-08 22:34:45.139
+!MESSAGE npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.13: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2021-01-08 22:34:45.152
+!MESSAGE 
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2021-01-08 22:35:22.354
+!MESSAGE (node:33492) [DEP0148] DeprecationWarning: Use of deprecated folder mapping "./" in the "exports" field module resolution of the package at C:\frontend_202012\node_modules\postcss-safe-parser\node_modules\postcss\package.json.
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2021-01-08 22:35:22.409
+!MESSAGE Update this package.json to use a subpath pattern like "./*".
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2021-01-08 22:35:22.427
+!MESSAGE (Use `node --trace-deprecation ...` to show where the warning was created)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-01-08 22:38:22.576
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-01-08 22:38:22.587
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@beac39c[org.springframework.tooling.boot.ls:1.23.0.202010230633(id=673)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-01-08 22:38:22.599
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-01-08 22:38:23.439
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-01-08 22:38:23.447
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@beac39c[org.springframework.tooling.boot.ls:1.23.0.202010230633(id=673)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-01-08 22:38:23.458
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2021-01-08 22:42:51.468
+!MESSAGE No line style provider for org.eclipse.wst.sse.ST_DEFAULT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2021-01-08 22:42:51.485
+!MESSAGE No line style provider for org.eclipse.wst.sse.UNKNOWN_PARTITION_TYPE
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2021-01-08 22:42:51.494
+!MESSAGE No line style provider for org.eclipse.wst.xml.XML_DEFAULT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2021-01-08 22:42:51.507
+!MESSAGE No line style provider for org.eclipse.wst.xml.XML_CDATA
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2021-01-08 22:42:51.523
+!MESSAGE No line style provider for org.eclipse.wst.xml.XML_DECL
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2021-01-08 22:42:51.536
+!MESSAGE No line style provider for org.eclipse.wst.xml.XML_COMMENT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2021-01-08 22:42:51.547
+!MESSAGE No line style provider for org.eclipse.wst.xml.dtd.internal_subset
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2021-01-08 22:42:51.560
+!MESSAGE No line style provider for org.eclipse.wst.xml.PROCESSING_INSTRUCTION:
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2021-01-08 22:42:51.572
+!MESSAGE No line style provider for org.eclipse.wst.html.SCRIPT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2021-01-08 22:42:51.584
+!MESSAGE No line style provider for org.eclipse.wst.html.SCRIPT.EVENTHANDLER
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-08 22:44:27.675
+!MESSAGE npm WARN tsutils@3.17.1 requires a peer of typescript@>=2.8.0 || >= 3.2.0-dev || >= 3.3.0-dev || >= 3.4.0-dev || >= 3.5.0-dev || >= 3.6.0-dev || >= 3.6.0-beta || >= 3.7.0-dev || >= 3.7.0-beta but none is installed. You must install peer dependencies yourself.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-08 22:44:27.728
+!MESSAGE npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.13 (node_modules\watchpack-chokidar2\node_modules\fsevents):
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-08 22:44:27.747
+!MESSAGE npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.13: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-08 22:44:27.784
+!MESSAGE npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@2.2.1 (node_modules\fsevents):
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-08 22:44:27.799
+!MESSAGE npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@2.2.1: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-08 22:44:27.834
+!MESSAGE npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@2.1.3 (node_modules\chokidar\node_modules\fsevents):
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-08 22:44:27.847
+!MESSAGE npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@2.1.3: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-08 22:44:27.875
+!MESSAGE npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.13 (node_modules\webpack-dev-server\node_modules\fsevents):
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-08 22:44:27.890
+!MESSAGE npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.13: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2021-01-08 22:44:27.922
+!MESSAGE 
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2021-01-08 22:45:31.837
+!MESSAGE (node:23512) [DEP0148] DeprecationWarning: Use of deprecated folder mapping "./" in the "exports" field module resolution of the package at C:\frontend_202012\node_modules\postcss-safe-parser\node_modules\postcss\package.json.
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2021-01-08 22:45:31.886
+!MESSAGE Update this package.json to use a subpath pattern like "./*".
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2021-01-08 22:45:31.914
+!MESSAGE (Use `node --trace-deprecation ...` to show where the warning was created)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-08 23:09:20.235
+!MESSAGE npm WARN tsutils@3.17.1 requires a peer of typescript@>=2.8.0 || >= 3.2.0-dev || >= 3.3.0-dev || >= 3.4.0-dev || >= 3.5.0-dev || >= 3.6.0-dev || >= 3.6.0-beta || >= 3.7.0-dev || >= 3.7.0-beta but none is installed. You must install peer dependencies yourself.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-08 23:09:20.337
+!MESSAGE npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@2.2.1 (node_modules\fsevents):
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-08 23:09:20.366
+!MESSAGE npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@2.2.1: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-08 23:09:20.435
+!MESSAGE npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.13 (node_modules\watchpack-chokidar2\node_modules\fsevents):
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-08 23:09:20.453
+!MESSAGE npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.13: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-08 23:09:20.529
+!MESSAGE npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@2.1.3 (node_modules\chokidar\node_modules\fsevents):
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-08 23:09:20.542
+!MESSAGE npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@2.1.3: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-08 23:09:20.584
+!MESSAGE npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.13 (node_modules\webpack-dev-server\node_modules\fsevents):
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-08 23:09:20.629
+!MESSAGE npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.13: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2021-01-08 23:09:20.734
+!MESSAGE 
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2021-01-08 23:10:23.310
+!MESSAGE (node:31572) [DEP0148] DeprecationWarning: Use of deprecated folder mapping "./" in the "exports" field module resolution of the package at C:\frontend_202012\node_modules\postcss-safe-parser\node_modules\postcss\package.json.
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2021-01-08 23:10:23.324
+!MESSAGE Update this package.json to use a subpath pattern like "./*".
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2021-01-08 23:10:23.340
+!MESSAGE (Use `node --trace-deprecation ...` to show where the warning was created)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-08 23:13:17.436
+!MESSAGE npm WARN tsutils@3.17.1 requires a peer of typescript@>=2.8.0 || >= 3.2.0-dev || >= 3.3.0-dev || >= 3.4.0-dev || >= 3.5.0-dev || >= 3.6.0-dev || >= 3.6.0-beta || >= 3.7.0-dev || >= 3.7.0-beta but none is installed. You must install peer dependencies yourself.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-08 23:13:17.467
+!MESSAGE npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@2.1.3 (node_modules\chokidar\node_modules\fsevents):
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-08 23:13:17.481
+!MESSAGE npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@2.1.3: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-08 23:13:17.499
+!MESSAGE npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@2.2.1 (node_modules\fsevents):
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-08 23:13:17.509
+!MESSAGE npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@2.2.1: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-08 23:13:17.529
+!MESSAGE npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.13 (node_modules\watchpack-chokidar2\node_modules\fsevents):
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-08 23:13:17.538
+!MESSAGE npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.13: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-08 23:13:17.559
+!MESSAGE npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.13 (node_modules\webpack-dev-server\node_modules\fsevents):
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-08 23:13:17.571
+!MESSAGE npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.13: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2021-01-08 23:13:17.586
+!MESSAGE 
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2021-01-08 23:13:31.883
+!MESSAGE (node:11352) [DEP0148] DeprecationWarning: Use of deprecated folder mapping "./" in the "exports" field module resolution of the package at C:\frontend_202012\node_modules\postcss-safe-parser\node_modules\postcss\package.json.
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2021-01-08 23:13:31.905
+!MESSAGE Update this package.json to use a subpath pattern like "./*".
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2021-01-08 23:13:31.917
+!MESSAGE (Use `node --trace-deprecation ...` to show where the warning was created)
