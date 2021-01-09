@@ -21,11 +21,11 @@ import lombok.extern.slf4j.Slf4j;
 
 @Slf4j
 @RestController
-@RequestMapping//("/api")
+@RequestMapping("/api")
 public class TestController {
 	
-	@CrossOrigin(origins="http://localhost:3000/**")
-	@PostMapping("/ip")
+	@CrossOrigin(origins="*")
+	@GetMapping(value="/ip")
 	public ResponseEntity<String> ip (HttpServletRequest request) {
 		log.info("/api/ip들어갔니");
 		//요청을 보낸 클라이언트 IP 주소 반환
@@ -60,7 +60,7 @@ public class TestController {
 		return map;
 	}
 	
-	@GetMapping("/api/bye")
+	@PostMapping("/bye")
 	public String bye(){
 		log.info("byeeeeee");
 	return "안녕하세요. 현재 서버시간은 "+new Date() +"입니다. \n";
