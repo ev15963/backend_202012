@@ -22,7 +22,7 @@ import lombok.extern.slf4j.Slf4j;
 @Slf4j
 @RestController
 @CrossOrigin(origins="*")
-@RequestMapping("/api")
+//@RequestMapping("/api")
 public class TestController {
 	
 	@GetMapping(value="/ip")
@@ -60,7 +60,7 @@ public class TestController {
 		return map;
 	}
 	
-	@GetMapping("/bye")
+	@GetMapping("/api/bye")
 	public String bye(){
 		log.info("byeeeeee");
 	return "안녕하세요. 현재 서버시간은 "+new Date() +"입니다. \n";
