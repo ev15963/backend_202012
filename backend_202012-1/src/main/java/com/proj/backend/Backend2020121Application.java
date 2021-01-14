@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.CrossOrigin;
 
 @SpringBootApplication
 @EnableAutoConfiguration(exclude = { DataSourceAutoConfiguration.class })
-@CrossOrigin(origins = "*")
+//@CrossOrigin(origins = "*")
 public class Backend2020121Application {
 
 	public static void main(String[] args) {

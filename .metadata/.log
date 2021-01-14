@@ -7191,3 +7191,78 @@ java.lang.InterruptedException
 
 !ENTRY org.eclipse.m2e.logback.appender 4 0 2021-01-13 23:55:41.679
 !MESSAGE (Use `node --trace-deprecation ...` to show where the warning was created)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-01-13 23:56:44.524
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-01-13 23:56:44.538
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@d5b9704[org.springframework.tooling.boot.ls:1.23.0.202010230633(id=673)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-01-13 23:56:44.553
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-01-13 23:59:31.556
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-01-13 23:59:31.574
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@d5b9704[org.springframework.tooling.boot.ls:1.23.0.202010230633(id=673)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-01-13 23:59:31.590
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-01-14 19:09:08.874
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-01-14 19:09:08.888
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@d5b9704[org.springframework.tooling.boot.ls:1.23.0.202010230633(id=673)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-01-14 19:09:08.902
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-01-14 23:54:12.351
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-01-14 23:54:12.384
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@d5b9704[org.springframework.tooling.boot.ls:1.23.0.202010230633(id=673)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-01-14 23:54:12.400
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-01-14 23:54:17.137
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-01-14 23:54:17.147
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@d5b9704[org.springframework.tooling.boot.ls:1.23.0.202010230633(id=673)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-01-14 23:54:17.157
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.eclipse.lsp4e 2 0 2021-01-14 23:54:17.340
+!MESSAGE Javadoc unavailable. Failed to obtain it.
+!STACK 0
+java.lang.InterruptedException
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:385)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2086)
+	at org.eclipse.lsp4e.jdt.LSJavaHoverProvider.getHoverInfo2(LSJavaHoverProvider.java:70)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-01-14 23:54:19.495
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-01-14 23:54:19.529
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@d5b9704[org.springframework.tooling.boot.ls:1.23.0.202010230633(id=673)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-01-14 23:54:19.550
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-01-14 23:54:21.607
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-01-14 23:54:21.730
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@d5b9704[org.springframework.tooling.boot.ls:1.23.0.202010230633(id=673)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-01-14 23:54:21.781
+!MESSAGE SpringBootLanguageServer exists!
