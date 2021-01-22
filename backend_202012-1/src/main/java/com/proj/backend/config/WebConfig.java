@@ -15,12 +15,13 @@ public class WebConfig implements WebMvcConfigurer{
 	 * 
 	 */
 	
-//	@Override
-//	public void addCorsMappings(CorsRegistry registry) {
-//		registry.addMapping("/**")		// 대상 url  ex) ~/api/ip
-//        .allowedOrigins("*")			// 허용하는 localhost port
+	@Override
+	public void addCorsMappings(CorsRegistry registry) {
+		registry.addMapping("/**")		// 대상 url  ex) ~/api/ip
+        //.allowedOrigins("http://localhost:3000/**")
+        .allowCredentials(true);			// 허용하는 localhost port
 //        .allowedMethods("*");	// "GET", "POST"등 메소드 하용
-//	}
+	}
 	
 	@Override
 	public void addResourceHandlers(ResourceHandlerRegistry registry) {
