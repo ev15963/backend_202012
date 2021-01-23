@@ -25,7 +25,7 @@ import lombok.extern.slf4j.Slf4j;
 @RequestMapping("/api")
 public class TestController {
 	
-	@GetMapping("/ip")
+	@PostMapping("/ip")
 	public ResponseEntity<String> ip (HttpServletRequest request) {
 		log.info("/api/ip들어갔니");
 		//요청을 보낸 클라이언트 IP 주소 반환
