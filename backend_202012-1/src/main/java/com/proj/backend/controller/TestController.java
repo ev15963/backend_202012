@@ -1,14 +1,15 @@
 package com.proj.backend.controller;
 
+import java.util.ArrayList;
 import java.util.Date;
 import java.util.HashMap;
+import java.util.List;
 import java.util.Map;
 
 import javax.servlet.http.HttpServletRequest;
 
 import org.springframework.http.ResponseEntity;
 import org.springframework.ui.Model;
-import org.springframework.web.bind.annotation.CrossOrigin;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
@@ -19,7 +20,6 @@ import com.proj.backend.domain.UserVO;
 import lombok.extern.slf4j.Slf4j;
 
 
-//@CrossOrigin(origins="http://localhost:3000")
 @Slf4j
 @RestController
 @RequestMapping("/api")
@@ -60,9 +60,17 @@ public class TestController {
 		return map;
 	}
 	
-	@GetMapping("/bye")
-	public String bye(){
-		log.info("byeeeeee");
-	return "안녕하세요. 현재 서버시간은 "+new Date() +"입니다. \n";
+	@PostMapping("/bye")
+	public List<String> bye(){
+		log.info("현재 서버시간 확인");
+		List<String> map = new ArrayList();
+		Date time = new Date();
+		int hour = time.getHours();
+		int minutes = time.getMinutes();
+		int seconds = time.getSeconds();
+		map.get(hour);
+		map.get(minutes);
+		map.get(seconds);
+	return map;//"현재 서버시간 : " + new Date() + "입니다. \n";
 	}
 }
