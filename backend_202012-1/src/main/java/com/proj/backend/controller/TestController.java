@@ -1,9 +1,7 @@
 package com.proj.backend.controller;
 
-import java.util.ArrayList;
 import java.util.Date;
 import java.util.HashMap;
-import java.util.List;
 import java.util.Map;
 
 import javax.servlet.http.HttpServletRequest;
@@ -61,16 +59,8 @@ public class TestController {
 	}
 	
 	@PostMapping("/bye")
-	public List<String> bye(){
+	public String bye(){
 		log.info("현재 서버시간 확인");
-		List<String> map = new ArrayList();
-		Date time = new Date();
-		int hour = time.getHours();
-		int minutes = time.getMinutes();
-		int seconds = time.getSeconds();
-		map.get(hour);
-		map.get(minutes);
-		map.get(seconds);
-	return map;//"현재 서버시간 : " + new Date() + "입니다. \n";
+	return "현재 서버시간 : " + new Date() + "입니다. \n";
 	}
 }
