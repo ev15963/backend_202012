@@ -58,7 +58,7 @@ public class TestController {
 		return map;
 	}
 	
-	@PostMapping("/bye")
+	@GetMapping("/bye")
 	public String bye(){
 		log.info("현재 서버시간 확인");
 	return "현재 서버시간 : " + new Date() + "입니다. \n";
